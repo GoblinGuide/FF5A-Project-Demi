@@ -3,6 +3,7 @@ Text Document for crosschecking purposes
 Event ID: Event Description
 Text ID: Content
 
+
 0x4c8: Intro
 ; event 0x6c starts at offset 0x373f27
 "Lenna: Father!"
@@ -34,13 +35,15 @@ Text ID: Content
 "Boko, wait here, okay?"
 
 
-???: Naming Bartz
+???: Meeting Lenna
 ; event 0x79 starts at offset 0x374517
 "Hey, are you all right?Lenna: Y-yes... I believe so..."
 
 ; event 0x7a starts at offset 0x37455c
 "Lenna: I give you my thanks. My name is Lenna.And you are...?Me?"
 
+
+???: Naming Bartz
 ; event 0x7b starts at offset 0x3745af
 ": Call me .Me and my chocobo just go wherever the trail leads us...Lenna: ..."
 
@@ -61,3 +64,718 @@ Text ID: Content
 
 ; event 0x81 starts at offset 0x3747f8
 ": Over there!"
+
+
+???: Meeting Galuf
+; event 0x82 starts at offset 0x37480e
+"Lenna: Are you all right?Old Man: Where am I... Oh...my aching head!"
+
+; event 0x83 starts at offset 0x374863
+"Old Man: Sakes alive...what's happened? I don't remember...Ehh...? I can't remember anything!: Looks like you hit yourhead pretty bad... Maybe you got amnesia."
+
+; event 0x84 starts at offset 0x37491d
+"Old Man: Oh! Something came back to me... My name is Galuf!Lenna: That's a start! Anythingelse?Galuf: ......Nope, just the name! Other thanthat, my memory's a blank slate..."
+
+; event 0x85 starts at offset 0x3749eb
+"Lenna: I'm very sorry...but youmust excuse me, I have no time to waste.: Where're you going?Lenna: I must go to the Wind Shrine..."
+
+; event 0x86 starts at offset 0x374a8c
+"Galuf: The Wind Shrine! Now that you mention it, I'm pretty sure that's where I was headed!Galuf: It's decided, I'm going withyou!Lenna: But..."
+
+; event 0x87 starts at offset 0x374b38
+"Galuf: I could never let such a sweet girl go all by her lonesome.Plus, I know I've gotta get to thatshrine...I feel it in my bones. You've gotta take me with!"
+
+; event 0x88 starts at offset 0x374be8
+"Lenna: ,What about you?: ...Sorry, I'm gonna bow out on this one. Good luck, though."
+
+; event 0x89 starts at offset 0x374c53
+"Lenna: ...Thank you again. Farewell...Galuf: Godspeed, and all that whatnot!"
+
+
+???: Earthquake and Goblins
+; event 0x8a starts at offset 0x374cb4
+": Ow!!! Boko! Bad, bad chocobo! What are youdoing, stopping like that!?"
+
+; event 0x8b starts at offset 0x374d08
+": ...Now don't you give me that look.Boko: Kweh! Kweh kweh!"
+
+; event 0x8c starts at offset 0x374d56
+": ...I know, it's just agirl and an old man...And with all those goblins around... Fine, I got it, I got it."
+
+; event 0x8d starts at offset 0x374dd3
+"Lenna: Augh!Galuf: Geh!"
+
+; event 0x8e starts at offset 0x374df9
+": Boko, come on!Boko: Kweh!"
+
+
+???: Reuniting with Lenna and Galuf
+; event 0x8f starts at offset 0x374e25
+"Lenna: Ohhh..."
+
+; event 0x90 starts at offset 0x374e3a
+": G'morning.Lenna: !"
+
+; event 0x91 starts at offset 0x374e61
+"Lenna: It seems I cannot escape being in your debt...: Hey, don't worry about it."
+
+; event 0x92 starts at offset 0x374ec7
+": The shockwave fromthe meteorite's impact causedlandslides... The road's covered in rubble. Idon't think you're gonna be able tomake it to Tule that way."
+
+; event 0x93 starts at offset 0x374f76
+"Lenna: But...if I can't get to the Wind Shrine, then...Galuf: Uhhhh..."
+
+; event 0x94 starts at offset 0x374fcd
+"Galuf: Wind Shrine...gotta hurry...: The old guy's prettydead set on getting there, too..."
+
+; event 0x95 starts at offset 0x37503a
+": All right. I'll go with you and personally see to it that you get there safely!Lenna: Oh! Really?: Yeah! You know, it was my dad's dying wish that I go out and travel the world...Plus, this time, it feels likelike the wind is calling me.Galuf: What a sweet-talker! As ifyou don't just have the hots forthe little missy."
+
+; event 0x96 starts at offset 0x3751b2
+": Wha You're awake?Galuf: Don't sound so surprised.This old dog is always ready foranything!"
+
+; event 0x97 starts at offset 0x375225
+"Galuf: Still, if the road is blocked, that makes things a sight more difficult...: Hrm...Lenna: ..."
+
+; event 0x98 starts at offset 0x3752a5
+"Lenna: I won't give up. There must be a way to reach the Wind Shrine!Galuf: Right! And we'll find it!: All right! Let's ride!"
+
+
+???: Going into Pirate Cave
+; event 0x99 starts at offset 0x37533f
+"Lenna: I don't remember there being a cave here...: Probably opened up during one of those quakes."
+
+; event 0x9a starts at offset 0x3753b6
+": Boko, I think this is gonna be a little too dangerous for chocobos. You stay here, okay?"
+
+; event 0x9b starts at offset 0x37541d
+"Boko: Kweh!"
+
+
+???: Near Pirate Cave Spring
+; event 0x9e starts at offset 0x375455
+": What's that spring?"
+
+
+???: First time using spring
+; event 0x9f starts at offset 0x375473
+"This is a recovery spring.HP and MP restored!All status ailments removed!KO'd allies revived!"
+
+
+???: Switch tutorial
+; event 0xa1 starts at offset 0x375525
+": Aha! So that's how you get in!"
+
+
+???: Ship preview
+; event 0xa2 starts at offset 0x375550
+": That ship just now...How was it sailing with the windso weak?"
+
+
+???: Shipnapping plan
+; event 0xa3 starts at offset 0x37559c
+": This is a pirate hideout...meaning that ship we saw must've been a pirate ship!"
+
+; event 0xa4 starts at offset 0x3755fa
+"Lenna: I wonder if they would give us a ride?"
+
+; event 0xa5 starts at offset 0x375630
+": Um, I think the only ridethey'd be interested in would be a keel-haul for all three of us."
+
+; event 0xa6 starts at offset 0x375699
+"Galuf: Yeah...you can't ask a favorfrom a pirate! That's why we'll just sneak on and steal their ship!"
+
+; event 0xa7 starts at offset 0x37570a
+": Whoa! You're pretty gutsy for an old-timer."
+
+
+???: Meeting Faris and Syldra
+; event 0xaa starts at offset 0x37577a
+": Yo-ho-ho, and stuff!Time to cast off!"
+
+; event 0xac starts at offset 0x375813
+"Galuf: ...Well? "Cast off" meansstart sailing, kid.: I know that! The wheelwon't even budge. How do you workthis thing?"
+
+; event 0xad starts at offset 0x3758a1
+"Try working anything and there'll be the devil to pay!"
+
+; event 0xae starts at offset 0x3758dc
+"Faris: Trying to steal my ship, areyou? You've a lot of brass......or mayhap you're just lacking in brains! I'd wager it's the latter."
+
+; event 0xaf starts at offset 0x375971
+"Lenna: Wait!I am Princess Lenna of Tycoon.Please accept my apologies forattempting to commandeer yourship."
+
+; event 0xb0 starts at offset 0x3759ec
+": Wha? Princess...Galuf: ...of Tycoon!?"
+
+; event 0xb2 starts at offset 0x375c49
+"Lenna: Sir, this is a formal request from the kingdom of Tycoon.Please, allow us the use of your vessel. I must get to the Wind Shrinemy father is in danger!"
+
+; event 0xb3 starts at offset 0x375cf9
+"Faris: Oho, the princess of Tycoon, here on my ship? I'm sure we could fetch a good price for this one.: Hey! Leave her alone,you degenerate, lecherous,piratey...pirate!"
+
+; event 0xb4 starts at offset 0x375dbb
+"Lenna: I beg of you, please..."
+
+; event 0xb5 starts at offset 0x375de0
+"Faris: That pendant...!"
+
+; event 0xb6 starts at offset 0x375dfe
+"Faris: ...Toss the lot of 'em into the brig!Pirates: Aye-aye, Cap'n!"
+
+; event 0xb7 starts at offset 0x375e4f
+"Galuf: Well, this is a finehow-do-you-do.What genius came up with the ideato steal a pirate ship, anyway?"
+
+; event 0xb8 starts at offset 0x375ec7
+": Look in the mirror, Pops."
+
+; event 0xb9 starts at offset 0x375eeb
+"Galuf: ...Ohh, my aching head!I can't remember a thing!: ...And your amnesiaoh-so-conveniently returns."
+
+; event 0xb1 starts at offset 0x375a24
+": Still...I can't believe you're really the princess of Tycoon, Lenna!Lenna: I'm sorry... I didn't intend to keep it a secret.: It's not that big a deal.But, if you're the princess, whywere you going to the Wind Shrineall alone?Lenna: My father is there. He hadn't been gone long when the wind slowed to almost nothing...I just can't shake the feeling that something terrible is happening.I slipped out alone to head to theshrine, but then that meteoritefell, and...you know the rest."
+
+; event 0xba starts at offset 0x375f67
+"Faris: Why does the princess of Tycoon have the same pendant as I do?"
+
+; event 0xbb starts at offset 0x375fb7
+"Faris: She said her father's at the Wind Shrine..."
+
+; event 0xbc starts at offset 0x375ff2
+"Faris: Prepare to cast off, lads.Set a course for the Wind Shrine."
+
+; event 0xbd starts at offset 0x37603d
+"Pirate: But Cap'n... What about thelandlubbers?Faris: Untie 'em."
+
+; event 0xbe starts at offset 0x37608a
+"Faris: I meant, sometime today!"
+
+; event 0xbf starts at offset 0x3760b0
+"Lenna: But...why?Faris: I reconsidered your request.You can go back into the brig ifyou'd rather.Faris: Pull anchor! We sail for the Wind Shrine!Pirates: ...Faris: Hey! Something wrong with your ears? I hope I don't have to repeat myself!"
+
+; event 0xc0 starts at offset 0x3761cb
+"Faris: Well!?Pirates: Aye...aye-aye, Cap'n!"
+
+; event 0xc2 starts at offset 0x376224
+"Lenna: But the wind has stopped... How can the ship move?Faris: Full of curiosity, aren't you,lass?"
+
+; event 0xc3 starts at offset 0x37629a
+"Faris: Syldra! Come up and say hello!"
+
+; event 0xc4 starts at offset 0x3762c8
+"Faris: Beautiful, isn't she? Syldra and I were raised together.We're close as siblings."
+
+; event 0xc1 starts at offset 0x376201
+"Faris: All right, we're off!"
+
+
+???: A useless choice
+; event 0xc5 starts at offset 0x37632a
+"Pirate: Captain, shall I sail 'er to theWind Shrine for ye?"
+
+
+???: First save point
+; event 0x67 starts at offset 0x373e23
+"This is a consecrated circle.You may rest safely in a Tent or Cottage,or even save your game."
+
+
+???: Before Wing Raptor
+; event 0xf0 starts at offset 0x376d64
+": Incoming!"
+
+
+???: After Wing Raptor
+; event 0xf1 starts at offset 0x376d78
+"Lenna: The crystal: It's shattered!"
+
+; event 0xf2 starts at offset 0x376dae
+": What the"
+
+; event 0xf3 starts at offset 0x376dc3
+"       Courage, the essence of flame...       "
+
+; event 0xf4 starts at offset 0x376df6
+"      Devotion, the essence of water...      "
+
+; event 0xf5 starts at offset 0x376e28
+"          Hope, the essence of earth...          "
+
+; event 0xf6 starts at offset 0x376e5e
+"        Passion, the essence of wind...        "
+
+; event 0xf7 starts at offset 0x376e92
+": What...Faris: What's happening?Galuf: Feels warm...Lenna: Are these the crystals'...essences?"
+
+; event 0xf8 starts at offset 0x376f14
+"King Tycoon: Le...nna..."
+
+; event 0xf9 starts at offset 0x376f33
+"Lenna: Father!Faris: !?"
+
+; event 0xfa starts at offset 0x376f59
+"King Tycoon: Listen, and listen well. You four are the chosen ones, the warriors of light...bearers of the four crystal essences.Lenna: Father... What do you mean?"
+
+; event 0xfb starts at offset 0x377013
+"King Tycoon: The wind crystal has already shattered.The other three crystals are in danger as well. You four must protect them!An evil presence is awakening... One that wishes to return everything to darkness..."
+
+; event 0xfc starts at offset 0x3770ff
+"Lenna: Father!"
+
+; event 0xfd starts at offset 0x377114
+"King Tycoon: Go forth, Light Warriors! Save the crystals..."
+
+; event 0xfe starts at offset 0x377156
+"Lenna: Wait No, Father!!!"
+
+; event 0xff starts at offset 0x377176
+"Lenna: ...What are these?: Guess they're piecesof the crystal..."
+
+; event 0x100 starts at offset 0x3771c7
+"Crystal fragments... And stored within, the power ofwarriors of legend...            Knight                          Monk                      Blue Mage                      Thief                     Black Mage                White Mage        "
+
+; event 0x101 starts at offset 0x3772d4
+": The crystal...it's lending us its power..."
+
+; event 0x102 starts at offset 0x37730b
+"Galuf: ...For now, let's get out of here."
+
+; event 0x103 starts at offset 0x37733d
+"Faris: Lenna..."
+
+; event 0x104 starts at offset 0x377353
+"Lenna: ...There should be a warp panel to the outside behind the altar."
+
+
+???: Yeah, no thanks.
+; event 0x105 starts at offset 0x3773a5
+"Would you like an explanation of using the crystal fragments andthe job ability system?"
+
+
+???: Tule first time
+; event 0x10d starts at offset 0x3778dd
+"Pirates: Grog! Grog!"
+
+; event 0x10e starts at offset 0x3778f4
+"Faris: Think I'll stop in and have a drink as well."
+
+
+???: Leaving Tule
+; event 0x110 starts at offset 0x377952
+"Faris: Oho? Trying to give me the slip? I think not."
+
+
+???: Zok's house first time
+; event 0x14a starts at offset 0x37912d
+"Lenna: Mmm...I'm pretty sure thatthis is Zok's house, but..."
+
+; event 0x14b starts at offset 0x379172
+": Someone you know?"
+
+; event 0x14c starts at offset 0x37918e
+"Lenna: Yes. He built the TornaCanal."
+
+
+???: Getting Torna Canal key
+; event 0x14e starts at offset 0x379218
+"Zok: Ohhh, Princess Lenna!Lenna: Zok! It is good to see you."
+
+; event 0x14f starts at offset 0x37925f
+"Zok: Yes... It's been a long time.Lenna: Zok...I have a favor to ask. We must go to Walse, so we need to pass through the Torna Canal.Zok: Oh, dear. Ever since the windcrystal was destroyed, the beasts inthe canal have multiplied like rabbits!It is much too dangerous to enter!"
+
+; event 0x150 starts at offset 0x37938f
+"Zok: Moreover... I-I seem to have lost the key to the canal somewhere..."
+
+; event 0x151 starts at offset 0x3793dc
+"Zok: I'm sorry I cannot help you with the key. Still, since you've come all this way, won't you at least stay the night?"
+
+; event 0x152 starts at offset 0x37945b
+"Zok: Wonderful. Then, follow me!"
+
+; event 0x153 starts at offset 0x37947e
+": The crystals... Nowthat I think of it, they're the reason Dad..."
+
+; event 0x154 starts at offset 0x3794cd
+"The crystals must be protected at anycost!"
+
+; event 0x155 starts at offset 0x3794fc
+"Stellaif anything should happen to me, never tell  about thecrystals...They aren't his burden to bear."
+
+; event 0x156 starts at offset 0x37956f
+"Oh, darling...please, don't say things like that..."
+
+; event 0x157 starts at offset 0x3795a7
+"Lenna: ......Father...I'll protect thecrystals...promise..."
+
+; event 0x158 starts at offset 0x3795ed
+"Zok: What's the matter, ?"
+
+; event 0x159 starts at offset 0x37960b
+": Nothing... I just wasreminded of my folks... They died a while back, though..."
+
+; event 0x15a starts at offset 0x379668
+"Zok: ...Here. Take it.: Huh? Take what?Zok: The key to the canal. With it, you can open the gate and travel to Walse."
+
+; event 0x15b starts at offset 0x3796f0
+"Zok: I was worried about Lenna, so I hidthe key, but..."
+
+; event 0x15c starts at offset 0x37972c
+"Zok: Please! Take care of her!"
+
+
+???: Faris leaving the pirates
+; event 0x15e starts at offset 0x37978f
+"Pirates: Captain! Wait up!"
+
+; event 0x15f starts at offset 0x3797ac
+"Faris: Sorry, lads. I'm leaving you laggards behind."
+
+; event 0x160 starts at offset 0x3797e9
+"Cap'n!But why!?You know we'd follow ye to th' endsof th' earth!"
+
+; event 0x161 starts at offset 0x379835
+"Faris: I know, and I thank you for it. But not this time."
+
+; event 0x162 starts at offset 0x379877
+"Pirates: Cap'n!!!"
+
+; event 0x163 starts at offset 0x37988b
+"Faris: This smells of a longjourney...While I'm gone, I need you louts toguard the hideout. We can't justlet anyone raid our booty!Pirates: But, Cap'n!Faris: Please.Pirates: ..."
+
+; event 0x164 starts at offset 0x37995d
+"Pirates: Aye-aye, sir!"
+
+; event 0x165 starts at offset 0x379976
+"Pirates: Wind at your back, Cap'n.Godspeed!"
+
+
+???: Boat after Tule
+; event 0x166 starts at offset 0x3799a6
+": Lenna, what's wrong?"
+
+; event 0x167 starts at offset 0x3799c5
+"Lenna: The wind crystal hasshattered..."
+
+; event 0x168 starts at offset 0x3799f5
+"Lenna: Right now, the onlydifference is that the wind hasslowed...But soon, it will stop blowingcompletely.And in a few years, the air will grow stagnant, and the birds won't have any place to fly..."
+
+; event 0x169 starts at offset 0x379ad3
+"Lenna: Father said that we had toprotect the three remainingcrystals."
+
+; event 0x16a starts at offset 0x379b23
+": ...Three crystals?Lenna: Yes, the crystals of fire, water, and earth."
+
+; event 0x16b starts at offset 0x379b7d
+": If those were losttoo, then...Lenna: At first, nothing wouldhappen.But it wouldn't be very longbefore the earth began to decay...the seas dirtied and rivers ceasedto flow, fires lost their heat andthe world became dark and cold...It really would become an unlivable world..."
+
+; event 0x16c starts at offset 0x379cb8
+"Galuf: We've gotta protect thecrystals!"
+
+; event 0x16d starts at offset 0x379ce8
+": Huh? Did that triggerany of your memories?"
+
+; event 0x16e starts at offset 0x379d1f
+"Galuf: Nope... Doesn't matter.I'm still gonna help!"
+
+; event 0x16f starts at offset 0x379d5b
+"Faris: Well said, old man. I'mcoming along too."
+
+; event 0x170 starts at offset 0x379d93
+"Faris: Plus, we still have to findLenna's father.: King Tycoon? But he disappeared into thin air."
+
+; event 0x171 starts at offset 0x379e09
+"Faris: He still lives, I feel it in mybones! Never for a moment believeotherwise!"
+
+; event 0x172 starts at offset 0x379e65
+"Lenna: ...Will you come with us?"
+
+; event 0x173 starts at offset 0x379e90
+": Before, I was justcoming along for the ride... But seeing everyone here...Lenna: The crystal shards..."
+
+; event 0x174 starts at offset 0x379f0d
+": We were given power to protect the world...The power of the wind crystal...... ... ...That's it, I'm in!We've got some crystals to save!"
+
+; event 0x175 starts at offset 0x379fb4
+"Galuf: Sure enough! Let's be off!"
+
+
+???: Unlocking canal gate
+; event 0x176 starts at offset 0x379fdc
+"Galuf: ! Where intarnation did you get the key?: Does it matter? Let's get going!"
+
+
+???: Before Karlaboss
+; event 0x178 starts at offset 0x37a060
+": Hey...what's that?Lenna: Oh no...the sealed monster..."
+
+; event 0x179 starts at offset 0x37a0a9
+"Faris: Thundering typhoons!The rudder's not responding!Galuf: You'd better figuresomething out fast, 'cause we'regetting sucked in"
+
+; event 0x17a starts at offset 0x37a142
+"Faris: Syldra, what's wrong!?: Look alive,something's coming!"
+
+
+???: After Karlaboss
+; event 0x17b starts at offset 0x37a192
+"Faris: Syldra!: ...I'm sure she's okay.She's a fighter, and you know it."
+
+; event 0x17c starts at offset 0x37a1ed
+"Faris: Syldra!!!"
+
+; event 0x17d starts at offset 0x37a204
+"Faris: Lemme go! I said, get off! Syldra!!!"
+
+; event 0x17e starts at offset 0x37a238
+": How's Faris?Galuf: As well as can be expected.We should leave him be."
+
+; event 0x17f starts at offset 0x37a292
+": The ship is just drifting with the current...Galuf: Wonder where we'll end up?"
+
+; event 0x180 starts at offset 0x37a2f5
+"Lenna: Faris... Syldra is Surely Syldra is still out there, alive, somewhere...Faris: ..."
+
+; event 0x181 starts at offset 0x37a363
+": Where is this?Faris: The graveyard of the sea...Lenna: A gathering place for ruined and scuttled ships...and a nestfor the undead.Galuf: Brrrrr. All the more reasonto hotfoot it out of here!"
+
+
+???: Ship Graveyard
+; event 0x182 starts at offset 0x37a44a
+"Faris: Do we have to go this way? We'll get soaked...: What, are you going tomelt or something? Come on!"
+
+
+???: Faris' gender revelation
+; event 0x183 starts at offset 0x37a4c7
+": I'm soaked...Yow! There's a fish in my shorts!Lenna: This room seems safeenough... Let's take a rest."
+
+; event 0x184 starts at offset 0x37a543
+"Lenna: I'm going to change into dryclothes... No peeking!"
+
+; event 0x185 starts at offset 0x37a585
+": Okay, time to get dry!"
+
+; event 0x186 starts at offset 0x37a5a6
+"Faris: I'm fine like this...don't worryabout me.Galuf: Are you crazy, boy? You'llcatch pneumonia in those wetthings!"
+
+; event 0x187 starts at offset 0x37a62f
+"Faris: Hey, what're you doing? Get away! Don't touch"
+
+; event 0x188 starts at offset 0x37a66e
+"Lenna: What's all the commotion?"
+
+; event 0x189 starts at offset 0x37a695
+": Yeow! LennathisheGaluf: Oh, my stars and comets!HE'S A SHE!"
+
+; event 0x18a starts at offset 0x37a6ed
+"Faris: Wellmaybe I am!You got a problem with it!?Lenna: Of course not...Just, why were you trying to hideit?"
+
+; event 0x18b starts at offset 0x37a770
+"Faris: When I was just a lader,lass, a pirate band took me in. I'vebeen one of them ever since.: Yeah, so?Faris: Well, would YOU want to bethe only girl on a ship full ofpirates?: ...Ah, right. Yeah."
+
+; event 0x18c starts at offset 0x37a864
+"Galuf: Haw! I knew from thestart that you were too pretty tobe a man! *whew...*"
+
+; event 0x18d starts at offset 0x37a8be
+"Faris: Anyhowmake fun of me for really being a woman and I'llshiver your timbers but good!: Uh...okay...Faris: That's right, it's okay! Now,I'm turning in, and you louts hadbest do the same!"
+
+; event 0x18e starts at offset 0x37a99f
+"Faris: Ahhh, slept like a log!Rise and shine, dullards! Time's a- wasting!"
+
+; event 0x191 starts at offset 0x37aaf5
+"Faris: Hey, old man! That's enough lollygagging from the likes of you! On your feet! Let's go!"
+
+; event 0x18f starts at offset 0x37a9f4
+"Galuf: Bah... If you aren't gonnadress like a girland you should,a real shame to hide such assetsy'could at least talk like one...: Heh... No point intrying to change her... Faris iswho she is!"
+
+; event 0x190 starts at offset 0x37aad4
+"Lenna: That's for certain!"
+
+
+???: Before Siren
+; event 0x192 starts at offset 0x37ab5e
+": Something's fishyabout this place, and it ain't cod..."
+
+; event 0x193 starts at offset 0x37aba1
+"Stella: ... Come closer...: Mom?"
+
+; event 0x194 starts at offset 0x37abd2
+"King Tycoon: Come here, honey...Lenna: Father!"
+
+; event 0x195 starts at offset 0x37ac0f
+"Faris: Lenna!? ...ah..."
+
+; event 0x196 starts at offset 0x37ac31
+"Girl: Grandpa, over here..."
+
+; event 0x197 starts at offset 0x37ac53
+"Galuf: Who's that? I just can't remember..."
+
+; event 0x198 starts at offset 0x37ac87
+"Just let us have your soul...become one of us!"
+
+; event 0x199 starts at offset 0x37acba
+"Galuf: Demon! What are you?Siren: Oho... I didn't expect any of youto escape the effects of my magic...Greetings, I am Siren. I'm afraid yourcompanions' souls now belong to me.Still, I'm feeling generous... I could beconvinced to spare yours if you ran homequietly."
+
+; event 0x19a starts at offset 0x37adde
+"Galuf: You think I would abandon these kids? Fat chance, missy!Siren: Why would you risk your life for these people?Galuf: Because... They're myfriends!"
+
+; event 0x19b starts at offset 0x37ae8f
+"Galuf: Don't be fooled by hertrickery! Open your eyes!"
+
+; event 0x19c starts at offset 0x37aece
+" snaps out of it!Lenna comes to her senses!Faris leaves her trance!"
+
+
+???: After Siren
+; event 0x19d starts at offset 0x37af1a
+": Galuf! You saved us...I owe you my life.Galuf: Ehh, don't sweat it."
+
+; event 0x19e starts at offset 0x37af72
+": Aww, you're blushing!Galuf: I'm doing nothing of the sort!"
+
+
+???: Before Magissa
+; event 0x1c9 starts at offset 0x37c054
+"Lenna: Father's helmet!"
+
+; event 0x1ca starts at offset 0x37c072
+"    Lenna is struck by a poisoned arrow!    "
+
+; event 0x1cb starts at offset 0x37c0a3
+": Lenna!"
+
+; event 0x1cc starts at offset 0x37c0b4
+"Magissa: Ohohoho...I came here after that wind drake, butseems like I've caught something evenmore valuable.: Wait...you'd hunt a wind drake!?Magissa: Of course. Their horns fetchquite a high price on the black market, ohohoho!"
+
+; event 0x1cd starts at offset 0x37c1b6
+"Magissa: And I see I've caught no lessthan the princess of Tycoon! Yes, you'llmake a lovely souvenir for my husband."
+
+; event 0x1ce starts at offset 0x37c231
+"Faris: Let her go, you addle-patedfoul-complexioned scofflaw!"
+
+; event 0x1cf starts at offset 0x37c277
+": Faris!Magissa: Oops, I guess he slipped. Pity."
+
+; event 0x1d0 starts at offset 0x37c2b4
+"Magissa: What!?"
+
+; event 0x1d1 starts at offset 0x37c2c6
+": Lenna!Hang on!"
+
+; event 0x1d2 starts at offset 0x37c2e1
+"Magissa: Ooh... Annoying little twerps, ruining my plans... Fine, it just means I'll have to crush all four of you!"
+
+
+???: After Magissa
+; event 0x1d3 starts at offset 0x37c35b
+"Lenna: Faris, thank you!"
+
+
+???: Obtaining Hiryuu
+; event 0x1d4 starts at offset 0x37c37a
+"Lenna: Hiryu!Faris: He's hurt pretty bad...Lenna: Hiryu... Don't worry, I'll take care of you."
+
+; event 0x1d5 starts at offset 0x37c3f1
+"Faris: Lenna! WhatWhere're you going!?"
+
+; event 0x1d6 starts at offset 0x37c422
+"Lenna: Don't come any closer! I will be fine. Just...must reach the dragon grass..."
+
+; event 0x1d7 starts at offset 0x37c480
+"Lenna: Give the dragon grass toHiryu...quickly..."
+
+; event 0x1d8 starts at offset 0x37c4ba
+"Lenna: Please, get well..."
+
+; event 0x1d9 starts at offset 0x37c4db
+"Galuf: My stars and garters!You're out of your gourd, youngladythat was insanely reckless!"
+
+; event 0x1da starts at offset 0x37c542
+"            Lenna's poisoning is cured!Lenna: Hiryu...thank you!Galuf: Looks like you're both haleand hearty again! Let's saddle up!"
+
+; event 0x1db starts at offset 0x37c5dd
+": ...Actually, I, uh,I don't really like heights..."
+
+; event 0x1dc starts at offset 0x37c61b
+": What's so funny!?Galuf: Your face, kiddo!Anyway, get on!"
+
+
+???: King Walse
+; event 0x206 starts at offset 0x37d301
+"King Walse: Princess Lenna! This is certainly a pleasant surprise!Lenna: King Walse. You look well."
+
+; event 0x207 starts at offset 0x37d371
+"Lenna: I come with a request. Please, stop amplifying the power of the water crystal!King Walse: Ho ho ho...You must be joking. I could never dothat!My people live comfortably thanks to the crystal's power."
+
+; event 0x208 starts at offset 0x37d458
+"Lenna: King Walse, if left as it is, the crystal will shatter!King Walse: Hmm... I have heard about the incident with thewind crystal..."
+
+; event 0x209 starts at offset 0x37d4f3
+"King Walse: However...No evidence proves that the same thingwill happen to the water crystal.Furthermore, I am certain that the people would be opposed to ceasing the crystal's amplification."
+
+; event 0x20a starts at offset 0x37d5c1
+": Look, we don't have time to be arguing over this..."
+
+; event 0x20b starts at offset 0x37d601
+": Holy moly!What's going on!?"
+
+; event 0x20c starts at offset 0x37d629
+"Soldier: It's an emergency! A meteorite fell near the Tower of Walse!King Walse: What!?"
+
+; event 0x20d starts at offset 0x37d689
+"King Walse: There is no time to lose.Assemble the guard! To the tower atonce!Soldier: Yes, sire!"
+
+; event 0x20e starts at offset 0x37d6f2
+"King Walse: Pardon this interruption...I believe you understand the severity ofthe situation. We'll continue this later."
+
+; event 0x20f starts at offset 0x37d771
+"King Walse: Move out!"
+
+
+???: Before Garula
+; event 0x214 starts at offset 0x37d8c1
+"Knight: They're controlling you, aren'tthey! Well, I won't let you destroy the crystal!"
+
+; event 0x215 starts at offset 0x37d91f
+": Uh-ohhere it comes!"
+
+
+???: After Garula
+; event 0x216 starts at offset 0x37d93f
+"Lenna: Look!Faris: The crystal..."
+
+; event 0x217 starts at offset 0x37d96f
+"Lenna: We're too late...Knight: Uhnnn..."
+
+; event 0x218 starts at offset 0x37d9a2
+"Knight: Uhnnn... ...Lord Galuf!"
+
+; event 0x219 starts at offset 0x37d9c6
+"Galuf: ...Me? You know who I am?Knight: Lord Galuf...Couldn't protect it... For-forgive..."
+
+; event 0x21a starts at offset 0x37da2f
+"Galuf: Heystay with me, man!Please, tell me who I am!Knight: Fire crystal...protect...ngh..."
+
+; event 0x21b starts at offset 0x37da9c
+"Faris: The crystal fragments are glowing...: Are they gonnagive us their power, too?"
+
+
+???: Syldra's death
+; event 0x221 starts at offset 0x37dbd1
+": What's going on!?Faris: The towerit's sinking!"
+
+; event 0x222 starts at offset 0x37dc14
+"Faris: Syldra!"
+
+; event 0x223 starts at offset 0x37dc29
+"Faris: Syldra! You're alive!"
+
+; event 0x224 starts at offset 0x37dc4c
+"Lenna: Syldra...You used the last of your strength to save us..."
+
+; event 0x225 starts at offset 0x37dc97
+"Faris: What are you saying? Syldra!You can't die, I won't let you!"
+
+; event 0x226 starts at offset 0x37dce2
+"Lenna: Syldra... Thank you..."
+
+; event 0x227 starts at offset 0x37dd08
+"Faris: ...Syldra..."
