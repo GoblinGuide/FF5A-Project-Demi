@@ -28,6 +28,36 @@ Text ID: Content
 ; event 0x73 starts at offset 0x3741d7
 "King Tycoon: What in blazes...!?"
 
+
 ???: Going into Tycoon Meteor 1st time
 ; event 0x78 starts at offset 0x3744fa
 "Boko, wait here, okay?"
+
+
+???: Naming Bartz
+; event 0x79 starts at offset 0x374517
+"Hey, are you all right?Lenna: Y-yes... I believe so..."
+
+; event 0x7a starts at offset 0x37455c
+"Lenna: I give you my thanks. My name is Lenna.And you are...?Me?"
+
+; event 0x7b starts at offset 0x3745af
+": Call me .Me and my chocobo just go wherever the trail leads us...Lenna: ..."
+
+; event 0x7c starts at offset 0x374615
+"Lenna: This rock suddenly fell from the sky... The impact must have knocked me out.: Guess it's a meteorite.Lenna: A meteorite... I wonder if ithas a connection to the wind stopping?"
+
+; event 0x7d starts at offset 0x3746ec
+"Lenna: Again, I give you my thanks.I wish I could do something more to show my appreciation, but I reallymust go..."
+
+; event 0x7e starts at offset 0x37476e
+": Whoahey, hold up a sec..."
+
+; event 0x7f starts at offset 0x374796
+"Lenna: ...Did you hear something?: Huh?Oohhh..."
+
+; event 0x80 starts at offset 0x3747de
+"Ughhh... Help...me..."
+
+; event 0x81 starts at offset 0x3747f8
+": Over there!"
