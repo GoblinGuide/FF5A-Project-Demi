@@ -1,0 +1,146 @@
+0804CEDC - determines if ! appears
+0804CF02 - determines text
+08053120 - determines description
+bd8 + ID for skills under 0x56
+bcf + ID for skills between 0x56 and 0x7f
+8e4 + ID for skils above 0x80
+df3 + jobID for job descriptions
+game automatically determines the job/level of the ability
+
+pointer table @ 0836dd54 + 10
++ ID*4 to get an offset, add offset to original pointer to get text.
+@ 0x083a894f - Attack text
+b78 + ID for skills under 0x56
+b74 + ID for skills between 0x56 and 0x7f
+90b + ID for skills above 0x80 (equips)
+e0d + jobID for jobs
+
+job names seem to be around 10d0
+
+080d2190 -  text decompressor
+
+083a974a - !Open Fire description (c2e)
+083a9790 - !Bladeblitz description (c30)
+083a97a4 - !Finisher description (C31)
+083a5aef - Lure description (989)
+083a5a76 - ABP Up description (986)
+083a5aa4 - Read Ahead description (987)
+083a5aba - EXP Up description (988)
+083A59Ed - Sprint description
+083ab4f7 - monk description (df4)
+be0 - focus description
+
+0xc2,0x8e - newline?
+
+1 byte per character
+00 - space
+01 - e
+02 - t
+03 - a
+04 - o
+05 - n
+06 - s
+07 - r
+08 - i
+09 - h
+0a - l
+0b - .
+0c - d
+0d - . (terminator?)
+0e - u
+0f - m
+10 - g
+11 - y
+12 - c
+13 - w
+14 - f
+15 - p
+16 - !
+17 - b
+18 - :
+19 - k
+1a - '
+1b - ,
+1c - v
+1d - T
+1e - I
+1f - S
+20 - C
+21 - G
+22 - W
+23 - ?
+24 - F
+25 - L
+26 - -
+27 - B
+28 - P
+29 - M
+2a - K
+2b - H
+2C - A
+2D - D
+2e - E
+2f - R
+30 - x
+31 - O
+32 - Y
+33 - N
+34 - z
+35 - j
+36 - q
+37 - 1
+38 - V
+39 - U
+3a - 2
+3b - X
+3c - J
+3d - * (?)
+3e - "
+3f - 0
+40 - 3
+41 - Z
+42 - 4
+43 - 5
+44 - Q
+45 - 6
+46 - 8
+47 - 7
+48 - %
+49 - 9
+4a - +
+4b - ;
+4c - /
+4e - space
+4f - &
+50 - (
+51 - )
+52 - =
+53 - .
+54 - ..
+55 - japanese period
+56 - -
+57 - 
+58 - 
+59 - 
+5a - 
+5b - 
+5c - 
+5d - 
+5e - 
+5f - 
+60 - 
+61 - 
+62 - 
+63 - 
+64 - 
+65 - 
+66 - 
+67 - 
+68 - 
+69 - 
+6a - 
+6b - 
+6c - 
+6d - 
+6e - 
+6f - 
