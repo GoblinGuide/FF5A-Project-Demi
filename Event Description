@@ -2,3 +2,32 @@ Text Document for crosschecking purposes
 
 Event ID: Event Description
 Text ID: Content
+
+0x4c8: Intro
+; event 0x6c starts at offset 0x373f27
+"Lenna: Father!"
+
+; event 0x6d starts at offset 0x373f40
+"Lenna: Do you really have to go?King Tycoon: You know I do, dear. I need you to protect the castle.Under no circumstances are you tofollow me, do you understand?Lenna: But, Father..."
+
+; event 0x6e starts at offset 0x374027
+"King Tycoon: Something is wrongwith the wind...I must go to the Wind Shrine to make certain nothing's happened to the crystal."
+
+; event 0x6f starts at offset 0x3740be
+"Lenna: Yes...I've noticed it as well. But, to go alone isKing Tycoon: Lenna. Don't worry, I'll be fine. Have faith."
+
+; event 0x70 starts at offset 0x37414e
+"Faris: The wind just...stopped..."
+
+; event 0x71 starts at offset 0x37417c
+"Old Man: I've got to hurry!"
+
+; event 0x72 starts at offset 0x3741a4
+"Lenna: The wind's stopped....Father!"
+
+; event 0x73 starts at offset 0x3741d7
+"King Tycoon: What in blazes...!?"
+
+???: Going into Tycoon Meteor 1st time
+; event 0x78 starts at offset 0x3744fa
+"Boko, wait here, okay?"
