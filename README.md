@@ -6,4 +6,5 @@ TODO:
 2) Remove them.
 3) Implement Project Demi's quality-of-life changes (run speed, encounter toggle, etc.)
 4) Implement Fiesta Mod changes (Cactuar NED is mandatory)
-5) ...if we haven't lost interest yet, let's port Ancient Cave too, I'm mostly joking
+5) If we can implement a "rare encounter only" toggle to save the user from having to quicksave repeatedly, that actually might be a great idea.
+6) ...if we haven't lost interest yet, let's port Ancient Cave too, I'm mostly joking
