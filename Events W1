@@ -779,3 +779,248 @@ Text ID: Content
 
 ; event 0x227 starts at offset 0x37dd08
 "Faris: ...Syldra..."
+
+
+???: Meteorite warp
+; event 0x232 starts at offset 0x37e1ae
+"Lenna: !Galuf: Did he make it? Did he...warp?"
+
+; event 0x233 starts at offset 0x37e1ee
+"Lenna: We won't know until we try!"
+
+; event 0x234 starts at offset 0x37e217
+"Galuf: This...this all looks reallyfamiliar... And the soldier in that tower knew me...Who am I?"
+
+
+???: Karnak
+; event 0x282 starts at offset 0x37ffe5
+"There they are!: ???They're with the monsters! We saw you all crawl from the meteoritedon't tryto deny it!"
+
+
+???: Meeting Cid
+; event 0x283 starts at offset 0x380066
+"Oh, horsefeathers!: !?"
+
+; event 0x284 starts at offset 0x380089
+"Old Man: My great escape, andit's another cell! That's the lastof my explosives, too... Nuts!"
+
+; event 0x285 starts at offset 0x3800f1
+"Old Man: Oh, you kids think that'sfunny, do you?"
+
+; event 0x286 starts at offset 0x38012a
+"Old Man: Ehh...doesn't matter. The name's Cid.Lenna: What? The same ProfessorCid who made those terriblemachines to amplify the crystals?"
+
+; event 0x287 starts at offset 0x3801c8
+"Cid: ...Lenna: Forgive me, that was rude...Cid: No, you don't have to apologize. It's the truth, after all. I'm to blame for everything..."
+
+; event 0x288 starts at offset 0x38026d
+"Cid: It's been years... One day, Ifound an ancient tome in the Library of the Ancients.It said that thousands of yearsago, the crystals held much morepower than they do now.So, I studied the crystals at Tycoon, Walse, and Karnak, and built machines to enhance them...But I was wrong...increasing their power output only caused them to shatter... Oh, it's all my fault!"
+
+; event 0x289 starts at offset 0x380400
+": But why are you lockedup?Cid: I was too late to save the crystals in Tycoon and Walse...Figured I could at least save theone here in Karnak.But when I tried to switch off the machine, they threw me in here."
+
+; event 0x28a starts at offset 0x3804f1
+": So, you're in the sameboat as us...Cid: You're here to protect thecrystal?"
+
+; event 0x28b starts at offset 0x380552
+": Yup! They asked us to!"
+
+; event 0x28c starts at offset 0x380573
+"Cid: What!? A crystal shard...Who are you people!?"
+
+; event 0x28d starts at offset 0x3805ae
+"Chancellor: This is terrible! Oh no!Professor Cid!"
+
+; event 0x28e starts at offset 0x3805e5
+"Cid: What's happened?Chancellor: You were right all along... The crystal's cracked!Cid: What!?Chancellor: I turned off the amplifier, but the crystal's power output has only increased...Cid: The fire-powered ship...Chancellor: Yes? What about it?Cid: Most likely the fire-powered ship is what's leeching power from the crystal.Chancellor: Professor, please. Wecannot do this alone. Please help us!"
+
+; event 0x28f starts at offset 0x3807ad
+"Cid: I need these kids' help as well.Chancellor: What? They were seencoming out of the meteorite. They're incahoots with that werewolf!"
+
+; event 0x290 starts at offset 0x380843
+"Cid: If they can't help, I guess Ican't either."
+
+; event 0x291 starts at offset 0x38087b
+"Chancellor: ...All right, Professor."
+
+; event 0x292 starts at offset 0x3808a2
+"Cid: You're willing to help me, right?"
+
+; event 0x293 starts at offset 0x3808d1
+"Cid: I'll go ahead to the fire-powered ship.It's not exactly a safe place to be...you get ready and meet me there. I'll be waiting!"
+
+
+???: Werewolf
+; event 0x2a7 starts at offset 0x380e4c
+"Soldier: The werewolf!!!"
+
+; event 0x2a8 starts at offset 0x380e67
+"Soldier: Don't let it in!"
+
+; event 0x2a9 starts at offset 0x380e83
+"We scared him off using some of Professor Cid's explosives... But he'll beback, you can count on it."
+
+
+???: Fire ship
+; event 0x2af starts at offset 0x380ff4
+"Cid: Took you long enough!"
+
+; event 0x2b0 starts at offset 0x381015
+"Cid: Just as I suspectedthe ship's engine is what's draining the crystal's power.: The engine?Cid: Yes... If the engine isn't stoppedand quicklythe fire crystal will shatter. Will you go?"
+
+; event 0x2b1 starts at offset 0x3810f5
+"Cid: You can get inside here...butit'll be tough going from here on.The ship's packed with monsters!Good luck, kids... We're counting onyou."
+
+
+???: Before Liquid Flame
+; event 0x2b3 starts at offset 0x3811c5
+"Lenna: Queen Karnak!: What's going on?"
+
+; event 0x2b4 starts at offset 0x3811fc
+"Queen Karnak: Infidels... You shall pay for interfering with my revival!"
+
+
+???: After Liquid Flame
+; event 0x2b5 starts at offset 0x381249
+": Queen Karnak!Queen Karnak: I...I was being controlled by something...an evil spirit... It desiresto envelop everything in darkness...: Your Highness...Queen Karnak: The crystals...it's not just the machines that are destroyingthem...Something evil is using their power to resurrect itself...Please...save the fire crystal. It's in the room just through that pipe..."
+
+; event 0x2b6 starts at offset 0x3813e7
+"Queen Karnak: Do not worry about me. More importantly...protect the crystal..."
+
+
+???: Before Karnak 500
+; event 0x2b7 starts at offset 0x38143a
+"Lenna: The fire crystal!"
+
+; event 0x2b8 starts at offset 0x381459
+"Wolf: Thank goodness, it's still intact!"
+
+; event 0x2b9 starts at offset 0x381484
+"Wolf: Galuf!?"
+
+; event 0x2ba starts at offset 0x381494
+": We won't let you touchthe crystal, werewolf!Wolf: Stand down. I am not your enemy!: I'm not so sure about that!"
+
+; event 0x2bb starts at offset 0x381520
+"Wolf: Galuf, say something! What's happened...is something wrong?Galuf: You know me?Ughhh...Can't remember a thing... Who in blazes am I, anyway..."
+
+; event 0x2bc starts at offset 0x3815c8
+"Wolf: You therewhat have you done!?Sending that much power through the crystal will smash it to smithereens!"
+
+; event 0x2bd starts at offset 0x38163d
+"And this makes three... One more and the seal is broken. Mwah-hahaha!"
+
+; event 0x2be starts at offset 0x381687
+": No good. The switch is broken!"
+
+; event 0x2bf starts at offset 0x3816b2
+"Wolf: Galuf! I'll hold this backyou fourmust escape! Only one chance remains...Save the earth crystal!"
+
+; event 0x2c0 starts at offset 0x381721
+"Wolf: Go! Once the crystal shatters,the whole room will go up in flames!Get out of here, and protect the last crystal with your lives!"
+
+; event 0x2c1 starts at offset 0x3817b2
+": Werewolf!Lenna: We have to help him!"
+
+; event 0x2c2 starts at offset 0x3817e9
+"Wolf: Galuf... You're our only hope..."
+
+; event 0x2c3 starts at offset 0x381814
+"Faris: The flames are dying...: The fire crystal must've lost its power..."
+
+; event 0x2c4 starts at offset 0x381871
+"Lenna: The crystal's shattered...Galuf: Where's the werewolf?: He probably got trappedin the fire...couldn't get out..."
+
+; event 0x2c5 starts at offset 0x381903
+"Lenna: We have to hurry!"
+
+; event 0x2c6 starts at offset 0x381922
+"Lenna: The castle was held together by the power of the fire crystal!: Hold upso now that the crystal's gone, the castle's gonna blow!?"
+
+; event 0x2c7 starts at offset 0x3819c4
+"Lenna: Exactly! We've no time to lose!"
+
+; event 0x2c8 starts at offset 0x3819f3
+"Time left before detonation:                         10 minutes!"
+
+
+???: After Karnak 500
+; event 0x2c9 starts at offset 0x381a3a
+": Crystal shards...Lenna: Will you lend us your power as well?"
+
+; event 0x2ca starts at offset 0x381a8b
+"                         Beastmaster"
+
+; event 0x2cb starts at offset 0x381ab4
+"                           Geomancer"
+
+; event 0x2cc starts at offset 0x381add
+"                               Ninja"
+
+
+???: Before Ifrit
+; event 0x2fc starts at offset 0x3828b3
+"Ifrit: I am Ifrit... For many years I have existed, sealed within the pages of this book..."
+
+; event 0x2fd starts at offset 0x382915
+"Only those who can withstand my flames will be granted the privilege of summoning me!"
+
+
+???: After Ifrit
+; event 0x2fe starts at offset 0x382971
+"   Received the summoned monster Ifrit!   "
+
+
+???: Asshole bookcase
+; event 0x2fa starts at offset 0x382862
+"Bookshelf: Bwah-ha-ha! None shall pass!"
+
+; event 0x2fb starts at offset 0x38288c
+"Bookshelf: GahIfrit! S-sorry, sir!"
+
+
+???: Before Byblos
+; event 0x2ff starts at offset 0x3829a0
+": What's that?Lenna: Mid?Galuf: Stay on your toes! I have abad feeling about this place."
+
+
+???: After Byblos
+; event 0x300 starts at offset 0x382a13
+"Scholar: Mid! There you are!"
+
+; event 0x301 starts at offset 0x382a32
+"Mid: Huh? I told you not to botherme when I'm reading!: Don't tell me youwere engrossed in that book thewhole time!?Mid: What whole time?Now that you mention it, I didhear some rustling behind me...Oh, was that you?"
+
+; event 0x302 starts at offset 0x382b30
+": !?Lenna: ...!?Galuf: You've gotta be kidding.Faris: A strange bird, this one..."
+
+; event 0x303 starts at offset 0x382ba2
+"Mid: Whatever...guess it's time to go back, huh? You guys coming too? I know a shortcut."
+
+; event 0x304 starts at offset 0x382c05
+"Scholar: Mid! You're all right!Scholar: Thank you for finding Mid!Scholar: Thank goodness you're back!"
+
+; event 0x305 starts at offset 0x382c76
+"Mid: Huh? You came to save me?"
+
+; event 0x306 starts at offset 0x382c9d
+"Mid: I dunno what I needed to besaved from, but it was nice of youanyway.Oh yeah! Look at this!"
+
+; event 0x307 starts at offset 0x382d09
+"Mid: I found the most amazing book!Check it out... I bet with this method, we could repower thefire-powered ship!"
+
+; event 0x308 starts at offset 0x382d8b
+"Mid: I've gotta tell Grandpa Cidabout it right away!: Cid?Mid: Oh, you know of him? He's mygrandfather."
+
+; event 0x309 starts at offset 0x382e0f
+"Mid: Grandpa is so awesome!When he's researching, he'sunstoppablehe never gives up until he's found the solution!"
+
+; event 0x30a starts at offset 0x382e91
+"Faris: Maybe that's how he was in the past, but now...Mid: What're you talking about?"
+
+; event 0x30b starts at offset 0x382ef7
+"Faris: I'm just saying... He sure isacting like he's given up now...Mid: What!? He would never do that!"
+
+; event 0x30c starts at offset 0x382f71
+"Lenna: WaitMid!"
+
