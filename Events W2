@@ -1,1 +1,536 @@
-placeholder until I start
+???: Arriving in W2
+; event 0x453 starts at offset 0x389bd9
+": This...Lenna: This is Galuf's world...?"
+
+???: Between fights on Pao Island
+; event 0x480 starts at offset 0x38acab
+"Lenna: Shall we put up a tent and rest for a while?"
+
+???: After using a tent on Pao Island
+; event 0x47b starts at offset 0x38aad3
+"Faris: ...Lenna... There's something I've been wondering about...It was way back when we were onNorth Mountain... Why'd you riskyour life just to save that drake?"
+
+; event 0x47c starts at offset 0x38ab8a
+"Lenna: Sister...Do you remember Mother?Faris: Eh? ...Mmm, a little...Lenna: Whenever I see Hiryu, I'm reminded of her...Faris: How do you mean?"
+
+; event 0x47d starts at offset 0x38ac3e
+": Monster! Look out!"
+
+; event 0x47e starts at offset 0x38ac5b
+": Lenna! Faris!!!"
+
+???: If you win the Abductor fight, when you open the chest
+; event 0x47f starts at offset 0x38ac75
+": Aughgas!I...I can't feel my legs..."
+
+???: After Abductor fight, giant mirror to Galuf getting items
+; event 0x481 starts at offset 0x38ace7
+": Ugh... Where are we?"
+
+; event 0x482 starts at offset 0x38ad06
+"Exdeath: Mwa-ha-ha... Welcome to my castle!"
+
+; event 0x483 starts at offset 0x38ad3a
+": Exdeath!"
+
+; event 0x484 starts at offset 0x38ad4d
+"Monster: Lord Exdeath! Galuf and the others have made it to Big Bridge."
+
+; event 0x485 starts at offset 0x38ad99
+"Exdeath: Fortuitous timing...Prepare the giant mirror!Monster: Yes, my lord!"
+
+; event 0x486 starts at offset 0x38adf2
+"Exdeath: Perhaps I should thankyou... You are about to becomequite useful to me!"
+
+; event 0x487 starts at offset 0x38ae4d
+"Lenna: ! Look, up inthe sky!: A bird...? No, waitit's our reflections!"
+
+; event 0x488 starts at offset 0x38aeac
+"Krile: Grandpa, look!Galuf: ! Lenna! Faris!What in blazes is going on?"
+
+; event 0x489 starts at offset 0x38af05
+"Exdeath: That's far enough,Galuf! One more step and they die!"
+
+; event 0x48a starts at offset 0x38af4d
+"Galuf: Hell's bells! Everybody, fall back!"
+
+; event 0x48b starts at offset 0x38af80
+"Exdeath: Gilgamesh."
+
+; event 0x48c starts at offset 0x38af9a
+"Gilgamesh: Sir!Exdeath: Watch them. See that they don't try anything."
+
+; event 0x48d starts at offset 0x38aff0
+": Exdeath! You..."
+
+; event 0x48e starts at offset 0x38b00a
+": Argh!"
+
+; event 0x48f starts at offset 0x38b01a
+"Galuf: Krile, I'm borrowing your wind drake. and the others need my help!"
+
+; event 0x490 starts at offset 0x38b074
+"Galuf: Release the wind drake!Soldiers: Yes sir!"
+
+; event 0x491 starts at offset 0x38b0af
+"Galuf: Thanks, boy. Now go back to Krile, okay?"
+
+; event 0x492 starts at offset 0x38b0e7
+"Galuf: So...this is the place?"
+
+; event 0x493 starts at offset 0x38b10c
+"      Received 's items and the                           crystal shards!  "
+
+; event 0x494 starts at offset 0x38b15e
+"Galuf: , Lenna, Faris...hold on! I'm coming!"
+
+
+???: Before solo Galuf Gilgamesh fight
+; event 0x496 starts at offset 0x38b1b9
+"Gilgamesh: Who goes there?"
+
+???: after solo Galuf Gilgamesh fight, party gets back together
+; event 0x497 starts at offset 0x38b1da
+": Galuf!Galuf: Sit tight and I'll have youout of there in a jiffy."
+
+; event 0x498 starts at offset 0x38b22f
+"Faris: Thanks, old man.: Sorry for messing up your plans... We just wantedGaluf: Whatever! I'll verballyberate you later, after we'veblown this pop stand!"
+
+???: inexplicably, Bartz eats floor to dodge two dudes Galuf just walked past
+; event 0x495 starts at offset 0x38b195
+"Whoa! Better not let them see me."
+
+???: Big Bridge intro
+; event 0x4a0 starts at offset 0x38b5e5
+"Galuf: From here on, it's monstersall the way! Stay on your toes!"
+
+???: Gilgamesh behind the door
+; event 0x499 starts at offset 0x38b2ea
+"Gilgamesh: Ha ha! Guess who'sbeen waiting behind this door thewhole time? Yes, it's me!Took you long enough, too... I wasjust getting worried you mighthave gotten lost!Anyway! It's go time!"
+
+???: Midbattle text between Gilgamesh buffing up, if we want to remove it
+; event 0xaa1 starts at offset 0x3a6eea
+"I suppose I misjudged!"
+
+; event 0xaa2 starts at offset 0x3a6f01
+"Fighting all four of you..."
+
+; event 0xaa3 starts at offset 0x3a6f1d
+"...is just too tough for me..."
+
+; event 0xaa4 starts at offset 0x3a6f3c
+"...NOT! Ha, I lied! Like a rug! Oh, I kill me!"
+
+???: end of the Big Bridge, arrival in middle of nowhere
+; event 0x49a starts at offset 0x38b3bc
+"Galuf: Krile!Krile: Grandpa!The barrierlook out!!!"
+
+; event 0x49b starts at offset 0x38b401
+"Krile: Grandpa!!!"
+
+; event 0x49d starts at offset 0x38b4f3
+"Faris: Any idea where this is?"
+
+; event 0x49e starts at offset 0x38b518
+"Galuf: Yeah... This has gotta beGloceana...the back of beyond!Crawling with monsters, too.Figures we'd be thrown someplace like this..."
+
+; event 0x49c starts at offset 0x38b419
+": Galuf...  Sorry aboutall this. I mean, we came to helpyou, but you ended up helping us...Galuf: As usual! I meant it, yanno, you really didn't have to come... Meddlesome bums, the lot of you."
+
+!!!note the order here - these lines really do go decf
+
+; event 0x49f starts at offset 0x38b5b0
+"Galuf: Still...it's good to see you again."
+
+???: event from using the free Regole inn, because why not get rid of it
+; event 0x4ad starts at offset 0x38b8f4
+": Where'd Galuf go?"
+
+; event 0x4ae starts at offset 0x38b910
+"Galuf: Ahh...now that's the stuff!Finally, a chance to try the famed Regole brew! Kinda burns a pathdown your throat!"
+
+; event 0x4af starts at offset 0x38b994
+"Galuf: Oh, ! What's up?: Couldn't sleep...Galuf: Mmm. Come on, pull up achair."
+
+; event 0x4b0 starts at offset 0x38b9ff
+": Galuf...I'm sorry.If we hadn't butted in, you'd have been able to get into Exdeath's castle..."
+
+; event 0x4b1 starts at offset 0x38ba70
+"Galuf: Nah, even if we had gotten in, the barrier would've destroyed us... I hadn't the slightest inkling it'd been finished.In fact, it's only thanks to you that we weren't all crushed!: Galuf..."
+
+; event 0x4b2 starts at offset 0x38bb53
+"Galuf: ... You knew that once you came here, you could never return. So why'd you do it?: ...No particular reason."
+
+; event 0x4b3 starts at offset 0x38bbdc
+"Galuf: ..."
+
+; event 0x4b4 starts at offset 0x38bbef
+"Galuf: Thanks."
+
+; event 0x4b5 starts at offset 0x38bc04
+": Hey,don't worry about it."
+
+???: Moogle Forest
+; event 0x4c6 starts at offset 0x38bf9a
+"Galuf: What's a moogle doing in aplace like this?: Moogle?"
+
+; event 0x4c7 starts at offset 0x38bfe7
+"Galuf: Strange little critters that live in the forest.They're pretty timid, though, so you don't see them that often."
+
+; event 0x4c8 starts at offset 0x38c06c
+"Lenna: Let's help it!"
+
+???: Moogle River, before Tyrannosaur fight
+; event 0x4c9 starts at offset 0x38c088
+"Lenna: Be careful, Mr. Moogle!"
+
+???: Moogle, after Tyrannosaur fight
+; event 0x4cc starts at offset 0x38c0d8
+"Lenna: Oh, you must have been so scared... It's okay now, don't worry. Come closer!Moogle: Kupo..."
+
+; event 0x4cd starts at offset 0x38c149
+"Lenna: It's all right now!Moogle: Kupo kupo!"
+
+; event 0x4ce starts at offset 0x38c180
+"Moogle: Kupopo!"
+
+; event 0x4cf starts at offset 0x38c192
+": What's going on?Lenna: I think he's asking us tofollow him."
+
+???: Moogle Forest, first chat with moogle
+; event 0x4d0 starts at offset 0x38c1e2
+"Lenna: Look, it's the moogle we helped!"
+
+???: Moogle Forest, dialogue on using costume
+; event 0x4d3 starts at offset 0x38c2a0
+": A moogle...costume!?"
+
+; event 0x4d4 starts at offset 0x38c2c1
+"Try it on?"
+
+???: Moogle Forest exit, aka Bal arrival, it's a big one
+; event 0x4d6 starts at offset 0x38c2e5
+"Galuf: Hmm? What's it doing?"
+
+; event 0x4d7 starts at offset 0x38c308
+"Krile: What's going on? Why are you so excited?Moogle: Kupo!!!"
+
+; event 0x4d8 starts at offset 0x38c353
+"Soldier: What's happened?Krile: It's Grandpahe's in the moogle village!Soldier: ?Krile: Moogles can all communicate through telepathy.Even when they're far apart, they can keep in contact with their minds...Soldier: The moogle village... That's pretty far from here.Krile: Yes... Plus, the wind drake is too tired to fly."
+
+; event 0x4d9 starts at offset 0x38c4c9
+"Wind Drake: Mrrrrrr..."
+
+; event 0x4da starts at offset 0x38c4e2
+"Krile: So that means...? I see....Thank you."
+
+; event 0x4db starts at offset 0x38c517
+"Krile: He says he can gobut only once!Soldier: If you're certain it's all right..."
+
+; event 0x4dc starts at offset 0x38c578
+": What's going on?Moogle: Kupopopo!"
+
+; event 0x4dd starts at offset 0x38c5a8
+": Huh? Nose?"
+
+; event 0x4de starts at offset 0x38c5bd
+"Krile: Gee, where is the moogles' forest anyway?"
+
+; event 0x4df starts at offset 0x38c5f6
+"Moogle: Kupopo!Krile: Hmm? At the nose?"
+
+; event 0x4e0 starts at offset 0x38c628
+"Moogle: Kuku popo!"
+
+; event 0x4e1 starts at offset 0x38c63d
+"Galuf: Krile!"
+
+; event 0x4e2 starts at offset 0x38c651
+"Krile: Grandpa!"
+
+; event 0x4e3 starts at offset 0x38c667
+"Galuf: How did you find us?Krile: The moogles told me you were here!"
+
+; event 0x4e4 starts at offset 0x38c6bc
+"Krile: Grandpa, we should hurryback to the castle!"
+
+; event 0x4e5 starts at offset 0x38c6f7
+"Krile: I'll take the wind drake back to his roost so he can rest, okay?"
+
+; event 0x4e6 starts at offset 0x38c747
+"Soldier: King Galuf!"
+
+; event 0x4e7 starts at offset 0x38c75e
+"Galuf: Thanks for holding down the fort while I was gone.Soldier: King Galuf!"
+
+; event 0x4e8 starts at offset 0x38c7b8
+"Galuf: What's the situation with Exdeath?Soldier: There's been no activity since the barrier went up.Galuf: I see... And our troops?Soldier: They've been almost entirely wiped out by Exdeath's monsterhordes...Galuf: ...Soldier: I'm sorry, sire."
+
+; event 0x4e9 starts at offset 0x38c8d7
+": Eh? I thought you werejust some crazy old manyou neversaid anything about being a king!Galuf: ...Well, you know!"
+
+; event 0x4ea starts at offset 0x38c960
+": This sure is a surpriseand a half!"
+
+; event 0x4eb starts at offset 0x38c98f
+"Galuf: Good job, men. Go get somerest.Soldier: Yes, sire!"
+
+; event 0x4ec starts at offset 0x38c9d5
+"Galuf: , what is it?You've still got that funny lookon your face.: It's youa king! I stillcan't get over it, that's all!Galuf: What, you saying I'm notthe epitome of kingliness?"
+
+; event 0x4ed starts at offset 0x38caab
+"Galuf: What!?"
+
+; event 0x4ee starts at offset 0x38cabf
+": Just kidding!I'd just better mind my P's and Q'saround you...King Galuf.Galuf: ..."
+
+; event 0x4ef starts at offset 0x38cb28
+"Galuf: Listen upbefore youknew me as a king, you knew me asa friend. Just "Galuf" is fine.: Understood, Just Galuf!Galuf: ...Don't push it, kid. Here inBal, bad jokes like that will getyou PUNished...: *groan*Galuf: Haw haw haw!"
+
+???: talk with Krile on the roof before Quelb
+; event 0x502 starts at offset 0x38d196
+"Krile: ...Lenna: Krile?"
+
+; event 0x503 starts at offset 0x38d1bc
+"Krile: The wind drake... He's dying...Lenna: What?Faris: What happened?"
+
+; event 0x504 starts at offset 0x38d21c
+"Krile: He pushed himself too hard... He was wounded, and shouldn't have been flying, but...He took me to find you.Galuf: He sacrificed himself to save us.Faris: Is there any way for us tosave him?Krile: ...Lenna: We'd need dragon grass..."
+
+; event 0x505 starts at offset 0x38d33d
+"Krile: Dragon grass? Will thatheal his wounds?Lenna: Yes. However...does such a thing even exist in this world?Faris: Back home, wind drakes always nest near dragon grass. I expect these drakes act the same.If we go to where drakes roost, we ought to find dragon grass nearby.Galuf: Hmm, if that's the case, then...: Well? Where do we need to go?Galuf: Our best bet is Drakenvale...the old valley of wind drakes. However, no one who's entered hasever returned..."
+
+; event 0x506 starts at offset 0x38d554
+": Guess that means we'llbe the first who do!"
+
+; event 0x507 starts at offset 0x38d58b
+"Krile: !"
+
+; event 0x508 starts at offset 0x38d59c
+"Galuf: Drakenvale is north of the castle.It's just past Quelb, thewerewolf town."
+
+; event 0x509 starts at offset 0x38d5fb
+"Krile: But what about the monsters outside? There are so many of them!Galuf: No worriesnot if we're allon the offensive!: Right!Lenna: Together, we'll be all right.Faris: And we'll bring back thatdragon grass, never you fear!"
+
+???: after leaving Bal, before Abductor fight
+; event 0x50c starts at offset 0x38d740
+"Galuf: Open the gates!Soldier: But sire! Exdeath's monsters are waiting right outside...Galuf: Once we're clear, shut the doors and seal them tight!Soldier: Sire! If we do that, you won't be able to reenter the castle!Are you certain that's what you want?"
+
+; event 0x50d starts at offset 0x38d862
+"Galuf: All right! Now close thegate and seal it. Don't let anyone inside, no matter what!Soldier: If you so command...Soldier: Take care, Your Majesty!"
+
+; event 0x50e starts at offset 0x38d90c
+"Galuf: Yipes...didn't take long forExdeath's creeps to get here... On your toes, kids, here they come!"
+
+???: Kelger cutscene
+; event 0x511 starts at offset 0x38da47
+"Halt! You have encroached far enough!"
+
+; event 0x512 starts at offset 0x38da6f
+": Hrn... Well, if it's a fight you want, thenGaluf: , calm down! They're our allies!Faris: If our allies are pointing blades at us, I certainly don't wantto meet our enemies!"
+
+; event 0x513 starts at offset 0x38db42
+"Kelger: Oh, Galuf!Galuf: Kelger!Kelger: It's been quite a while, has it not?Galuf: Sure has! Ah, Kelger here'sone of the four Dawn Warriors.: He fought Exdeath with you, thirty years ago?"
+
+; event 0x514 starts at offset 0x38dc2c
+"Kelger: Who are the younglings?Galuf: Folks from the world where we sealed Exdeath.Kelger: Friends of Exdeath!?"
+
+; event 0x515 starts at offset 0x38dcb4
+": Huh!? WaitKelger: These cads are the ones who destroyed the crystals and brought Exdeath back...and you've led them here!?"
+
+; event 0x516 starts at offset 0x38dd49
+"Galuf: You've got it all wrong, listenKelger: Stand down, Galuf!"
+
+; event 0x517 starts at offset 0x38dd9c
+"Kelger: , or whoever you areprepare yourself! I wouldtest your blade!: !?Galuf: Kelger...Kelger: Crony of Exdeath or noshow me what kind of man you really are!"
+
+; event 0x518 starts at offset 0x38de6a
+": No...stay back.I've gotta settle this man-to-man."
+
+; event 0x519 starts at offset 0x38dea8
+"Kelger: Hah! Let's see how you handle my lupine attack!!!"
+
+; event 0x51a starts at offset 0x38deea
+": There you are!"
+
+; event 0x51b starts at offset 0x38df03
+"Galuf: !I told you not to hurt him!"
+
+; event 0x51c starts at offset 0x38df31
+": Sorry about that,Kelger.Galuf: Hell's bells, Kelger, always overdoing it! Why don't you act your age, for once!Kelger: Still...to foil mylupine attack so easily... You're more skilled than you seem.: Nah. It's just a trick I learned from my dad.Kelger: From your father? What was his name?: Dorgann."
+
+; event 0x51d starts at offset 0x38e0a1
+": What? What're you making those faces for?Galuf: No way...you can't be...Kelger: Dorgann's son...: Um, Dad's name was Dorgann, and I'm his son, so... What's going on?"
+
+; event 0x51e starts at offset 0x38e171
+"Galuf: Well! Small worlds we live in, huh? , your father, along withme, Kelger, and Xezat Surgatewefought together against Exdeath.Kelger: Dorgann was one of thefour Dawn Warriors."
+
+; event 0x51f starts at offset 0x38e244
+": Wait...Dad's from this world!?Kelger: Correct.: ...Galuf: We followed Exdeath to your world, and then..."
+
+; event 0x520 starts at offset 0x38e2d5
+"Galuf: Is this guy immortal!?Dorgann: How much punishment can he take? Even when we knock himdown, he won't STAY down...Kelger: We'll have to seal him here.Xezat: Yeah...that's our only out."
+
+; event 0x521 starts at offset 0x38e3b4
+"Dorgann: Whatseal him here!?We can't just leave a demon fromour world in another!"
+
+; event 0x522 starts at offset 0x38e412
+"Xezat: What other choice do we have?Kelger: Look sharp, lads,he's recovering!Galuf: Damnation!"
+
+; event 0x523 starts at offset 0x38e48b
+"Kelger: Now there really is no choice. He must be sealed, and wemay not get this chance again!"
+
+; event 0x524 starts at offset 0x38e4f4
+"Galuf: Dorgann, we can't seal him with the crystals unless all our hearts are united. Are you with us?Kelger: Dorgann!"
+
+; event 0x525 starts at offset 0x38e57f
+"Kelger: It's done! He's been sealed!Galuf: So long as there's light in the crystals, Exdeath won't be able to awaken."
+
+; event 0x526 starts at offset 0x38e607
+"Galuf: You're certain you want tostay?"
+
+; event 0x527 starts at offset 0x38e636
+"Dorgann: My mind's made up.Kelger: But why?"
+
+; event 0x528 starts at offset 0x38e670
+"Dorgann: Safe journey!"
+
+; event 0x529 starts at offset 0x38e68d
+"Galuf: Dorgann..."
+
+; event 0x52a starts at offset 0x38e6a5
+"Galuf: Dorgann stayed in your world to watch over Exdeath's seal...: ...Wow.That's...huh."
+
+; event 0x52b starts at offset 0x38e715
+""
+
+; event 0x52c starts at offset 0x38e716
+"Kelger: How fares old Dorgann, anyway?: Three years ago, he got real sick, and...well.Kelger: I see... My sympathies.Son of Dorgann, anything you ask of me shall be done! You need only name your request.: Actually...If we could get into Drakenvale..."
+
+; event 0x52d starts at offset 0x38e841
+"Kelger: I will have one of the villagers unlock the gate."
+
+???: before Dragon Pod fight
+; event 0x534 starts at offset 0x38ecaf
+"Lenna: Look!Faris: Dragon grass!"
+
+; event 0x535 starts at offset 0x38ecde
+"Faris: Aughhh!Lenna: Help!"
+
+; event 0x536 starts at offset 0x38ed07
+": What the crap was that!?Lenna: Grass isn't supposed to attack people!Faris: That's no grass, that's a beast! A foul, leafy demon!Galuf: This must be why all the drakes are extinct!"
+
+???: after Dragon Pod fight
+; event 0x537 starts at offset 0x38ede6
+"Faris: The dragon grass!"
+
+; event 0x538 starts at offset 0x38ee05
+"Lenna: Look!"
+
+; event 0x539 starts at offset 0x38ee18
+"Lenna: Come on, let's take someand go!"
+
+; event 0x53a starts at offset 0x38ee47
+"               Obtained Dragon Grass!"
+
+???: return to Bal
+; event 0x53b starts at offset 0x38ee71
+"Galuf: We're back! Now open thegate!"
+
+; event 0x53c starts at offset 0x38ee9e
+"Soldier: Nice try, monster! You're gonna have to work harder to pull one over on the soldiers of Bal!"
+
+; event 0x53d starts at offset 0x38ef0a
+"Galuf: Aw, man... Guess it's timefor Plan B."
+
+; event 0x53e starts at offset 0x38ef3f
+"Galuf: You coming?"
+
+???: talk to Krile with a headache before helping the wind drake
+; event 0x546 starts at offset 0x38f17a
+"Galuf: Krile!Krile: Gr...Grand...pa...Galuf: Hang on, dear!Krile: He's...calling..."
+
+; event 0x547 starts at offset 0x38f1ec
+"Galuf: Shh, don't try to talk.Krile: ...Calling...Ghido is calling...: Ghido?Krile: Hurry...go find Ghido, please..."
+
+; event 0x548 starts at offset 0x38f285
+": But who's Ghido?Galuf: A sage who has lived for over seven hundred years...Ghido's the one who prophesied that the crystals in your world would break.: And he's calling her?Like, psychotically?Galuf: ..."Psychically," .Anyhow, the sage might know someway to defeat Exdeath!"
+
+; event 0x549 starts at offset 0x38f3cd
+"Krile: ...Galuf: Hang in there, Krile. We're gonna go see Ghido, so just hold on a little longer.Krile: Mmm...but...have to...use the wind drake...Galuf: Don't worry. We've gotdragon grass in spades.Krile: Really!? ...The drake's resting at the top of this tower..."
+
+; event 0x54a starts at offset 0x38f507
+"Galuf: Will you come with me?Lenna: Certainly!Faris: Like you needed to ask.: Where do we find this Ghido, anyway?Galuf: He lives on a small island.It's in the ocean northeast of Drakenvale."
+
+???: feed the dragon grass to the wind drake
+; event 0x54b starts at offset 0x38f5f4
+"Lenna: Here, eat this, you'll feelbetter."
+
+; event 0x54c starts at offset 0x38f626
+": That grass killed off all the wind drakes...no wonder he doesn't want to eat it."
+
+; event 0x54d starts at offset 0x38f685
+"Galuf: It doesn't matter if he wants to...he has to!With wounds like these, if he doesn't hurry and eat that stuff,he'll die!"
+
+; event 0x54e starts at offset 0x38f713
+"Lenna: It's all right. Look, you can eat it, see? I'll have some,too."
+
+; event 0x54f starts at offset 0x38f763
+"Faris: Lenna! Are you insane?: Lenna! Did you forget? Dragon grass is poisonous tohumans!"
+
+; event 0x550 starts at offset 0x38f7d1
+"Lenna: Here, now you try..."
+
+; event 0x551 starts at offset 0x38f7f3
+"Lenna: That's a good boy..."
+
+; event 0x552 starts at offset 0x38f815
+"Faris: Lenna!!!"
+
+; event 0x553 starts at offset 0x38f82b
+"Krile: Lenna! Hold on!"
+
+; event 0x554 starts at offset 0x38f848
+"Krile: Drink this!"
+
+; event 0x555 starts at offset 0x38f861
+"Faris: Lenna!"
+
+; event 0x556 starts at offset 0x38f875
+": Lenna!Are you all right?"
+
+; event 0x557 starts at offset 0x38f89a
+"Lenna: Yes... Thank you, Krile.Krile: Don't do things like that! That's ridiculously dangerous!"
+
+; event 0x558 starts at offset 0x38f90a
+"Faris: Cripes, Lenna, if something had happened to youLenna: I'm sorry..."
+
+; event 0x559 starts at offset 0x38f966
+"Galuf: Krile! You sure you shouldbe up and about?Krile: I'm...I'm okay..."
+
+; event 0x55a starts at offset 0x38f9c0
+"Galuf: Krile!"
+
+; event 0x55b starts at offset 0x38f9d4
+"Krile: Don't...don't worry 'boutme...: Geez-oh-pete, every one of you guys is always going overboard!Krile: Eheheh..."
+
+; event 0x55c starts at offset 0x38fa68
+"Galuf: You stay here and get some rest, young lady!Krile: Okay...Lenna: Krile... Thank you. I am in your debt."
+
+; event 0x55d starts at offset 0x38faf1
+"Krile: You saved my wind drake. I think we're square. Thank you!"
+
+; event 0x55e starts at offset 0x38fb3a
+"Galuf: You rest up now, got it?Krile: I will! You guys be carefultoo!"
+
+; event 0x55f starts at offset 0x38fb90
+"Galuf: To Sage Ghido!Lenna: Right!Faris: Let's go!: We're off!"
+
+???: TODO: THE REST
+
+
+
+
+
+
+
