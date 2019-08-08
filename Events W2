@@ -401,6 +401,7 @@
 ; event 0x52a starts at offset 0x38e6a5
 "Galuf: Dorgann stayed in your world to watch over Exdeath's seal...: ...Wow.That's...huh."
 
+!!!I have no idea if this is a real line of dialogue or not
 ; event 0x52b starts at offset 0x38e715
 ""
 
@@ -526,11 +527,132 @@
 ; event 0x55f starts at offset 0x38fb90
 "Galuf: To Sage Ghido!Lenna: Right!Faris: Let's go!: We're off!"
 
-???: TODO: THE REST
+???: landing on Ghido's island and entering the cave, causing it to sink
+; event 0x575 starts at offset 0x390162
+": So, this is it?Galuf: Yup, Sage Ghido's place.Lenna: Let's find him!Faris: Wait"
+
+; event 0x576 starts at offset 0x3901d6
+": An earthquake!"
+
+; event 0x577 starts at offset 0x3901ef
+": The island's breakingapart...Galuf: We gotta get back to the wind drakehurry!"
+
+; event 0x578 starts at offset 0x390255
+"Exdeath: Mwa-hahahaha! Witness what befalls those whostand against me!"
+
+???: landing on the Surgate boat
+; event 0x5ac starts at offset 0x391131
+"Xezat: That wind drake..."
+
+; event 0x5ad starts at offset 0x391151
+"Xezat: Hold your fire. They'refriends!"
+
+; event 0x5ae starts at offset 0x391180
+"Xezat: If it isn't Galuf! Aren't you a sight for sore eyes!Galuf: Xezat! How the devil haveyou been?Xezat: Managing, barely. These friends of yours?"
+
+; event 0x5af starts at offset 0x391231
+"Galuf: This is Dorgann's son, !Xezat: Dorgann's...!"
+
+; event 0x5b0 starts at offset 0x391277
+"Galuf: The ladies are nobility fromthe other world.Xezat: Well met. I'm the swordsman Xezat."
+
+; event 0x5b1 starts at offset 0x3912e6
+"Galuf: Oho? Not "King" Xezat?Xezat: Ehh, I don't think it suits me all that well.Galuf: Sure doesn't! Har har har!I'm the same way."
+
+; event 0x5b2 starts at offset 0x391384
+"Galuf: So, can you get us into Exdeath's castle?Xezat: Ha, you're halfway in already!"
+
+; event 0x5b3 starts at offset 0x3913ec
+"Xezat: For now, go below deck and rest for a bit. The fireworks'll start soon enough."
+
+???: pre-Gilgamesh
+; event 0x5be starts at offset 0x39164a
+"Galuf: Xezat, what's going on?Xezat: Exdeath... Somehow he's gotten the jump on us!"
+
+; event 0x5bf starts at offset 0x3916ae
+"Galuf: Surrounded..."
+
+; event 0x5c0 starts at offset 0x3916c9
+"Xezat: Leave this trash to me.Galuf: Don't blow it this time!Xezat: I think that's my line!Xezat: Rahhh!!!"
+
+???: post-Gilgamesh
+; event 0x5c2 starts at offset 0x3917ec
+"Gilgamesh: Geh! If I go, I'm taking you with me! How about going for a swim!?"
+
+; event 0x5c3 starts at offset 0x391844
+"Gilgamesh: Hey! Foul! That's playing dirty! I'm not supposed tobe the only one in the drink!Don't think I'll forget this!You'll*glub glub glub...*"
+
+; event 0x5c4 starts at offset 0x3918e9
+"Galuf: Whoa whoa whoa!"
+
+; event 0x5c5 starts at offset 0x391906
+"Galuf: Urk... My hands are going numb...Xezat: I'm coming! Hang in there!Galuf: That pun is so bad, I'mgonna fall on purpose..."
+
+; event 0x5c6 starts at offset 0x3919a2
+"Galuf: The wind drake!Xezat: Good timing! Now, it's our turn to strike! Quit hanging around and get over here!Galuf: Again with the puns...oy."
+
+???: submarine cutscene 
+; event 0x5c9 starts at offset 0x391abf
+"Xezat: We're off!"
+
+; event 0x5ca starts at offset 0x391ad7
+"Galuf: What's going on?Xezat: The fleet's only a decoythe real plan is to get tothe barrier tower by submarine!Galuf: Well, huh. That's kind of brilliant, actually.Xezat: You expected any less?The tunnel that leads to thebarrier tower's been completed. Let's go!"
+
+; event 0x5cb starts at offset 0x391c0a
+"Xezat: Come on!"
+
+???: post-submarine, blowing open the barrier tower entry cutscene
+; event 0x5ce starts at offset 0x391c57
+"Xezat: Get back!"
+
+!!!as far as I can tell, yes, they really did just reuse this line, there's not another copy of it
+; event 0x5cb starts at offset 0x391c0a
+"Xezat: Come on!"
+
+???: entering barrier tower, getting the Whisperweed
+; event 0x5cf starts at offset 0x391c6e
+"Galuf: This is the barrier tower?Xezat: Indeed. All that's leftis to take it out, and the barrierwill be destroyed!Xezat: I'll take care of the generator downstairs.You hit the top floor and find the antenna.Galuf: Find it and destroy it, I assume?Xezat: You got it. I'll cut the power, and once that happens, you blow up the antenna!"
+
+; event 0x5d0 starts at offset 0x391df5
+"Xezat: Here, you'll need this."
+
+; event 0x5d1 starts at offset 0x391e1a
+"               Received Whisperweed!"
+
+; event 0x5d2 starts at offset 0x391e43
+"Galuf: What's this do?Xezat: With this, we can keep in contact. All right, let's move!"
+
+; event 0x5d3 starts at offset 0x391eaa
+"Xezat: I'm counting on you! Good luck!"
+
+???: mid-barrier tower Whisperweed cutscene
 
 
+???: top of barrier tower atomos cutscene
+
+???: xezat's death cutscene
+
+???: ghido cutscene
+
+???: entering forest of moore
+
+???: the forest is on fire
+
+???: branch opens the way to guardians
+
+???: pre guardians cutscene
+
+???: post guardians pre solo exdeath cutscene
+
+???: post solo exdeath, krile joins, galuf is dead
+
+???: krile dispels exdeath's castle's illusion
+
+???: gilgamesh in a chest cutscene
+
+???: pre w2 exdeath cutscene
+
+???: post w2 exdeath cutscene, this is start of w3 where you wake up outside tycoon
 
 
-
-
-
+TODO: confirm I didn't miss any, also do all these, but I'm going off memory because I want a break
