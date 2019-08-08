@@ -1024,3 +1024,866 @@ Text ID: Content
 ; event 0x30c starts at offset 0x382f71
 "Lenna: WaitMid!"
 
+
+???: Encouraging Cid
+; event 0x30d starts at offset 0x382f89
+": Cid!Cid: ...Lenna: Mid isn't here?Faris: Come on, man. Pull yourselftogether!"
+
+; event 0x30e starts at offset 0x382ffb
+"Cid: Leave me alone... Don't wasteyour time on a worthless old lumplike me."
+
+; event 0x30f starts at offset 0x383051
+"Mid: Grandpa!"
+
+; event 0x310 starts at offset 0x383065
+"Cid: Mid?"
+
+; event 0x311 starts at offset 0x383075
+"Cid: Ouch! Mid, stop that! What are you doing?"
+
+; event 0x312 starts at offset 0x3830ac
+"Mid: What am I doing? What areYOU doing, you silly old fool!? You never give up! Never!"
+
+; event 0x313 starts at offset 0x38310e
+"Cid: Mid...Mid: You always told me not to beafraid of failing...That if you messed up, you just had to start over and try again... What happened to that!?Cid: Mid..."
+
+; event 0x314 starts at offset 0x3831d4
+"Cid: Mid......Just try again......Mid! You're absolutely right!"
+
+; event 0x315 starts at offset 0x383222
+"Mid: Of course I am!"
+
+; event 0x316 starts at offset 0x38323d
+"Cid: It's not over. The earthcrystal is still out there!: Yeah, but where?Cid: That I don't know. But we'vegot to find it and protect it! Andto do that...Mid: We'll need the fire-powered ship! I'm right, aren't I?"
+
+; event 0x317 starts at offset 0x38333b
+"Cid: Yes... We'll need to get thefire-powered ship moving again.But without the crystal...Mid: Way ahead of you, Grandpa.Just look at this!"
+
+; event 0x318 starts at offset 0x3833db
+"Cid: Ohh, where'd you dig this up?Hmm... Ahh, I see, like that... Nice work, Mid, this could do it!"
+
+; event 0x319 starts at offset 0x383449
+"Cid: All right! Let's get to work!Mid: Yeah!"
+
+
+???: Remembering Krile
+; event 0x31a starts at offset 0x383484
+"Mid: Move it, guys!"
+
+; event 0x31b starts at offset 0x38349e
+"Cid: You'll have to excuse Mid, he'sall fired up! We'll take care of theship, so you kids just sit tight."
+
+; event 0x31c starts at offset 0x383512
+": Galuf, what's wrong?"
+
+; event 0x31d starts at offset 0x383531
+"Faris: Yes...you do look even stranger than usual.Lenna: Galuf, are you all right?"
+
+; event 0x31e starts at offset 0x383594
+"Galuf: My head..."
+
+; event 0x31f starts at offset 0x3835ac
+"Galuf: It was like I could almostremember..."
+
+; event 0x320 starts at offset 0x3835e1
+"Krile: Grandpa!"
+
+; event 0x321 starts at offset 0x3835f7
+"Galuf: Krile!"
+
+; event 0x322 starts at offset 0x38360b
+"Galuf: Owww! Hey, knock it off!"
+
+; event 0x323 starts at offset 0x383631
+"Krile: Silly old fool!"
+
+; event 0x324 starts at offset 0x38364e
+"Galuf: K... Kri... Krile..."
+
+; event 0x325 starts at offset 0x383670
+": Galuf! What happened!?Lenna: Did you remember something!?"
+
+; event 0x326 starts at offset 0x3836c0
+"Galuf: I'm...I'm not from this world!: !?"
+
+; event 0x327 starts at offset 0x3836fa
+"Galuf: I warped here through a meteorite from another world.Because... The evil we'd sealedthirty years ago was beginning toreawaken... So I came to stop it...: Evil is reawakening?Galuf: That's right... Big, bad evil,toothe dark warlock, Exdeath!"
+
+; event 0x328 starts at offset 0x383818
+"No doubt about it! The power of the four crystals is gathered here!Perfect! We'll use their power to sealExdeath here!"
+
+; event 0x329 starts at offset 0x383899
+"Galuf: To seal him, I came here once before, thirty years ago..."
+
+; event 0x32a starts at offset 0x3838e4
+"Lenna: So... If all four crystals are destroyed, then Exdeath's seal will be broken as well?Galuf: Right...Ughhh...my head..."
+
+; event 0x32b starts at offset 0x383976
+": Galuf!"
+
+; event 0x32c starts at offset 0x383987
+"Galuf: Still...still can't rememberclearly...urg... We can't...allowExdeath t'...be reborn...gkk..."
+
+; event 0x32d starts at offset 0x3839f5
+": Galuf!!!Galuf: 'M...okay..."
+
+
+???: Fire ship fixed
+; event 0x32f starts at offset 0x383a3b
+"Cid: *yawn*...Ahhh, slept like a top!"
+
+; event 0x330 starts at offset 0x383a69
+"Mid: *yawn*...Ahhh, slept like a top! Heheh, I sound like the old man!"
+
+; event 0x331 starts at offset 0x383aba
+"Mid: It's finished! We are so awesome!Cid: Presenting, a boat that will sail without any wind!"
+
+; event 0x332 starts at offset 0x383b2b
+": So we can use this ship to go find the earth crystal!Cid: Righto! We're counting on you. We'll return to the Library of the Ancients for now.Mid: We should be able to find some more clues there."
+
+; event 0x333 starts at offset 0x383c10
+"Cid: If you need anything, then just stop by!Mid: Take care of yourselves!"
+
+
+???: Crescent earthquake
+; event 0x368 starts at offset 0x3848f0
+"Not again... It's another quake!"
+
+; event 0x369 starts at offset 0x384913
+": What the Crap, the ship!"
+
+
+???: Sinking ship
+; event 0x36a starts at offset 0x38493a
+": Oh no, the ship's sinking!
+
+
+???: Meeting black chocobo
+; event 0x373 starts at offset 0x384bd5
+"Galuf: What the heck is that?Lenna: A chocobo...?Faris: Doesn't look like any chocobo I've ever seen.: Whatever it is,I'll catch it!"
+
+
+???: Catched black chocobo
+; event 0x374 starts at offset 0x384c7e
+"Kweeeh!"
+
+; event 0x375 starts at offset 0x384c88
+": He's a black chocobo!Lenna: Oh! This means they aren'textinct after all!: Guess not!Black chocobos can fly, so...Giddyup!"
+
+; event 0x376 starts at offset 0x384d24
+"Black Chocobo: Kweeeh!Galuf: He didn't giddy. Did you break him or something?Faris: Not funny, old man. Soundslike he's got something stuck down his gullet..."
+
+; event 0x377 starts at offset 0x384ddb
+"Black Chocobo: Kweh......*p-tooey!*"
+
+; event 0x378 starts at offset 0x384e05
+"Lenna: Crystal shards!?Faris: They must've been blown here by the explosion in Karnak..."
+
+; event 0x379 starts at offset 0x384e6e
+": ...And 'cause he swallowed them, he couldn't fly!"
+
+; event 0x37a starts at offset 0x384eac
+"                                Bard                              Ranger  "
+
+; event 0x37b starts at offset 0x384f01
+": Ew, they're still sticky.Galuf: But maybe this time he'll beable to fly!"
+
+
+???: Back to the library
+; event 0x386 starts at offset 0x385223
+"Cid: Hey! You're back!: Cid... We found Crescent Island, but the fire-powered ship sank!"
+
+; event 0x387 starts at offset 0x385290
+"Cid: Oh, so?Mid: Whatever. We'll just buildanother one!Cid: More importantly, we'velearned the whereabouts of King Tycoon!"
+
+; event 0x388 starts at offset 0x385327
+"Lenna: What!?Cid: He was seen in Karnak. Fromthere, he moved on to the Desert of Shifting Sands...Faris: Shifting Sands, you say?Mid: It's the desert to the west of here, where the sand flowslike water...Cid: ...Thus the name. It's impossible for people to enter.They say that past the desert is the Town of Ruin, but no one can actually get there to see.: If no one can enter thedesert, how did the king manage todo it?Cid: Good question."
+
+; event 0x389 starts at offset 0x38552d
+"Mid: Witnesses claimed to see himfloating in midair.: Floating...!?"
+
+; event 0x38a starts at offset 0x385583
+"Lenna: Father...Faris: Come on, it's not like we're getting any closer to that desert by sitting around here."
+
+; event 0x38b starts at offset 0x385603
+"Galuf: Doesn't matter how close we get TO it if we don't know how to get IN!Faris: Maybe we'll see it and be inspired. Don't tell me you're afraid of some sand, old man...Galuf: Please! When I was your age,we crossed burning sand every day and liked it! Come on, !"
+
+; event 0x38c starts at offset 0x385730
+": Let's check it out!"
+
+
+???: Before Sandworm
+; event 0x394 starts at offset 0x3859a2
+"Galuf: As expected, it's hopeless..."
+
+; event 0x395 starts at offset 0x3859cf
+"Cid: Wait!Mid: It ain't over 'til the fat ladysings, and the orchestra hasn'teven started tuning up yet!"
+
+; event 0x396 starts at offset 0x385a4a
+"Cid: We'll build a bridge!Mid: It's a little risky, but you guys are all about danger, right?"
+
+; event 0x397 starts at offset 0x385ab8
+"Cid: How it works is, we use thisbell to call the sandworm...Mid: ...then you guys trash it...Cid: ...and there's your bridge!"
+
+; event 0x398 starts at offset 0x385b4f
+"Galuf: Not the most sophisticated of methods...Cid: You aren't that sophisticatedof a guy! I think it suits you fine!"
+
+; event 0x399 starts at offset 0x385bd7
+"Cid: So, make sure you're ready, then we'll start."
+
+; event 0x39a starts at offset 0x385c12
+"Cid: All right, we're going to call the sandworm!Mid: You guys ready?"
+
+; event 0x39b starts at offset 0x385c6a
+"Mid: Oh yeahif you use any magic on the sandworm, you'll be sorry. Good luck!Cid: Here goes!"
+
+
+???: After Sandworm
+; event 0x39c starts at offset 0x385cdb
+"Mid: Game, set, and match!Cid: Now you can get into the desert!"
+
+; event 0x39d starts at offset 0x385d2b
+": Cid, Mid, take care of the black chocobo while we're gone, okay?"
+
+; event 0x39e starts at offset 0x385d7a
+"Cid: Good luck!"
+
+; event 0x39f starts at offset 0x385d90
+"Mid: Take care!"
+
+
+???: Gohn
+; event 0x3a1 starts at offset 0x385da7
+": Guess this is that Town of Ruin Cid was talking about..."
+
+; event 0x3a2 starts at offset 0x385dee
+"Lenna: That was...Faris: King Tycoon...?"
+
+
+???: Hide and Seek
+; event 0x3a4 starts at offset 0x385e26
+"Lenna: Father!Faris: ...P...Papa..."
+
+; event 0x3a5 starts at offset 0x385e5a
+"Lenna: Faris!Faris: ...Lenna: I knew it! You really AREmy sister!Faris: I'm sorry... I wasn't certain at first, and then I didn't think Ishould tell you..."
+
+; event 0x3a6 starts at offset 0x385f1a
+"Lenna: Sister!Faris: Lenna..."
+
+; event 0x3a7 starts at offset 0x385f46
+": Uhhh... Where are we?Lenna: This place is strange...Faris: Say...what happened to theold man?: Huh? He's not here?Lenna: We must have gotten separated when we fell..."
+
+; event 0x3a8 starts at offset 0x38601d
+": He'll be okay. He's a tough old cuss!I'm sure we'll run into him again later. Come on, let's get going."
+
+; event 0x3a9 starts at offset 0x386097
+"Galuf: Now wait one cotton-picking minute! That was anawfully quick decision to ditch me!: Yikes! Uh...sorry!"
+
+
+???: Airship warp
+; event 0x3aa starts at offset 0x386119
+": What is this?"
+
+; event 0x3ab starts at offset 0x386131
+": Look out!"
+
+; event 0x3ac starts at offset 0x386145
+"                        Meanwhile..."
+
+; event 0x3ad starts at offset 0x38616e
+"Cid: East, west, home is besteven if you're a chocobo, huh!Mid:  should be thrilled!We went above and beyond the call of duty!"
+
+; event 0x3ae starts at offset 0x386205
+": Phew... That was close.Galuf: I suppose that was awarp device.Faris: After not being used for so long, activating it must've caused an overload..."
+
+
+???: Dropping Cid and Mid
+; event 0x3b0 starts at offset 0x3862f4
+"There's a switch here.Push the switch?"
+
+
+???: Reuniting with fire ship
+; event 0x3b8 starts at offset 0x386564
+": This is...?Hey, it's the fire-powered ship! Ithought it had sunk....But what's that ship over there?"
+
+
+???: Meeting the airship
+; event 0x3b9 starts at offset 0x3865dd
+": Propellers on a boat?What's up with that?"
+
+; event 0x3ba starts at offset 0x386613
+": Cid, Mid!Cid: Oww...Mid: What the... ? Lenna, Faris, Galuf...what're you guys doing here?"
+
+; event 0x3bb starts at offset 0x38668d
+": I think that's our line!Where'd you guys come from?Mid: We rode the black chocobo back to Crescent Island.Then, all of a sudden a hole opened up beneath us, and we fell...: Wait, so we're underneath Crescent Island?"
+
+; event 0x3bc starts at offset 0x38678f
+": That explains the fire-powered ship being here...Mid: This place must've been built by the Ancients.: Huh... And this propeller ship?Mid: Uhh...maybe you should askGrandpa about that. Huh? Wait,where'd he go?"
+
+
+???: Flying the airhip
+; event 0x3bd starts at offset 0x38688e
+"Cid: Hot diggity dang! This is mind-blowing!"
+
+; event 0x3be starts at offset 0x3868c3
+": Hey, CidCid: Don't bother me, boyo!"
+
+; event 0x3bf starts at offset 0x3868fb
+"Cid: ...tighten this...and adjust this...righty tighty, lefty loosey..."
+
+; event 0x3c0 starts at offset 0x38694b
+"Cid: Voila! That should do it!: That should do what?"
+
+; event 0x3c1 starts at offset 0x386990
+"Cid: That should get this ship moving!"
+
+
+???: Before Cray Claw
+; event 0x3c2 starts at offset 0x3869bf
+": Cid, what is thisthing?Cid: Isn't it obvious? It's anairship! Amazing...I've only everseen these in old texts!I can't believe I'm getting to use one in the flesh! ...Er, well, you know what I mean!"
+
+; event 0x3c3 starts at offset 0x386aa5
+": Oof, what was that!?Cid: Something's dragging us down!"
+
+; event 0x3c4 starts at offset 0x386af0
+": Creeping crawdads! Some monster's got a death grip onthe ship's hull!"
+
+
+???: After Cray Claw
+; event 0x3c5 starts at offset 0x386b44
+"Cid: Ha! Looks like that overgrownlobster just got served!: With cheese biscuitsAND mashed potatoes!"
+
+; event 0x3c6 starts at offset 0x386bbd
+"Cid: Looks like damage to the ship was minimal...We can use parts from the fire-powered ship to make the airship good as new."
+
+; event 0x3c7 starts at offset 0x386c4b
+": Cid...Cid: If you're just going to thank me, I don't need to hear it.Mid: We'll stay here and searchfor some clues about the earthcrystal!Cid: The skies are yours, kids. Now get out there!"
+
+
+???: Flying town
+; event 0x3d7 starts at offset 0x387168
+": What's going on?Galuf: Look! The town..."
+
+
+???: Going back to catapult
+; event 0x3d8 starts at offset 0x3871a3
+": Cid! Mid! We've got anissue here...Cid: Save your breath...Mid: ...'coz we saw the ruinsthrough the telescope!"
+
+; event 0x3d9 starts at offset 0x387230
+"Mid: This is bad...the earth crystal is way up there!"
+
+; event 0x3da starts at offset 0x38726e
+"Mid: The ancient Ronkans amplified the earth crystal to make their town float. But once they realized amplifying the crystal could make it shatter,they stopped the machine."
+
+; event 0x3db starts at offset 0x38732d
+"Cid: Shake a leg, miscreants!Somebody's turned the machineback on!"
+
+; event 0x3dc starts at offset 0x38737a
+"Lenna: It couldn'tyou don't think that Father...Faris: Never! He would neverdo such a thing!"
+
+; event 0x3dd starts at offset 0x3873eb
+": How're we supposed to get that high?"
+
+; event 0x3de starts at offset 0x38741c
+"Cid: With this...Mid: ...Adamantite!If we reinforce the ship with it, it'll fly higher! But we'll needto find some more..."
+
+; event 0x3df starts at offset 0x3874ad
+"Galuf: That's simple enough!"
+
+; event 0x3e0 starts at offset 0x3874d0
+"Galuf: That meteorite I came here in... I remember seeing some adamantite reserves inside!: Are you sure?Galuf: You calling me a liar!?: Of course not... It's just that your memory's stillkinda spotty, right?Galuf: Pish-posh! The adamantitepart is clear as day!"
+
+; event 0x3e1 starts at offset 0x38760a
+"Faris: It's good a place as any tostart. Let's go check it out."
+
+; event 0x3e2 starts at offset 0x387652
+"Cid: We'll stay and get things prepared.Mid: You guys hurry and bring ussome adamantite!"
+
+
+???: Opening Tycoon meteorite
+; event 0x3e3 starts at offset 0x3876bd
+"Galuf: Hrm...It was around here, I'm sure of it..."
+
+; event 0x3e4 starts at offset 0x3876f8
+"Galuf: There! Inside there!"
+
+
+???: Getting adamantite
+; event 0x3e6 starts at offset 0x387755
+"Galuf: There it is!"
+
+; event 0x3e7 starts at offset 0x38776f
+"Galuf: How about that! Prettysharp memory, huh?: How would an amnesiac like you know!?Galuf: Ah-hahahahaha!...Wait, are you mocking me?"
+
+; event 0x3e8 starts at offset 0x387815
+"                Obtained Adamantite!"
+
+???: Adamantoise
+; event 0x3e5 starts at offset 0x38771a
+": There's something in here with us...watch out!"
+
+
+???: Giving the adamantite
+; event 0x3e9 starts at offset 0x38783e
+"Cid: Great, you got the adamantite!Mid: Quick, give it here so we caninstall it!, you guys take a break."
+
+; event 0x3ea starts at offset 0x3878bf
+": *yawn*... Weird...I dreamt that the airship was already finished..."
+
+; event 0x3eb starts at offset 0x387913
+"Cid: Rise and shine! It's done!!!"
+
+; event 0x3ec starts at offset 0x38793b
+": Yikes, you work fast!"
+
+; event 0x3ed starts at offset 0x38795b
+"Cid: After you lift off, press theA Button to fly higher!"
+
+; event 0x3ee starts at offset 0x38799d
+"Lenna: So with this, we can go tothe floating ruins?"
+
+; event 0x3ef starts at offset 0x3879da
+"Cid: Technically, yes, but... Well,take a gander at this."
+
+; event 0x3f0 starts at offset 0x387a1c
+"Cid: The floating city is equippedwith a heavy defense system...If you don't disable it, you won't be able to enter.Mid: According to this book, the cannons are really powerful..."
+
+; event 0x3f1 starts at offset 0x387ae8
+"Lenna: But we must go!Faris: No question about it!Galuf: I don't even see the worry.What's a couple of overblown pop-guns against the likes of us!?: Cid, Mid, thanks forall your help. Now, let's get to thecrystal before it's too late!"
+
+
+???: Before Soul Cannon
+; event 0x3f2 starts at offset 0x387bfb
+": So much for their defenses!Lenna: Waitwhat's that!?"
+
+; event 0x3f3 starts at offset 0x387c45
+"Galuf: Cripes, look at the size of it!Faris: Guess there's one last thing to take care of...!"
+
+
+???: After Soul Cannon
+; event 0x3f4 starts at offset 0x387cb5
+": So, I guess that hole's the way in?Galuf: Sure looks like it.Faris: We'll know in a second!"
+
+
+???: Before Archeoaevis/Clapperclaw
+; event 0x3f5 starts at offset 0x387d2d
+"Lenna: Father!King Tycoon: Urgh... That bedamned clapperclaw blocksthe path!Faris: Papa"
+
+; event 0x3f6 starts at offset 0x387da1
+"King Tycoon: Silence! There is no time for chatter!"
+
+; event 0x3f7 starts at offset 0x387ddd
+"King Tycoon: That beast is the guardian of these ruins. It can change its weakness at will... Make yourselves useful anddefeat it!"
+
+
+???: After Archeoaevis/Clapperclaw
+; event 0x3f8 starts at offset 0x387e6e
+"King Tycoon: Good work! Very good... Mwa-hahahaha..."
+
+; event 0x3f9 starts at offset 0x387ead
+"Lenna: Father!Faris: Papa!"
+
+; event 0x3fa starts at offset 0x387ed6
+": The earth crystal should be just ahead..."
+
+
+???: Meeting Krile
+; event 0x3fb starts at offset 0x387f0c
+"Galuf: This is bad! Something's gotta be controlling him!"
+
+; event 0x3fc starts at offset 0x387f4e
+"Lenna: , stop!Faris: Don't even try it!: Step aside!"
+
+; event 0x3fd starts at offset 0x387f9d
+"King Tycoon: Heh... With the four of you gathered like this, it willbe easier to destroy you all!"
+
+; event 0x3fe starts at offset 0x388009
+"Girl: Grandpa!"
+
+; event 0x3ff starts at offset 0x38801e
+"Girl: Grandpa! I'm so glad you'reokay!"
+
+; event 0x400 starts at offset 0x38804d
+"Galuf: Krile... You're...Krile...!"
+
+; event 0x401 starts at offset 0x388076
+"              Galuf's memory returned!"
+
+; event 0x402 starts at offset 0x3880a5
+"Krile: Grandpa, I missed you somuch..."
+
+; event 0x403 starts at offset 0x3880d4
+"Krile: Oh, don't worry. I just hit him with a little strike ofThunder! He should be okay."
+
+; event 0x404 starts at offset 0x388138
+"King Tycoon: Ughhh... Where... Lenna...Sarisa? Sarisais that you!?"
+
+; event 0x405 starts at offset 0x388187
+"Lenna: FarisSarisa!"
+
+; event 0x406 starts at offset 0x3881a3
+"King Tycoon: It really is you...Sarisa! I can't believe it! You're alive!Faris: Papa...Papa!"
+
+; event 0x407 starts at offset 0x388212
+": Oh"
+
+; event 0x408 starts at offset 0x388221
+"Galuf: Exdeath...!"
+
+; event 0x409 starts at offset 0x38823a
+"Exdeath: Galuf. It's good to seeyou again...for it means I have returned! Mwa-hahahahaha!"
+
+; event 0x40a starts at offset 0x38829e
+"Exdeath: Crystals!Obey my magic...Give me your power! Smite these vermin!!!"
+
+; event 0x40b starts at offset 0x3882f6
+": You think we're gonna just sit back and let you dowhatever you want!?"
+
+; event 0x40c starts at offset 0x38834a
+": Nngh...Lenna: !"
+
+; event 0x40d starts at offset 0x38836e
+"Exdeath: Hah! Now the crystals have been destroyed. Next shall beyour world, Galuf!!!"
+
+; event 0x40e starts at offset 0x3883ce
+"Lenna: Father!Faris: Papa!"
+
+; event 0x40f starts at offset 0x3883f7
+"King Tycoon: Sarisa...Lenna..., and you, warriors from another world.I fear your work is still unfinished.You must not allow the world todisappear into nothingness..."
+
+; event 0x410 starts at offset 0x3884b2
+"King Tycoon: Light of earth! Come forth and reclaim your essence from me!"
+
+; event 0x411 starts at offset 0x388506
+"King Tycoon: Get back! The crystal...must be saved..."
+
+; event 0x412 starts at offset 0x388544
+"Lenna: Father! Hold on!Faris: You can't die!King Tycoon: Sarisa... Forgive me...I wasn't...much of a father..."
+
+; event 0x413 starts at offset 0x3885cb
+"King Tycoon: Lenna...Sarisa... Please, stay together...Become each other's strength..."
+
+; event 0x414 starts at offset 0x38862c
+"King Tycoon: ...take care of them...as I cannot..."
+
+; event 0x415 starts at offset 0x388669
+"Lenna: WaitFather! You can'tFaris: Don'tdon't leave us!"
+
+; event 0x416 starts at offset 0x3886b5
+"                             Samurai                             Dragoon                              Dancer                             Chemist"
+
+; event 0x417 starts at offset 0x38875c
+": What's going on!?Galuf: It's the ruinsthey'refalling!: We've gotta get out of here! Everybody to the airship!"
+
+; event 0x418 starts at offset 0x3887ec
+"Faris: Lenna... Come on!"
+
+; event 0x419 starts at offset 0x38880b
+"Faris: Hold fast, this'll be a bumpyride!"
+
+; event 0x41a starts at offset 0x38883d
+"Faris: Lenna..."
+
+; event 0x41b starts at offset 0x388853
+"Lenna: Father...He's gone, isn't he..."
+
+; event 0x41c starts at offset 0x388884
+": Galuf...Something wrong?Galuf: Yeah... We've got to get moving, and now!: Huh? What's going on?"
+
+; event 0x41d starts at offset 0x388904
+"Galuf: It's all come back to meI remember everything."
+
+; event 0x41e starts at offset 0x388944
+"Galuf: Exdeath is an evil warlockfrom my world...Thirty years ago, he came here to destroy this world's crystals.I and three othersthe Dawn Warriorssealed him with the power of the crystals.Everything was fine for thirtyyears...we thought it was all over."
+
+; event 0x41f starts at offset 0x388a64
+"Galuf: But something bad was happening to the crystals. Once we figured it out, we took the meteors and came back here..."
+
+; event 0x420 starts at offset 0x388aec
+"Galuf: But I was too late... Exdeath's not only been freed, but has returned to our world..."
+
+; event 0x421 starts at offset 0x388b53
+": That's because we used too much of the crystals' power, right?"
+
+; event 0x422 starts at offset 0x388ba0
+"Galuf: No... We were the ones wholeft Exdeath on this world in the first place.Back then, we should have dragged him back to our world, like hesaid..."
+
+; event 0x423 starts at offset 0x388c47
+": So you guys are reallygoing back?"
+
+; event 0x424 starts at offset 0x388c75
+"Galuf: Yup. We've got to sealExdeath again. Krile's meteoriteshould still have some juice left...Probably only enough for one moretrip, though., Lenna, Faris... Thank you so much for everything. I'llmiss you guys."
+
+; event 0x425 starts at offset 0x388d65
+": What kinda nonsenseis that? We're going with you!"
+
+; event 0x426 starts at offset 0x388da3
+"Galuf: No, you're not.This is the last meteorite.Galuf: That means that if you went to my world, you'd never be able to come back here."
+
+; event 0x427 starts at offset 0x388e41
+"Galuf: Farewell!"
+
+; event 0x428 starts at offset 0x388e58
+"Krile: Goodbye!"
+
+; event 0x429 starts at offset 0x388e6e
+": Galuf! Krile!"
+
+
+???: Before visiting meteorites
+; event 0x42a starts at offset 0x388e86
+"Lenna: ...: Yeah?Faris: So, we've been talking..."
+
+; event 0x42b starts at offset 0x388ed2
+"Lenna: They're still fighting Exdeath in that other world, and...Faris: We've got to avenge Papa!Lenna: Yes! What's more...Faris: Galuf... He's..."
+
+; event 0x42c starts at offset 0x388f85
+": He's one of us.Lenna: !Faris: We knew you'd get it!"
+
+; event 0x42d starts at offset 0x388fd5
+": Let's go thento the other world!"
+
+; event 0x42e starts at offset 0x389004
+"Lenna: ...But how do we do that?"
+
+; event 0x42f starts at offset 0x38902b
+"Faris: The meteorites don't haveenough power to warp anywhere..."
+
+; event 0x430 starts at offset 0x389074
+": Well, when I think meteorites, I think Cid! He'll probably know something!"
+
+
+???: Collecting more adamantites
+; event 0x432 starts at offset 0x38911b
+": Cid! Mid! What're you guysCid: , stay back! It's dangerous!"
+
+; event 0x433 starts at offset 0x389171
+"Mid: A huge wave of power just started flowing from the adamantite!Cid: We just thought to put it back where it came from... Hold on...!"
+
+; event 0x434 starts at offset 0x389210
+"Cid: Jumping Christmas! The floor is absorbing the energy from the adamantite!"
+
+; event 0x435 starts at offset 0x389269
+"Lenna: Say...do you think the meteorite could be recharging?Perhaps it would be enough for us to travel to Galuf's world!"
+
+; event 0x436 starts at offset 0x3892f1
+": That's as good anidea as any.Cid: What? What are you goingon about?"
+
+; event 0x437 starts at offset 0x38934b
+"Cid: Hmm, so that's your plan!Mid: But this piece of adamantiteis too small.There's not enough power for this meteorite to get you to the other world.But, maybe if all four meteorites' powers were combined..."
+
+; event 0x438 starts at offset 0x38943a
+": ...it'd be enough towarp to Galuf's world!"
+
+
+???: Before 4 meteorites done
+; event 0x450 starts at offset 0x3899fd
+"Cid: All right... Let's get to the next meteorite!Mid: Yeah!"
+
+
+???: Before Purobolos
+; event 0x43b starts at offset 0x38955f
+"Cid: Wait here!Mid: Leave it to us!"
+
+; event 0x448 starts at offset 0x38982f
+"Cid: That's that!Mid: Okay, let's hurry!"
+
+; event 0x449 starts at offset 0x389866
+": Cid! Mid! Look out!"
+
+
+???: After Purobolos
+; event 0x44a starts at offset 0x389884
+"Cid: Are you all right?Mid: That was awesome!"
+
+
+???: Before Titan
+; event 0x442 starts at offset 0x3896e8
+"Cid: Come on, Mid!Mid: Yeah!"
+
+; event 0x443 starts at offset 0x389713
+"Cid: Gadzooks! It's a den ofmonsters! Er, you kids can goahead."
+
+
+???: After Titan
+; event 0x447 starts at offset 0x389802
+"  Received the summoned monster Titan!  "
+
+; event 0x445 starts at offset 0x38977e
+"Cid: Much obliged. Now, you canleave the rest to us!"
+
+
+???: In Gohn meteorite
+; event 0x44b starts at offset 0x3898c0
+"Cid: Wait right here!Mid: Be right back!"
+
+; event 0x44c starts at offset 0x3898f7
+"Lenna: They've been inside forquite some time, don't you think?Faris: We'd better check on them."
+
+
+???: Before Manticore
+; event 0x44d starts at offset 0x389968
+"Cid: Help!Mid: Yeow! Help us!!!"
+
+
+???: After Manticore
+; event 0x44e starts at offset 0x389996
+": Come on!"
+
+; event 0x44f starts at offset 0x3899a9
+"Lenna: Are you all right?Mid: We are now!Cid: That was close!"
+
+
+???: After all 4 meteorites
+; event 0x43e starts at offset 0x3895ea
+"Cid: That's all four meteorites! Now, take a look at this map."
+
+; event 0x43f starts at offset 0x389631
+"Mid: See where the energies fromall four meteorites intersect?That's the warp point.Now, get over there!"
+
+; event 0x440 starts at offset 0x3896a8
+"Cid: Be careful!"
+
+; event 0x441 starts at offset 0x3896bf
+": Thanks for everything, guys."
+
+
+???: Warping to W2
+; event 0x451 starts at offset 0x389a4a
+"Lenna: The light is fading...: There's not much power left from the meteorites.Faris: No turning back now!: A one-way trip, huh?You guys sure about this? We probably won't be able to come back home...Lenna: That doesn't matter...thisis more important.Faris: Aye. We're in this 'til the bitter end."
+
+; event 0x452 starts at offset 0x389bb4
+": All right then...let's go!"
+
+; event 0x454 starts at offset 0x389c13
+"Lenna: I suppose this is goodbye toour world... Farewell, Chancellor..."
+
+; event 0x455 starts at offset 0x389c63
+"Faris: ...Buck up, mateys. I know you can handle the looting and pillaging without me."
+
+; event 0x456 starts at offset 0x389cc4
+": Be good while I'mgone, Boko! Don't get into toomuch trouble!"
+
+; event 0x453 starts at offset 0x389bd9
+": This...Lenna: This is Galuf's world...?"
+
+
+???: Getting Romeo's Ballad
+; event 0x467 starts at offset 0x38a1a1
+"Dorgann: Is he asleep?Stella: ...You're leaving again so soon?"
+
+; event 0x468 starts at offset 0x38a1ec
+"Dorgann: ...No. I'm not going anywhere.Stella: The spasms aren't as frequent anymore... I can get by on my own now.Still, it would be nice if you stayed...not to take care of me, but just so we could be together, as a family...Dorgann: I know. But get somesleep. You're still sick, and you need the rest.Stella: I will, dear. Just let me finish this up first."
+
+; event 0x469 starts at offset 0x38a37c
+": You're leaving again, aren't you?Dorgann: So you were awake.: Daddy, are you going to get more bad guys?Dorgann: That's what I do.: I wanna come!Dorgann: You need to stay here and take care of your mother.Don't tell her you saw me leave, all right? It'll be our little secret.: Okay, Daddy."
+
+; event 0x46a starts at offset 0x38a4db
+"Dorgann: Now, it's time for goodlittle boys to go to sleep.Stella! Worry about that tomorrow and come get some rest."
+
+; event 0x46b starts at offset 0x38a55e
+"Dorgann: Stella?"
+
+; event 0x46c starts at offset 0x38a575
+"STELLA!!!"
+
+
+???: Lix inn
+; event 0x473 starts at offset 0x38a7ed
+"Faris: ... You okay?"
+
+; event 0x474 starts at offset 0x38a80c
+": Oh, Faris..."
+
+; event 0x475 starts at offset 0x38a823
+": Meet my mom.Faris: Eh?: You know, I was born here in this village.Mom passed on when I was still young...After that, I traveled with Dad for a long time.But three years ago, he got real sick..."
+
+; event 0x476 starts at offset 0x38a915
+": That should do it..."
+
+; event 0x477 starts at offset 0x38a934
+"                      Here Lies Stella                                                       and                                              Dorgann, Devoted Husband"
+
+; event 0x478 starts at offset 0x38a9e1
+": He always wanted to be buried here with Mom."
+
+; event 0x479 starts at offset 0x38aa1a
+": Dad was so strong...Faris: A father, huh...wonder what that's like.: Faris?"
+
+; event 0x47a starts at offset 0x38aa84
+"Faris: Let's head back. Lenna'llworry if she wakes and finds usgone."
+
+
+???: Tycoon 1
+; event 0x242 starts at offset 0x37e717
+"Lenna: Faris?"
+
+; event 0x243 starts at offset 0x37e72b
+"Faris: Hm? Ah, Lenna.It's late...you should be in bed."
+
+; event 0x244 starts at offset 0x37e76a
+"Lenna: So should you...Sister.Faris: ...!!!Lenna: I'm right, aren't I? You're my older sister...Faris: Wh-what are you going onabout? Me, your... That's daft!Lenna: But..."
+
+; event 0x245 starts at offset 0x37e840
+"Faris: Besides, a buccaneer like me, really a princeer, princess?'Tis a bit much, that!"
+
+; event 0x246 starts at offset 0x37e8a4
+"Lenna: But...your pendant..."
+
+; event 0x247 starts at offset 0x37e8c7
+"...!: ...*snort* ...nhuh?"
+
+; event 0x248 starts at offset 0x37e8f3
+"Lenna: *giggle*Galuf: What in tarnation are you doing, kid?Faris: I think he's a few men shortof a full crew..."
+
+
+???: Tycoon 2
+; event 0x249 starts at offset 0x37e97d
+"Faris: Lenna, you awake?"
+
+; event 0x24a starts at offset 0x37e99c
+"Lenna: Yes... Is something wrong?Faris: Not wrong, just...strange.I was just a wee lass when I felloverboard... Between that and theshock, I forgot a lot of my life here.Lenna: FarisSarisa...Faris: But for some reason, beingback herejust being in this room is making those memories return..."
+
+; event 0x24b starts at offset 0x37eaee
+"Sarisa: Cure... Cura... Curaga..."
+
+; event 0x24c starts at offset 0x37eb16
+"Jenica: All right, that's enough fortoday.Sarisa: Phew... I'm pooped!Jenica: Your mother has asked you to put Princess Lenna to bed.Take care of that while I mark your test, please.Sarisa: Okay!"
+
+; event 0x24d starts at offset 0x37ebf1
+"Jenica: And come straight back here! No dawdling!Sarisa: Okay... Aw, man..."
+
+; event 0x24e starts at offset 0x37ec45
+"Sarisa: Hi-hi Lenna... Tomorrow, me 'n Papa're gonna ride the wind drake.Lenna: Papa, Papuuu!Sarisa: Flyin' up high is s'posed t' be the bestest thing ever, Papa says.Sarisa: An' when you look down on them, all the people're s'posed to look likethey cast Float on themselves!"
+
+; event 0x24f starts at offset 0x37ed6f
+"Sarisa: Wait... Um, not Float, but Toad? Teleport? Uhh... Mini? Yeah, that's it,they look like they were Minied!"
+
+; event 0x250 starts at offset 0x37ede6
+"Jenica: She's late..."
+
+; event 0x251 starts at offset 0x37edfe
+"Lenna: Sarisa...Faris: Yeah?Lenna: Perhaps we should keepthis a secret from the chancellorfor now.He would only make a big fuss if heknew, and he certainly wouldn'tlet you leave the palace again...Faris: Aye..."
+
+; event 0x252 starts at offset 0x37eefb
+"Faris: And we have to get outthere and find Papa..."
+
+; event 0x253 starts at offset 0x37ef37
+"Faris: And we've got to go helpGaluf and the others."
+
+
+???: Tycoon 3
+; event 0x257 starts at offset 0x37f065
+"Lenna: Faris...Sarisa. Do you remember Father?Faris: ...It must've been fifteen years..."
+
+; event 0x258 starts at offset 0x37f0d0
+"Sarisa: No! No no no no no!!! It's scary, I don't wanna!"
+
+; event 0x259 starts at offset 0x37f10f
+"King Tycoon: Sarisa! After all that talk about flying on Hiryu... Now you don't want to?"
+
+; event 0x25a starts at offset 0x37f172
+"King Tycoon: All right. This time, Papa is going to find the best doctor in the world to help Mama.I'll be back as soon as I can. Begood while I'm gone."
+
+; event 0x25b starts at offset 0x37f21b
+"Sarisa: Wait! I wanna go, too!"
