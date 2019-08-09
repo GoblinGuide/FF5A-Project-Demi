@@ -30,20 +30,21 @@ Text ID: Content
 "King Tycoon: What in blazes...!?"
 
 
-???: Going into Tycoon Meteor 1st time
+0x4ca: Going into Tycoon Meteor 1st time
 ; event 0x78 starts at offset 0x3744fa
 "Boko, wait here, okay?"
 
 
-???: Meeting Lenna
+0x4cd: Meeting Lenna
 ; event 0x79 starts at offset 0x374517
 "Hey, are you all right?Lenna: Y-yes... I believe so..."
 
 ; event 0x7a starts at offset 0x37455c
 "Lenna: I give you my thanks. My name is Lenna.And you are...?Me?"
 
+; event 0x5e starts at offset 0x373cc8
+"                  Please enter a name."
 
-???: Naming Bartz
 ; event 0x7b starts at offset 0x3745af
 ": Call me .Me and my chocobo just go wherever the trail leads us...Lenna: ..."
 
@@ -66,7 +67,7 @@ Text ID: Content
 ": Over there!"
 
 
-???: Meeting Galuf
+0x4d0: Meeting Galuf
 ; event 0x82 starts at offset 0x37480e
 "Lenna: Are you all right?Old Man: Where am I... Oh...my aching head!"
 
@@ -92,7 +93,7 @@ Text ID: Content
 "Lenna: ...Thank you again. Farewell...Galuf: Godspeed, and all that whatnot!"
 
 
-???: Earthquake and Goblins
+0x4d1: Earthquake and Goblins
 ; event 0x8a starts at offset 0x374cb4
 ": Ow!!! Boko! Bad, bad chocobo! What are youdoing, stopping like that!?"
 
@@ -109,7 +110,7 @@ Text ID: Content
 ": Boko, come on!Boko: Kweh!"
 
 
-???: Reuniting with Lenna and Galuf
+0x4da: Reuniting with Lenna and Galuf
 ; event 0x8f starts at offset 0x374e25
 "Lenna: Ohhh..."
 
@@ -152,7 +153,7 @@ Text ID: Content
 "Boko: Kweh!"
 
 
-???: Near Pirate Cave Spring
+0x21b or 0x4df: Near Pirate Cave Spring
 ; event 0x9e starts at offset 0x375455
 ": What's that spring?"
 
@@ -162,17 +163,17 @@ Text ID: Content
 "This is a recovery spring.HP and MP restored!All status ailments removed!KO'd allies revived!"
 
 
-???: Switch tutorial
+0x232 or 0x4e1: Switch tutorial
 ; event 0xa1 starts at offset 0x375525
 ": Aha! So that's how you get in!"
 
 
-???: Ship preview
+0x233 or 0x277: Ship preview
 ; event 0xa2 starts at offset 0x375550
 ": That ship just now...How was it sailing with the windso weak?"
 
 
-???: Shipnapping plan
+0x4e3: Shipnapping plan
 ; event 0xa3 starts at offset 0x37559c
 ": This is a pirate hideout...meaning that ship we saw must've been a pirate ship!"
 
@@ -189,7 +190,7 @@ Text ID: Content
 ": Whoa! You're pretty gutsy for an old-timer."
 
 
-???: Meeting Faris and Syldra
+0x559: Meeting Faris and Syldra
 ; event 0xaa starts at offset 0x37577a
 ": Yo-ho-ho, and stuff!Time to cast off!"
 
@@ -274,17 +275,17 @@ Text ID: Content
 "Pirate: Captain, shall I sail 'er to theWind Shrine for ye?"
 
 
-???: First save point
+0x596: First save point
 ; event 0x67 starts at offset 0x373e23
 "This is a consecrated circle.You may rest safely in a Tent or Cottage,or even save your game."
 
 
-???: Before Wing Raptor
+0x4f4 or 0x7f7: Before Wing Raptor
 ; event 0xf0 starts at offset 0x376d64
 ": Incoming!"
 
 
-???: After Wing Raptor
+0x4ec: After Wing Raptor
 ; event 0xf1 starts at offset 0x376d78
 "Lenna: The crystal: It's shattered!"
 
@@ -346,12 +347,12 @@ Text ID: Content
 "Lenna: ...There should be a warp panel to the outside behind the altar."
 
 
-???: Yeah, no thanks.
+0x62 or 0x341: Yeah, no thanks.
 ; event 0x105 starts at offset 0x3773a5
 "Would you like an explanation of using the crystal fragments andthe job ability system?"
 
 
-???: Tule first time
+0x4f5: Tule first time
 ; event 0x10d starts at offset 0x3778dd
 "Pirates: Grog! Grog!"
 
@@ -359,12 +360,12 @@ Text ID: Content
 "Faris: Think I'll stop in and have a drink as well."
 
 
-???: Leaving Tule
+0x4f7: Leaving Tule
 ; event 0x110 starts at offset 0x377952
 "Faris: Oho? Trying to give me the slip? I think not."
 
 
-???: Zok's house first time
+0x4fa: Zok's house first time
 ; event 0x14a starts at offset 0x37912d
 "Lenna: Mmm...I'm pretty sure thatthis is Zok's house, but..."
 
@@ -375,7 +376,7 @@ Text ID: Content
 "Lenna: Yes. He built the TornaCanal."
 
 
-???: Getting Torna Canal key
+0x4fe: Getting Torna Canal key
 ; event 0x14e starts at offset 0x379218
 "Zok: Ohhh, Princess Lenna!Lenna: Zok! It is good to see you."
 
@@ -422,7 +423,7 @@ Text ID: Content
 "Zok: Please! Take care of her!"
 
 
-???: Faris leaving the pirates
+0x4f8: Faris leaving the pirates
 ; event 0x15e starts at offset 0x37978f
 "Pirates: Captain! Wait up!"
 
@@ -448,7 +449,7 @@ Text ID: Content
 "Pirates: Wind at your back, Cap'n.Godspeed!"
 
 
-???: Boat after Tule
+0x657: Boat after Tule
 ; event 0x166 starts at offset 0x3799a6
 ": Lenna, what's wrong?"
 
@@ -498,12 +499,12 @@ Text ID: Content
 "Galuf: Sure enough! Let's be off!"
 
 
-???: Unlocking canal gate
+0x502: Unlocking canal gate
 ; event 0x176 starts at offset 0x379fdc
 "Galuf: ! Where intarnation did you get the key?: Does it matter? Let's get going!"
 
 
-???: Before Karlaboss
+0x51d: Before Karlaboss
 ; event 0x178 starts at offset 0x37a060
 ": Hey...what's that?Lenna: Oh no...the sealed monster..."
 
@@ -513,8 +514,6 @@ Text ID: Content
 ; event 0x17a starts at offset 0x37a142
 "Faris: Syldra, what's wrong!?: Look alive,something's coming!"
 
-
-???: After Karlaboss
 ; event 0x17b starts at offset 0x37a192
 "Faris: Syldra!: ...I'm sure she's okay.She's a fighter, and you know it."
 
