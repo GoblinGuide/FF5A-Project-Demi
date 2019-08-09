@@ -504,7 +504,7 @@ Text ID: Content
 "Galuf: ! Where intarnation did you get the key?: Does it matter? Let's get going!"
 
 
-0x51d: Before Karlaboss
+0x51d: Karlaboss
 ; event 0x178 starts at offset 0x37a060
 ": Hey...what's that?Lenna: Oh no...the sealed monster..."
 
@@ -536,12 +536,12 @@ Text ID: Content
 ": Where is this?Faris: The graveyard of the sea...Lenna: A gathering place for ruined and scuttled ships...and a nestfor the undead.Galuf: Brrrrr. All the more reasonto hotfoot it out of here!"
 
 
-???: Ship Graveyard
+0x8d: Ship Graveyard
 ; event 0x182 starts at offset 0x37a44a
 "Faris: Do we have to go this way? We'll get soaked...: What, are you going tomelt or something? Come on!"
 
 
-???: Faris' gender revelation
+0x8f: Faris' gender revelation
 ; event 0x183 starts at offset 0x37a4c7
 ": I'm soaked...Yow! There's a fish in my shorts!Lenna: This room seems safeenough... Let's take a rest."
 
@@ -588,7 +588,7 @@ Text ID: Content
 "Lenna: That's for certain!"
 
 
-???: Before Siren
+0x90: Siren
 ; event 0x192 starts at offset 0x37ab5e
 ": Something's fishyabout this place, and it ain't cod..."
 
@@ -622,8 +622,12 @@ Text ID: Content
 ; event 0x19c starts at offset 0x37aece
 " snaps out of it!Lenna comes to her senses!Faris leaves her trance!"
 
+; event 0x32b starts at offset 0x383976
+": Galuf!"
 
-???: After Siren
+; event 0x215 starts at offset 0x37d91f
+": Uh-ohhere it comes!"
+
 ; event 0x19d starts at offset 0x37af1a
 ": Galuf! You saved us...I owe you my life.Galuf: Ehh, don't sweat it."
 
@@ -631,7 +635,7 @@ Text ID: Content
 ": Aww, you're blushing!Galuf: I'm doing nothing of the sort!"
 
 
-???: Before Magissa
+0x94: Magissa
 ; event 0x1c9 starts at offset 0x37c054
 "Lenna: Father's helmet!"
 
@@ -662,13 +666,11 @@ Text ID: Content
 ; event 0x1d2 starts at offset 0x37c2e1
 "Magissa: Ooh... Annoying little twerps, ruining my plans... Fine, it just means I'll have to crush all four of you!"
 
-
-???: After Magissa
 ; event 0x1d3 starts at offset 0x37c35b
 "Lenna: Faris, thank you!"
 
 
-???: Obtaining Hiryuu
+0x96: Obtaining Hiryuu
 ; event 0x1d4 starts at offset 0x37c37a
 "Lenna: Hiryu!Faris: He's hurt pretty bad...Lenna: Hiryu... Don't worry, I'll take care of you."
 
@@ -697,7 +699,7 @@ Text ID: Content
 ": What's so funny!?Galuf: Your face, kiddo!Anyway, get on!"
 
 
-???: King Walse
+0x99: King Walse
 ; event 0x206 starts at offset 0x37d301
 "King Walse: Princess Lenna! This is certainly a pleasant surprise!Lenna: King Walse. You look well."
 
@@ -729,15 +731,13 @@ Text ID: Content
 "King Walse: Move out!"
 
 
-???: Before Garula
+0x9a: Garula
 ; event 0x214 starts at offset 0x37d8c1
 "Knight: They're controlling you, aren'tthey! Well, I won't let you destroy the crystal!"
 
 ; event 0x215 starts at offset 0x37d91f
 ": Uh-ohhere it comes!"
 
-
-???: After Garula
 ; event 0x216 starts at offset 0x37d93f
 "Lenna: Look!Faris: The crystal..."
 
@@ -757,15 +757,23 @@ Text ID: Content
 "Faris: The crystal fragments are glowing...: Are they gonnagive us their power, too?"
 
 
-???: Syldra's death
+0x9b: Losing the Mime crystal
 ; event 0x221 starts at offset 0x37dbd1
 ": What's going on!?Faris: The towerit's sinking!"
+
+
+0xa9: Syldra's death
+; event 0x8ad starts at offset 0x3a11f1
+": Aughhh!!!"
 
 ; event 0x222 starts at offset 0x37dc14
 "Faris: Syldra!"
 
 ; event 0x223 starts at offset 0x37dc29
 "Faris: Syldra! You're alive!"
+
+; event 0x222 starts at offset 0x37dc14
+"Faris: Syldra!"
 
 ; event 0x224 starts at offset 0x37dc4c
 "Lenna: Syldra...You used the last of your strength to save us..."
