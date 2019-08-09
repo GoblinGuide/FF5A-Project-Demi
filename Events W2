@@ -540,6 +540,26 @@
 ; event 0x578 starts at offset 0x390255
 "Exdeath: Mwa-hahahaha! Witness what befalls those whostand against me!"
 
+???: Surgate cutscene, entering before meeting Xezat on the boat - evidently this branches off 0x579 according to worms
+; event 0x579 starts at offset 0x3902a6
+"Guard: State your name and business!"
+
+; event 0x57a starts at offset 0x3902cd
+"Guard: Stand downthis is King Galuf of Bal! Let them in, you cretins!"
+
+; event 0x57b starts at offset 0x390319
+"Chief Guard: King Xezat is leading thefleet to Exdeath's castle.Galuf: Really!Faris: Xezatone of the Dawn Warriors, right?"
+
+; event 0x57c starts at offset 0x3903ac
+": Someone who fought along with Dad..."
+
+; event 0x57d starts at offset 0x3903dd
+"Chief Guard: This way, please."
+
+; event 0x57e starts at offset 0x3903fe
+"Chief Guard: Please, take anything within the castle that might help you."
+
+
 ???: landing on the Surgate boat
 ; event 0x5ac starts at offset 0x391131
 "Xezat: That wind drake..."
