@@ -2,7 +2,7 @@
 ; event 0x453 starts at offset 0x389bd9
 ": This...Lenna: This is Galuf's world...?"
 
-???: Between fights on Pao Island
+???: Between fights on Pao Island, might as well remove it for the one person who ever farms Tents there
 ; event 0x480 starts at offset 0x38acab
 "Lenna: Shall we put up a tent and rest for a while?"
 
@@ -626,33 +626,391 @@
 "Xezat: I'm counting on you! Good luck!"
 
 ???: mid-barrier tower Whisperweed cutscene
+; event 0x5d5 starts at offset 0x391f1f
+"*hiss*...Galuf, do you read?*hiss* Over!"
 
+; event 0x5d6 starts at offset 0x391f4c
+": What was thatthe whisperweed?Galuf: Xezat!Xezat: ...*hiss* Repeat, Galuf,do you copy? Over!Galuf: I hear you, loud and clear!Xezat: ...Good. *hiss* I've made it to the generator, over."
 
-???: top of barrier tower atomos cutscene
+; event 0x5d7 starts at offset 0x392039
+"Xezat: Everything looks all clear on this end. Oveeh!?"
 
-???: xezat's death cutscene
+; event 0x5d8 starts at offset 0x39207a
+"Galuf: Xezat! What was that?Xezat: ...*hiss*...Don't worry about it. *hiss* You just get to the roof as fast as you can! Over!Galuf: Gotchaer, over!"
+
+???: top of barrier tower pre-atomos cutscene
+; event 0x5d9 starts at offset 0x39212b
+"Galuf: Xezat! We've reached theantenna!Xezat: Roger that! Over!"
+
+; event 0x5da starts at offset 0x39217b
+"Xezat: Now! Destroy the antenna!"
+
+; event 0x5db starts at offset 0x3921a4
+"You think it'll be that easy? Think again!Now pay...with your blood!"
+
+???: post-atomos xezat's death cutscene
+; event 0x5dc starts at offset 0x3921ed
+": And that's how it's done!Galuf: Xezat! Can you hear me?It's done, we destroyed the antenna!"
+
+; event 0x5dd starts at offset 0x39225f
+"Xezat: No way out...Xezat: Galuf! Things are gettinghot down here. You need to hurryand make your escape!The energy feed's gone into a recursive loop... It's only a matter of time before it all blows!"
+
+; event 0x5de starts at offset 0x392342
+"Lenna: The wind drake! He can fly us out!"
+
+; event 0x5df starts at offset 0x392374
+"Galuf: Xezat! We're coming to getyou!Xezat: No! Don't come down here! Wait for me in the sub, andI'll catch up with you. Just go!"
+
+; event 0x5e0 starts at offset 0x39240a
+"Galuf: Idiot! He's gonna die! ButI'm not gonna let him"
+
+; event 0x5e1 starts at offset 0x39244b
+": Galuf! It's too dangerous!Galuf: I don't care!: ...Lenna, you and Farisgo ahead."
+
+; event 0x5e2 starts at offset 0x3924bc
+"Galuf: Xezat... You knew all along something like this would happen, didn't you!You knew, and still you sacrificed yourself...Xezat: Galuf, wait for me in thesub. Promise me you'll go.Over and out!"
+
+!!!: this guy's out of order, don't not notice that, please pay attention
+; event 0x5e4 starts at offset 0x3925bd
+"Xezat: Of course I knew... This was my plan, how could I not?But it would've been too dangerous for any of you to go in my stead.Four new warriors have been chosen by the crystals... They must be the ones to fight Exdeath.Galuf... and , Lenna, Faris...The rest is up to you.Don't worry...I'll always be with you when you need me..."
+
+; event 0x5e3 starts at offset 0x39259e
+"Galuf: Damn it, Xezat!!!"
+
+; event 0x5e5 starts at offset 0x392731
+": Galuf...I'm sorry."
+
+; event 0x5e7 starts at offset 0x392780
+": Galuf, XezatGaluf: We made a promise. Please, let me keep it."
+
+???: I don't know if we can get the bit before this, here, where Galuf stands around doing nothing until he yells at Xezat, but here's the dialogue where you get the submarine:
+; event 0x5e9 starts at offset 0x39285a
+"Galuf: Xezat, you ass! Always trying to play the hero, even to the end...!"
+
+; event 0x5ea starts at offset 0x3928af
+"Faris: With a submarine, I reckonit should be an easy task to locateGhido's cave.: Yeah, a lot easier thanswimming!"
+
+; event 0x5eb starts at offset 0x392939
+": How's he holding up?Lenna: He'll be all right... He just needs a little rest.: All right. We've got to keep moving!"
+
+???: if we want to trim the stone-moving dialogues in Ghido's Cave, I've put them here in storyline order, but that's super low priority
+; event 0x602 starts at offset 0x393621
+": It's emptywait.This one's got a big stone inside...Take the stone?"
+
+; event 0x603 starts at offset 0x393678
+": Nrrrgh!Cripes, this is heavy!"
+
+; event 0x604 starts at offset 0x3936a2
+"Place the large stone in the box?"
 
 ???: ghido cutscene
+; event 0x5f2 starts at offset 0x392b4a
+": Huh...what's up with this turtle?"
+
+; event 0x5f3 starts at offset 0x392b78
+"Galuf: ! Stop that!"
+
+; event 0x5f4 starts at offset 0x392b94
+": But it's fun! Poke, poke, poke..."
+
+; event 0x5f5 starts at offset 0x392bc2
+"Would you quit that!?"
+
+; event 0x5f6 starts at offset 0x392bda
+": Sweet Christmas,it's a talking turtle!"
+
+; event 0x5f7 starts at offset 0x392c0d
+"Galuf: Sage, I'm so sorry. Please forgive my brainless companion."
+
+; event 0x5f8 starts at offset 0x392c57
+": Waitthis turtle...Lenna: ...is the sage?Faris: By the briny beard of Neptune!"
+
+; event 0x5f9 starts at offset 0x392cc3
+"Galuf: And you finally catch aclue! Tarnation, I can't take you anywhere!"
+
+; event 0x5fa starts at offset 0x392d17
+"Ghido: It's all right, it's all right, nolasting damage... Physically, anyhow."
+
+; event 0x5fb starts at offset 0x392d6a
+": Oh, man, I'm awfully sorry...Ghido: You should be, boy, picking on defenseless turtles... However, we have more important things to discuss.: You mean Exdeath?Ghido: So, you aren't as slow as you look. What the warlock seeks is within the Great Forest of Moore.: The Forest of Moore?Ghido: Trees, my dear boy, lots of them, sprawling to the west of Surgate... That sentient forest is Exdeath's birthplace.: !?Ghido: A certain tree in that forest had been used to seal evil spirits for years...Five hundred years ago, the concentration of evil turned it into a dark creature with a life of its own.That creature is Exdeath. I maintained the seal on Exdeath for fivehundred years... However, thirty yearsago, the seal was broken.: Thirty years ago... That was when he fought the Dawn Warriors...Ghido: Yes. Don't interrupt.Dorgann and the others fought hard... Finally, they were able to seal thewarlock with the crystals.However, somehow, he escaped.: That was our fault...Ghido: Aren't we feeling self-important,taking all the blame, hmm? Had I meant itwas your fault, I would've said that.Seals are meant to be broken. It only means that this time, Exdeath must be destroyed!: Where is he!?Ghido: As I said, the Forest of Moore...Somethingexactly what I do not know,so don't askrests sealed within theforest that he wishes to claim.: The Forest of Moore..."
+
+; event 0x5fc starts at offset 0x393372
+"Ghido: I hate to beg, but I will. Please,go to the great forest and protect that which Exdeath seeks!"
+
+; event 0x5fd starts at offset 0x3933de
+": The Forest of Moore...Galuf: And Xezat's revenge!Faris: We'll defeat Exdeath!Lenna: Let's do it!"
+
+; event 0x5fe starts at offset 0x393461
+"Ghido: The Forest of Moore is sentient.It does not take kindly to intruders, andwill attack all who attempt to enter.: ...Ghido: Take this with you."
+
+; event 0x5ff starts at offset 0x39350a
+"            Received Guardian Branch!"
+
+; event 0x600 starts at offset 0x393534
+": What is it?Ghido: A branch from the Guardian Tree... That tree is what protects the seals.With that branch, you may enter the forest."
+
+; event 0x601 starts at offset 0x3935d0
+"Ghido: Now, hurry! Exdeath is already on his way to Moore!: Right!"
 
 ???: entering forest of moore
+; event 0x608 starts at offset 0x39374d
+"Lenna: Look...the tree branch,it's"
 
-???: the forest is on fire
+; event 0x609 starts at offset 0x39377a
+"Faris: The forest...: ...It's letting us in..."
+
+
+???: the forest starts to burn
+; event 0x60c starts at offset 0x39380f
+": Oh noExdeath is setting the forest on fire!"
+
+???: the forest continues to burn
+; event 0x60d starts at offset 0x393849
+"Moogle: Kupo!"
+
+???: the forest continues to burn but you're underground
+; event 0x60e starts at offset 0x393859
+": Let's hide out here until the flames die down!"
 
 ???: branch opens the way to guardians
+; event 0x610 starts at offset 0x3938d5
+"Lenna: What's that?"
+
+; event 0x611 starts at offset 0x3938ef
+"Galuf: The Guardian Tree... That's what protects the seal...?"
+
+; event 0x612 starts at offset 0x393935
+": Look, the branch!"
+
 
 ???: pre guardians cutscene
+; event 0x613 starts at offset 0x393951
+": What're those things?Galuf: Those must be whatever'ssealed in here!"
+
+; event 0x614 starts at offset 0x3939a9
+"Galuf: Here they come!"
 
 ???: post guardians pre solo exdeath cutscene
+; event 0x615 starts at offset 0x3939c6
+"Such efficient work...as if anything lesscould be expected of the bearers of thecrystals' power.Well done; you've destroyed the seals.Mwa-hahaha! I suppose I should thankyou for saving me the trouble!"
 
-???: post solo exdeath, krile joins, galuf is dead
+; event 0x616 starts at offset 0x393a9d
+"Galuf: Exdeath!!!"
+
+; event 0x617 starts at offset 0x393ab5
+"Exdeath: How ironic! The seals broken by the power of the four warriors meant to protect them!"
+
+; event 0x618 starts at offset 0x393b1e
+": What!?Galuf: They were crystals!?"
+
+; event 0x619 starts at offset 0x393b52
+"Exdeath: The crystals which bound me for so long...Now, their power is mine!"
+
+; event 0x61a starts at offset 0x393ba9
+"Exdeath: Bow down before my crystalsand my power!!!"
+
+; event 0x61b starts at offset 0x393be7
+"Krile: My heart is pounding... Something must have happened to Grandpa!"
+
+; event 0x61c starts at offset 0x393c39
+"Moogle: Kupo!Krile: What? They're in the Forest of Moore?"
+
+; event 0x61d starts at offset 0x393c7f
+"Krile: Come on, let's go!"
+
+; event 0x61e starts at offset 0x393c9f
+"Exdeath: Time for your viscerato see the light of day! Now die!"
+
+; event 0x61f starts at offset 0x393ce7
+"Krile: Grandpa! Oh! Lenna! Faris!"
+
+; event 0x620 starts at offset 0x393d15
+"Galuf: Krile...ExdeathKrile: Don't worry, he shouldn't be doing anything for a while...Oh!"
+
+; event 0x621 starts at offset 0x393d86
+"Exdeath: Impudent little fool!"
+
+; event 0x622 starts at offset 0x393dab
+"Krile: H-hey, what are you"
+
+; event 0x623 starts at offset 0x393dce
+"Exdeath: Die!"
+
+; event 0x624 starts at offset 0x393de2
+"Krile: Gr...Grand...pa...!"
+
+; event 0x625 starts at offset 0x393e03
+"Galuf: Kr...Krile...!"
+
+; event 0x626 starts at offset 0x393e1f
+"Exdeath: So certain you want to keep moving, Galuf?Try to dispel this power, and your precious crystals will shatter!"
+
+; event 0x627 starts at offset 0x393ea3
+"Galuf: Krile!"
+
+!!! yes, I'm sure event 0x628 isn't used here, I watched a speedrun and read OFS's LP and everything
+; event 0x629 starts at offset 0x393ed0
+"Galuf: Exdeath!!!"
+
+???: post solo exdeath, galuf is dead
+; event 0x62a starts at offset 0x393ee8
+"Krile: ..."
+
+; event 0x62b starts at offset 0x393ef9
+"Krile: ... ...Grandpa!Lenna: Galuf!"
+
+; event 0x62c starts at offset 0x393f2d
+"Krile: Grandpa!!!"
+
+; event 0x62d starts at offset 0x393f45
+": Galuf!Lenna: Galuf!!!Faris: Hold on, we can"
+
+; event 0x62e starts at offset 0x393f8d
+"Galuf: No good... 'S too late...f'r me...: Galuf! Don't talk like that!Lenna: Galuf!Faris: Get up, you old bat! Quitplaying around, this isn't funny!Krile: Wake up...wake up, please!Galuf: ... Lenna, Faris... My dear Krile...Exdeath...Exdeath...Destroy...him..."
+
+; event 0x62f starts at offset 0x3940d9
+"Krile: Grandpa! No! You can't die, you can't!!!"
+
+; event 0x630 starts at offset 0x394113
+": Galuf! Curaga!"
+
+; event 0x631 starts at offset 0x39412e
+"Lenna: Please... Raise!!!"
+
+; event 0x632 starts at offset 0x394150
+"Faris: Open your eyes!Phoenix Down! Elixir! Anything!"
+
+; event 0x633 starts at offset 0x39418e
+"      Galuf's flame has flickered out..."
+
+; event 0x634 starts at offset 0x3941bb
+"Krile: GRANDPA!!!No! No! You can't leave me, youcan't die!!!"
+
+???: you regain free movement before Krile formally joins, she has to get talked to in order to go outside and do this
+; event 0x63f starts at offset 0x3945eb
+"Krile: Grandpa is calling...!"
+
+!!!yes, 0x63f comes before all this despite being after it in the IDs
+; event 0x635 starts at offset 0x394202
+"Krile...Krile: ...? Grandpa!?"
+
+; event 0x636 starts at offset 0x39422a
+"Galuf: The Guardian Tree, which has protected the crystals for a thousand years, is letting me borrow its power to speak to you.I don't have long. I want to give you my strength...C'mon, Krile...don't cry... Stand with  and the others, be strong, and fight!"
+
+; event 0x637 starts at offset 0x394348
+"Krile: No! You do it, come back! Don't leave me alone!"
+
+; event 0x638 starts at offset 0x394387
+"Galuf: You know I can't do that. But you're not alone, Krile. You understand that, don't you."
+
+; event 0x639 starts at offset 0x3943ef
+"        Krile received Galuf's abilities!        "
+
+; event 0x63a starts at offset 0x394425
+"Krile: Grandpa......it's warm...GrandpaI feel you with me...Galuf: I'll be in your heart,always."
+
+; event 0x63b starts at offset 0x39449c
+"Krile: Grandpa.........I understand.Huh?Exdeath is...?"
+
+; event 0x63c starts at offset 0x3944e3
+": Krile!"
+
+; event 0x63d starts at offset 0x3944f4
+"Krile: , Lenna, Faris... I'll fight along with you!: Krile...Krile: Grandpa told me that rightnow, Exdeath is trying to destroythe crystals.We've got to hurry to Exdeath's castle!"
+
+; event 0x63e starts at offset 0x3945ce
+"Krile: The wind drake!"
+
 
 ???: krile dispels exdeath's castle's illusion
+; event 0x64b starts at offset 0x3947e7
+": Dead end, huh..."
+
+; event 0x64c starts at offset 0x394802
+": Krile, where're yougoing? There's nothing in here.Krile: No, there is... All of this isan illusion created by Exdeath.Lenna: What? Are you certain?"
+
+; event 0x64d starts at offset 0x3948b4
+"Krile: Grandpa, give mestrength..."
+
+; event 0x64e starts at offset 0x3948df
+"Kelger: I see...Galuf has fallen as well...Dorgann, Xezat, and Galuf have all shuffled off this mortal coil...*cough cough*I fear I haven't much longer,either..."
+
+; event 0x64f starts at offset 0x394997
+"Lord Kelger!"
+
+; event 0x650 starts at offset 0x3949a6
+"Kelger: It's nearing the time forthat longest of rests..."
+
+; event 0x651 starts at offset 0x3949e8
+"Kelger: Who goes there?...Galuf?Galuf, is it you?Krile is...?"
+
+; event 0x652 starts at offset 0x394a36
+"Kelger: Galuf...Understood."
+
+; event 0x653 starts at offset 0x394a5c
+"Kelger: Everyone... Lend me yourstrength!Lord Kelger!Kelger: Let us rend the illusion Exdeath has created!"
+
+; event 0x654 starts at offset 0x394add
+"Kelger: This is my last wish and last command. Send all your power to Exdeath's castle!"
+
+; event 0x655 starts at offset 0x394b3f
+"Lord Kelger!!!"
+
+; event 0x656 starts at offset 0x394b50
+"Krile: I see Grandpa...and...a wolf man!: It must be Kelger!"
+
+!!!skip 0x657 before this, it's not there
+; event 0x658 starts at offset 0x394bb1
+"Krile: Everyone's power..."
 
 ???: gilgamesh in a chest cutscene
+; event 0x65b starts at offset 0x394cc8
+": Ah geez, Gilgamesh!Gilgamesh: Ha ha! Looking for something? Well, guess what? Ialready took the treasure!Ohh, you guys are sooo burned!"
+
+!!!: do we care about the battle end script, might be worth bothering
+; event 0xb33 starts at offset 0x3a813d
+"Exdeath: Gilgamesh!"
+
+; event 0xb34 starts at offset 0x3a8151
+"Gilgamesh: Erk!"
+
+; event 0xb35 starts at offset 0x3a8161
+"Exdeath: You worthless fool!"
+
+; event 0xb36 starts at offset 0x3a817e
+"For your continued bungling,I banish you from this dimension!"
+
+; event 0xb37 starts at offset 0x3a81be
+"Gilgamesh: Wh-what!? No!"
+
+; event 0xb38 starts at offset 0x3a81d7
+"Anything but that!"
+
+; event 0xb39 starts at offset 0x3a81ea
+"Exdeath: Silence!"
 
 ???: pre w2 exdeath cutscene
+; event 0x65c starts at offset 0x394d68
+"Exdeath: Do not interfere!"
+
+; event 0x65d starts at offset 0x394d89
+": Exdeath! No way we'll let you get away with this!"
+
+; event 0x65e starts at offset 0x394dc7
+"Exdeath: Mwa-hahahaha... Have you any idea what I plan to get away with in the first place?: Wha? No, but...Exdeath: You all fight so fiercely, yet have no idea of the truth... Hmph.I will return the earth to how it used to be."
+
+; event 0x65f starts at offset 0x394ed1
+": You mean you'll turn it to a world full of evil!Exdeath: Believe what you wish.Simple-minded fools such as yourselves could never hope to understand my motives.It matters not. I will tolerate no more interruptions!"
 
 ???: post w2 exdeath cutscene, this is start of w3 where you wake up outside tycoon
+; event 0x660 starts at offset 0x394fca
+"Lenna: Oh nothe crystals!: They...they're breaking!"
+
+; event 0x661 starts at offset 0x395012
+"Lenna: That's..."
+
+; event 0x662 starts at offset 0x395029
+"Faris: That's Castle Tycoon...Lenna: We're back home!?"
 
 
-TODO: confirm I didn't miss any, also do all these, but I'm going off memory because I want a break
+TODO: time for event IDs rather than just text IDs, but I might do W3 cutscene text first because it's easier
