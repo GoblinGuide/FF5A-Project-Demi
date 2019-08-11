@@ -1032,5 +1032,9 @@
 ; event 0x662 starts at offset 0x395029
 "Faris: That's Castle Tycoon...Lenna: We're back home!?"
 
+???: can we pre-flag 'the guy in Quelb is out of the well'? That's this line of dialog
+; event 0x843 starts at offset 0x39e54b
+"Frooooooooog...A froooooooooog..."
+
 
 TODO: time for event IDs rather than just text IDs, but I might do W3 cutscene text first because it's easier
