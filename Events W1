@@ -788,7 +788,7 @@ Text ID: Content
 "Faris: ...Syldra..."
 
 
-???: Meteorite warp
+0x9e: Meteorite warp
 ; event 0x232 starts at offset 0x37e1ae
 "Lenna: !Galuf: Did he make it? Did he...warp?"
 
@@ -799,12 +799,12 @@ Text ID: Content
 "Galuf: This...this all looks reallyfamiliar... And the soldier in that tower knew me...Who am I?"
 
 
-???: Karnak
+0x506 and 0x507: Karnak (separate events for Weapon and Armor Shop)
 ; event 0x282 starts at offset 0x37ffe5
 "There they are!: ???They're with the monsters! We saw you all crawl from the meteoritedon't tryto deny it!"
 
 
-???: Meeting Cid
+0x509: Meeting Cid (0x508 is probably the waiting event)
 ; event 0x283 starts at offset 0x380066
 "Oh, horsefeathers!: !?"
 
@@ -857,7 +857,7 @@ Text ID: Content
 "Cid: I'll go ahead to the fire-powered ship.It's not exactly a safe place to be...you get ready and meet me there. I'll be waiting!"
 
 
-???: Werewolf
+0x543: Werewolf
 ; event 0x2a7 starts at offset 0x380e4c
 "Soldier: The werewolf!!!"
 
@@ -868,7 +868,7 @@ Text ID: Content
 "We scared him off using some of Professor Cid's explosives... But he'll beback, you can count on it."
 
 
-???: Fire ship
+0x50e: Fire ship
 ; event 0x2af starts at offset 0x380ff4
 "Cid: Took you long enough!"
 
@@ -879,23 +879,18 @@ Text ID: Content
 "Cid: You can get inside here...butit'll be tough going from here on.The ship's packed with monsters!Good luck, kids... We're counting onyou."
 
 
-???: Before Liquid Flame
+0x5d3: Liquid Flame
 ; event 0x2b3 starts at offset 0x3811c5
 "Lenna: Queen Karnak!: What's going on?"
 
 ; event 0x2b4 starts at offset 0x3811fc
 "Queen Karnak: Infidels... You shall pay for interfering with my revival!"
 
-
-???: After Liquid Flame
 ; event 0x2b5 starts at offset 0x381249
 ": Queen Karnak!Queen Karnak: I...I was being controlled by something...an evil spirit... It desiresto envelop everything in darkness...: Your Highness...Queen Karnak: The crystals...it's not just the machines that are destroyingthem...Something evil is using their power to resurrect itself...Please...save the fire crystal. It's in the room just through that pipe..."
 
-; event 0x2b6 starts at offset 0x3813e7
-"Queen Karnak: Do not worry about me. More importantly...protect the crystal..."
 
-
-???: Before Karnak 500
+0x518: Before Karnak 500
 ; event 0x2b7 starts at offset 0x38143a
 "Lenna: The fire crystal!"
 
@@ -951,34 +946,41 @@ Text ID: Content
 "Time left before detonation:                         10 minutes!"
 
 
-???: After Karnak 500
+0x51c: After Karnak 500
 ; event 0x2c9 starts at offset 0x381a3a
 ": Crystal shards...Lenna: Will you lend us your power as well?"
+
+; event 0x8c6 starts at offset 0x3a1eab
+"             Resting within the shard,                   a warrior's spirit..."
 
 ; event 0x2ca starts at offset 0x381a8b
 "                         Beastmaster"
 
+; event 0x8c6 starts at offset 0x3a1eab
+"             Resting within the shard,                   a warrior's spirit..."
+
 ; event 0x2cb starts at offset 0x381ab4
 "                           Geomancer"
+
+; event 0x8c6 starts at offset 0x3a1eab
+"             Resting within the shard,                   a warrior's spirit..."
 
 ; event 0x2cc starts at offset 0x381add
 "                               Ninja"
 
 
-???: Before Ifrit
+0x577: Ifrit
 ; event 0x2fc starts at offset 0x3828b3
 "Ifrit: I am Ifrit... For many years I have existed, sealed within the pages of this book..."
 
 ; event 0x2fd starts at offset 0x382915
 "Only those who can withstand my flames will be granted the privilege of summoning me!"
 
-
-???: After Ifrit
 ; event 0x2fe starts at offset 0x382971
 "   Received the summoned monster Ifrit!   "
 
 
-???: Asshole bookcase
+0x576: Asshole bookcase
 ; event 0x2fa starts at offset 0x382862
 "Bookshelf: Bwah-ha-ha! None shall pass!"
 
@@ -986,15 +988,12 @@ Text ID: Content
 "Bookshelf: GahIfrit! S-sorry, sir!"
 
 
-???: Before Byblos
+0x51e: Before Byblos
 ; event 0x2ff starts at offset 0x3829a0
 ": What's that?Lenna: Mid?Galuf: Stay on your toes! I have abad feeling about this place."
 
 
-???: After Byblos
-; event 0x300 starts at offset 0x382a13
-"Scholar: Mid! There you are!"
-
+0x51f: After Byblos
 ; event 0x301 starts at offset 0x382a32
 "Mid: Huh? I told you not to botherme when I'm reading!: Don't tell me youwere engrossed in that book thewhole time!?Mid: What whole time?Now that you mention it, I didhear some rustling behind me...Oh, was that you?"
 
@@ -1003,6 +1002,9 @@ Text ID: Content
 
 ; event 0x303 starts at offset 0x382ba2
 "Mid: Whatever...guess it's time to go back, huh? You guys coming too? I know a shortcut."
+
+; event 0x300 starts at offset 0x382a13
+"Scholar: Mid! There you are!"
 
 ; event 0x304 starts at offset 0x382c05
 "Scholar: Mid! You're all right!Scholar: Thank you for finding Mid!Scholar: Thank goodness you're back!"
@@ -1032,7 +1034,7 @@ Text ID: Content
 "Lenna: WaitMid!"
 
 
-???: Encouraging Cid
+0x513: Encouraging Cid
 ; event 0x30d starts at offset 0x382f89
 ": Cid!Cid: ...Lenna: Mid isn't here?Faris: Come on, man. Pull yourselftogether!"
 
@@ -1073,7 +1075,7 @@ Text ID: Content
 "Cid: All right! Let's get to work!Mid: Yeah!"
 
 
-???: Remembering Krile
+0x514: Remembering Krile
 ; event 0x31a starts at offset 0x383484
 "Mid: Move it, guys!"
 
@@ -1135,7 +1137,7 @@ Text ID: Content
 ": Galuf!!!Galuf: 'M...okay..."
 
 
-???: Fire ship fixed
+0x515: Fire ship fixed
 ; event 0x32f starts at offset 0x383a3b
 "Cid: *yawn*...Ahhh, slept like a top!"
 
@@ -1151,8 +1153,11 @@ Text ID: Content
 ; event 0x333 starts at offset 0x383c10
 "Cid: If you need anything, then just stop by!Mid: Take care of yourselves!"
 
+; event 0x334 starts at offset 0x383c6b
+": We're off!"
 
-???: Crescent earthquake
+
+0xa3: Crescent earthquake
 ; event 0x368 starts at offset 0x3848f0
 "Not again... It's another quake!"
 
@@ -1160,12 +1165,12 @@ Text ID: Content
 ": What the Crap, the ship!"
 
 
-???: Sinking ship
+0xa5: Sinking ship
 ; event 0x36a starts at offset 0x38493a
 ": Oh no, the ship's sinking!
 
 
-???: Meeting black chocobo
+0xae: Meeting black chocobo
 ; event 0x373 starts at offset 0x384bd5
 "Galuf: What the heck is that?Lenna: A chocobo...?Faris: Doesn't look like any chocobo I've ever seen.: Whatever it is,I'll catch it!"
 
@@ -1196,7 +1201,7 @@ Text ID: Content
 ": Ew, they're still sticky.Galuf: But maybe this time he'll beable to fly!"
 
 
-???: Back to the library
+0x517: Back to the library
 ; event 0x386 starts at offset 0x385223
 "Cid: Hey! You're back!: Cid... We found Crescent Island, but the fire-powered ship sank!"
 
@@ -1219,7 +1224,7 @@ Text ID: Content
 ": Let's check it out!"
 
 
-???: Before Sandworm
+0xaf: Before Sandworm
 ; event 0x394 starts at offset 0x3859a2
 "Galuf: As expected, it's hopeless..."
 
@@ -1235,17 +1240,20 @@ Text ID: Content
 ; event 0x398 starts at offset 0x385b4f
 "Galuf: Not the most sophisticated of methods...Cid: You aren't that sophisticatedof a guy! I think it suits you fine!"
 
+
+0xb0: Before Sandworm choice
 ; event 0x399 starts at offset 0x385bd7
 "Cid: So, make sure you're ready, then we'll start."
 
+0x161 or 0x28b or 0x28c or 0x4dd: Sandworm choice
 ; event 0x39a starts at offset 0x385c12
 "Cid: All right, we're going to call the sandworm!Mid: You guys ready?"
 
+
+0x30d: Bullshit advice & after Sandworm
 ; event 0x39b starts at offset 0x385c6a
 "Mid: Oh yeahif you use any magic on the sandworm, you'll be sorry. Good luck!Cid: Here goes!"
 
-
-???: After Sandworm
 ; event 0x39c starts at offset 0x385cdb
 "Mid: Game, set, and match!Cid: Now you can get into the desert!"
 
