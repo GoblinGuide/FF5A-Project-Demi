@@ -1,7 +1,70 @@
+???: opening Tycoon's gate, this may be reused in W1 I don't actually know
+; event 0x236 starts at offset 0x37e2af
+"Thank heavens you're back safe!"
 
+; event 0x237 starts at offset 0x37e2d1
+"The chancellor wishes to speak with you."
 
+???: losing Lenna and Faris
+; event 0x667 starts at offset 0x3950c2
+"Chancellor: Princess Lenna! Princess Sarisa! Welcome home!"
 
+; event 0x668 starts at offset 0x395101
+"Lenna: Father...he"
 
+; event 0x669 starts at offset 0x39511c
+"Chancellor: The king's passing was a great loss...However, we must do our best to continue on without him.Chancellor: Additionally, Princess Sarisa has returned, when we thought her dead... It is cause for celebration!"
+
+; event 0x66a starts at offset 0x395205
+"Faris: Sarisa... My true name...Chancellor: Yes, my lady.Faris: The name Papa gave me..."
+
+; event 0x66b starts at offset 0x395272
+": Hey, what're you doing!?"
+
+; event 0x66c starts at offset 0x395297
+"Chancellor: Preparations for thebanquet are ready. Of course, your acquaintances are welcome to attend."
+
+; event 0x66d starts at offset 0x395305
+"Faris: Wh You want me to go outtheredressed like this? Are youmad!?Chancellor: Come now, Princess!Faris: *sigh*"
+
+; event 0x66e starts at offset 0x39538f
+"Oh...Sheshe's gorgeous!"
+
+; event 0x66f starts at offset 0x3953af
+": Yowza! She really is!"
+
+; event 0x670 starts at offset 0x3953cf
+"Krile: , I think you're blushing!: II am not!"
+
+???: Krile conversation on the balcony before leaving Tycoon
+; event 0x679 starts at offset 0x395698
+"Krile: Grandpa...: Krile...how're you holding up?"
+
+; event 0x67a starts at offset 0x3956dc
+"Krile: All right... It's not so painful anymore, but... I guess Ijust feel anxious.Krile: It's like Grandpa is fussing at us to hurry."
+
+; event 0x67b starts at offset 0x395777
+": Mm, I think I get it.Let's check it out.Krile: Huh? What?"
+
+; event 0x67c starts at offset 0x3957c5
+": We're back in my world.There's gotta be a reason for that,right? Let's find out what it is.Krile: ...Okay!"
+
+???: going out Tycoon's gate after balcony
+; event 0x67d starts at offset 0x395846
+"Krile: What about the girls?: No way they can slip away, so..."
+
+???: bridge and Boko conversation at Tycoon exit
+; event 0x680 starts at offset 0x39590d
+"Oh, sorry! I was just rushing over to tell everyone the bridge over the west riveris complete!"
+
+; event 0x681 starts at offset 0x395972
+": Boko might still be over in that cave to the west...Krile: Boko?: He's my prized chocoboand my best friend.Krile: Oh, really?: What, you don't believe me?Krile: Well, you're so poor at riding wind drakes...: Hey! You little"
+
+; event 0x682 starts at offset 0x395a9e
+"Krile: Ow! Take this!"
+
+; event 0x683 starts at offset 0x395aba
+": Geez, I can't win against this kid..."
 
 
 
@@ -10,4 +73,4 @@
 "Here. We brought some water from the recovery spring in the Wind Shrine."
 
 
-TODO: literally all the events in W3
+TODO: all the rest of W3, obviously
