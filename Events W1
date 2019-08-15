@@ -1267,15 +1267,17 @@ Text ID: Content
 "Mid: Take care!"
 
 
-???: Gohn
+0x232: Gohn
 ; event 0x3a1 starts at offset 0x385da7
 ": Guess this is that Town of Ruin Cid was talking about..."
 
+
+0x233: Spotting King Tycoon
 ; event 0x3a2 starts at offset 0x385dee
 "Lenna: That was...Faris: King Tycoon...?"
 
 
-???: Hide and Seek
+0xb5: Hide and Seek
 ; event 0x3a4 starts at offset 0x385e26
 "Lenna: Father!Faris: ...P...Papa..."
 
@@ -1295,7 +1297,7 @@ Text ID: Content
 "Galuf: Now wait one cotton-picking minute! That was anawfully quick decision to ditch me!: Yikes! Uh...sorry!"
 
 
-???: Airship warp
+0xb7: Airship warp
 ; event 0x3aa starts at offset 0x386119
 ": What is this?"
 
@@ -1317,12 +1319,12 @@ Text ID: Content
 "There's a switch here.Push the switch?"
 
 
-???: Reuniting with fire ship
+0xbc: Reuniting with fire ship
 ; event 0x3b8 starts at offset 0x386564
 ": This is...?Hey, it's the fire-powered ship! Ithought it had sunk....But what's that ship over there?"
 
 
-???: Meeting the airship
+0xc2: Meeting the airship
 ; event 0x3b9 starts at offset 0x3865dd
 ": Propellers on a boat?What's up with that?"
 
@@ -1375,12 +1377,12 @@ Text ID: Content
 ": Cid...Cid: If you're just going to thank me, I don't need to hear it.Mid: We'll stay here and searchfor some clues about the earthcrystal!Cid: The skies are yours, kids. Now get out there!"
 
 
-???: Flying town
+0x317: Flying town
 ; event 0x3d7 starts at offset 0x387168
 ": What's going on?Galuf: Look! The town..."
 
 
-???: Going back to catapult
+0xc8: Going back to catapult
 ; event 0x3d8 starts at offset 0x3871a3
 ": Cid! Mid! We've got anissue here...Cid: Save your breath...Mid: ...'coz we saw the ruinsthrough the telescope!"
 
@@ -1415,7 +1417,7 @@ Text ID: Content
 "Cid: We'll stay and get things prepared.Mid: You guys hurry and bring ussome adamantite!"
 
 
-???: Opening Tycoon meteorite
+0x5eb: Opening Tycoon meteorite
 ; event 0x3e3 starts at offset 0x3876bd
 "Galuf: Hrm...It was around here, I'm sure of it..."
 
@@ -1423,7 +1425,7 @@ Text ID: Content
 "Galuf: There! Inside there!"
 
 
-???: Getting adamantite
+0x5ef: Getting adamantite
 ; event 0x3e6 starts at offset 0x387755
 "Galuf: There it is!"
 
@@ -1433,12 +1435,12 @@ Text ID: Content
 ; event 0x3e8 starts at offset 0x387815
 "                Obtained Adamantite!"
 
-???: Adamantoise
+0x5f0: Adamantoise
 ; event 0x3e5 starts at offset 0x38771a
 ": There's something in here with us...watch out!"
 
 
-???: Giving the adamantite
+0xc9: Giving the adamantite
 ; event 0x3e9 starts at offset 0x38783e
 "Cid: Great, you got the adamantite!Mid: Quick, give it here so we caninstall it!, you guys take a break."
 
@@ -1466,8 +1468,11 @@ Text ID: Content
 ; event 0x3f1 starts at offset 0x387ae8
 "Lenna: But we must go!Faris: No question about it!Galuf: I don't even see the worry.What's a couple of overblown pop-guns against the likes of us!?: Cid, Mid, thanks forall your help. Now, let's get to thecrystal before it's too late!"
 
+; event 0xaa starts at offset 0x37577a
+": Yo-ho-ho, and stuff!Time to cast off!"
 
-???: Before Soul Cannon
+
+0x34f: Before Soul Cannon
 ; event 0x3f2 starts at offset 0x387bfb
 ": So much for their defenses!Lenna: Waitwhat's that!?"
 
@@ -1475,7 +1480,7 @@ Text ID: Content
 "Galuf: Cripes, look at the size of it!Faris: Guess there's one last thing to take care of...!"
 
 
-???: After Soul Cannon
+0xcf: After Soul Cannon
 ; event 0x3f4 starts at offset 0x387cb5
 ": So, I guess that hole's the way in?Galuf: Sure looks like it.Faris: We'll know in a second!"
 
@@ -1502,7 +1507,10 @@ Text ID: Content
 ": The earth crystal should be just ahead..."
 
 
-???: Meeting Krile
+0xdd: Meeting Krile
+; event 0x40e starts at offset 0x3883ce
+"Lenna: Father!Faris: Papa!"
+
 ; event 0x3fb starts at offset 0x387f0c
 "Galuf: This is bad! Something's gotta be controlling him!"
 
@@ -1560,14 +1568,14 @@ Text ID: Content
 ; event 0x40d starts at offset 0x38836e
 "Exdeath: Hah! Now the crystals have been destroyed. Next shall beyour world, Galuf!!!"
 
-; event 0x40e starts at offset 0x3883ce
-"Lenna: Father!Faris: Papa!"
-
 ; event 0x40f starts at offset 0x3883f7
 "King Tycoon: Sarisa...Lenna..., and you, warriors from another world.I fear your work is still unfinished.You must not allow the world todisappear into nothingness..."
 
 ; event 0x410 starts at offset 0x3884b2
 "King Tycoon: Light of earth! Come forth and reclaim your essence from me!"
+
+; event 0x40e starts at offset 0x3883ce
+"Lenna: Father!Faris: Papa!"
 
 ; event 0x411 starts at offset 0x388506
 "King Tycoon: Get back! The crystal...must be saved..."
@@ -1583,6 +1591,9 @@ Text ID: Content
 
 ; event 0x415 starts at offset 0x388669
 "Lenna: WaitFather! You can'tFaris: Don'tdon't leave us!"
+
+; event 0x8c6 starts at offset 0x3a1eab
+"             Resting within the shard,                   a warrior's spirit..."
 
 ; event 0x416 starts at offset 0x3886b5
 "                             Samurai                             Dragoon                              Dancer                             Chemist"
@@ -1645,7 +1656,7 @@ Text ID: Content
 ": Galuf! Krile!"
 
 
-???: Before visiting meteorites
+0x46d: Before visiting meteorites
 ; event 0x42a starts at offset 0x388e86
 "Lenna: ...: Yeah?Faris: So, we've been talking..."
 
@@ -1668,7 +1679,7 @@ Text ID: Content
 ": Well, when I think meteorites, I think Cid! He'll probably know something!"
 
 
-???: Collecting more adamantites
+0x354: Collecting more adamantites
 ; event 0x432 starts at offset 0x38911b
 ": Cid! Mid! What're you guysCid: , stay back! It's dangerous!"
 
@@ -1691,7 +1702,7 @@ Text ID: Content
 ": ...it'd be enough towarp to Galuf's world!"
 
 
-???: Before 4 meteorites done
+0x363: Before 4 meteorites done
 ; event 0x450 starts at offset 0x3899fd
 "Cid: All right... Let's get to the next meteorite!Mid: Yeah!"
 
@@ -1736,12 +1747,10 @@ Text ID: Content
 "Lenna: They've been inside forquite some time, don't you think?Faris: We'd better check on them."
 
 
-???: Before Manticore
+0x367: Manticore
 ; event 0x44d starts at offset 0x389968
 "Cid: Help!Mid: Yeow! Help us!!!"
 
-
-???: After Manticore
 ; event 0x44e starts at offset 0x389996
 ": Come on!"
 
@@ -1749,10 +1758,11 @@ Text ID: Content
 "Lenna: Are you all right?Mid: We are now!Cid: That was close!"
 
 
-???: After all 4 meteorites
+0x293: After all 4 meteorites part 1
 ; event 0x43e starts at offset 0x3895ea
 "Cid: That's all four meteorites! Now, take a look at this map."
 
+0x294: After all 4 meteorites part 2
 ; event 0x43f starts at offset 0x389631
 "Mid: See where the energies fromall four meteorites intersect?That's the warp point.Now, get over there!"
 
@@ -1763,7 +1773,7 @@ Text ID: Content
 ": Thanks for everything, guys."
 
 
-???: Warping to W2
+0xe2: Warping to W2
 ; event 0x451 starts at offset 0x389a4a
 "Lenna: The light is fading...: There's not much power left from the meteorites.Faris: No turning back now!: A one-way trip, huh?You guys sure about this? We probably won't be able to come back home...Lenna: That doesn't matter...thisis more important.Faris: Aye. We're in this 'til the bitter end."
 
@@ -1783,7 +1793,7 @@ Text ID: Content
 ": This...Lenna: This is Galuf's world...?"
 
 
-???: Getting Romeo's Ballad
+0x1a3: Getting Romeo's Ballad
 ; event 0x467 starts at offset 0x38a1a1
 "Dorgann: Is he asleep?Stella: ...You're leaving again so soon?"
 
@@ -1803,7 +1813,7 @@ Text ID: Content
 "STELLA!!!"
 
 
-???: Lix inn
+0x1aa: Lix inn
 ; event 0x473 starts at offset 0x38a7ed
 "Faris: ... You okay?"
 
@@ -1829,7 +1839,19 @@ Text ID: Content
 "Faris: Let's head back. Lenna'llworry if she wakes and finds usgone."
 
 
-???: Tycoon 1
+0x9f: Tycoon 1
+; event 0x23e starts at offset 0x37e5b8
+"Lenna: What's more... Father is still alive, and I"
+
+; event 0x23f starts at offset 0x37e5f5
+"Chancellor: ...I understand. Princess Lenna, we will protect thekingdom, I swear it!"
+
+; event 0x240 starts at offset 0x37e650
+"Lenna: And I swear to return, andbring Father back.Until that time, please hold things together here."
+
+; event 0x241 starts at offset 0x37e6c4
+"Chancellor: For now, will you at leaststay the night?Lenna: Certainly."
+
 ; event 0x242 starts at offset 0x37e717
 "Lenna: Faris?"
 
@@ -1852,13 +1874,20 @@ Text ID: Content
 "Lenna: *giggle*Galuf: What in tarnation are you doing, kid?Faris: I think he's a few men shortof a full crew..."
 
 
-???: Tycoon 2
+0x385: Tycoon 2
 ; event 0x249 starts at offset 0x37e97d
 "Faris: Lenna, you awake?"
 
 ; event 0x24a starts at offset 0x37e99c
 "Lenna: Yes... Is something wrong?Faris: Not wrong, just...strange.I was just a wee lass when I felloverboard... Between that and theshock, I forgot a lot of my life here.Lenna: FarisSarisa...Faris: But for some reason, beingback herejust being in this room is making those memories return..."
 
+*cue flashback*
+
+; event 0x251 starts at offset 0x37edfe
+"Lenna: Sarisa...Faris: Yeah?Lenna: Perhaps we should keepthis a secret from the chancellorfor now.He would only make a big fuss if heknew, and he certainly wouldn'tlet you leave the palace again...Faris: Aye..."
+
+
+0x3f6: Tycoon 2 flashback
 ; event 0x24b starts at offset 0x37eaee
 "Sarisa: Cure... Cura... Curaga..."
 
@@ -1877,9 +1906,6 @@ Text ID: Content
 ; event 0x250 starts at offset 0x37ede6
 "Jenica: She's late..."
 
-; event 0x251 starts at offset 0x37edfe
-"Lenna: Sarisa...Faris: Yeah?Lenna: Perhaps we should keepthis a secret from the chancellorfor now.He would only make a big fuss if heknew, and he certainly wouldn'tlet you leave the palace again...Faris: Aye..."
-
 ; event 0x252 starts at offset 0x37eefb
 "Faris: And we have to get outthere and find Papa..."
 
@@ -1887,10 +1913,15 @@ Text ID: Content
 "Faris: And we've got to go helpGaluf and the others."
 
 
-???: Tycoon 3
+0x395: Tycoon 3
+; event 0x41b starts at offset 0x388853
+"Lenna: Father...He's gone, isn't he..."
+
 ; event 0x257 starts at offset 0x37f065
 "Lenna: Faris...Sarisa. Do you remember Father?Faris: ...It must've been fifteen years..."
 
+
+0x39a: Tycoon 3 flashback
 ; event 0x258 starts at offset 0x37f0d0
 "Sarisa: No! No no no no no!!! It's scary, I don't wanna!"
 
