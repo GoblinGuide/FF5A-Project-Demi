@@ -1,12 +1,9 @@
-???: Arriving in W2
-; event 0x453 starts at offset 0x389bd9
-": This...Lenna: This is Galuf's world...?"
-
-???: Between fights on Pao Island, might as well remove it for the one person who ever farms Tents there
+0xe3: Between fights on Pao Island, might as well remove it for the one person who ever farms Tents there
 ; event 0x480 starts at offset 0x38acab
 "Lenna: Shall we put up a tent and rest for a while?"
 
-???: After using a tent on Pao Island
+
+0xe4: After using a tent on Pao Island
 ; event 0x47b starts at offset 0x38aad3
 "Faris: ...Lenna... There's something I've been wondering about...It was way back when we were onNorth Mountain... Why'd you riskyour life just to save that drake?"
 
@@ -19,11 +16,13 @@
 ; event 0x47e starts at offset 0x38ac5b
 ": Lenna! Faris!!!"
 
+
 ???: If you win the Abductor fight, when you open the chest
 ; event 0x47f starts at offset 0x38ac75
 ": Aughgas!I...I can't feel my legs..."
 
-???: After Abductor fight, giant mirror to Galuf getting items
+
+0xeb: After Abductor fight, giant mirror to Galuf getting items
 ; event 0x481 starts at offset 0x38ace7
 ": Ugh... Where are we?"
 
@@ -85,28 +84,30 @@
 "Galuf: , Lenna, Faris...hold on! I'm coming!"
 
 
-???: Before solo Galuf Gilgamesh fight
+0x25f: Solo Galuf Gilgamesh fight, party gets back together
 ; event 0x496 starts at offset 0x38b1b9
 "Gilgamesh: Who goes there?"
 
-???: after solo Galuf Gilgamesh fight, party gets back together
 ; event 0x497 starts at offset 0x38b1da
 ": Galuf!Galuf: Sit tight and I'll have youout of there in a jiffy."
 
 ; event 0x498 starts at offset 0x38b22f
 "Faris: Thanks, old man.: Sorry for messing up your plans... We just wantedGaluf: Whatever! I'll verballyberate you later, after we'veblown this pop stand!"
 
-???: inexplicably, Bartz eats floor to dodge two dudes Galuf just walked past
+0x36b or 0x36c: inexplicably, Bartz eats floor to dodge two dudes Galuf just walked past
 ; event 0x495 starts at offset 0x38b195
 "Whoa! Better not let them see me."
 
-???: Big Bridge intro
+
+0xee: Big Bridge intro
 ; event 0x4a0 starts at offset 0x38b5e5
 "Galuf: From here on, it's monstersall the way! Stay on your toes!"
 
-???: Gilgamesh behind the door
+
+0x36d: Gilgamesh behind the door
 ; event 0x499 starts at offset 0x38b2ea
 "Gilgamesh: Ha ha! Guess who'sbeen waiting behind this door thewhole time? Yes, it's me!Took you long enough, too... I wasjust getting worried you mighthave gotten lost!Anyway! It's go time!"
+
 
 ???: Midbattle text between Gilgamesh buffing up, if we want to remove it
 ; event 0xaa1 starts at offset 0x3a6eea
@@ -121,7 +122,8 @@
 ; event 0xaa4 starts at offset 0x3a6f3c
 "...NOT! Ha, I lied! Like a rug! Oh, I kill me!"
 
-???: end of the Big Bridge, arrival in middle of nowhere
+
+0x102: end of the Big Bridge, arrival in middle of nowhere
 ; event 0x49a starts at offset 0x38b3bc
 "Galuf: Krile!Krile: Grandpa!The barrierlook out!!!"
 
@@ -142,7 +144,11 @@
 ; event 0x49f starts at offset 0x38b5b0
 "Galuf: Still...it's good to see you again."
 
-???: event from using the free Regole inn, because why not get rid of it
+
+0x521: event from using the free Regole inn, because why not get rid of it
+; event 0x4ac starts at offset 0x38b8a0
+"Well, I'll be! Customers! That is a sightfor sore eyes. Tonight's on the house!"
+
 ; event 0x4ad starts at offset 0x38b8f4
 ": Where'd Galuf go?"
 
@@ -164,13 +170,14 @@
 ; event 0x4b3 starts at offset 0x38bbdc
 "Galuf: ..."
 
-; event 0x4b4 starts at offset 0x38bbef
-"Galuf: Thanks."
-
 ; event 0x4b5 starts at offset 0x38bc04
 ": Hey,don't worry about it."
 
-???: Moogle Forest
+
+0x562: Moogle Forest
+; event 0x4c5 starts at offset 0x38bf92
+"Kupo!"
+
 ; event 0x4c6 starts at offset 0x38bf9a
 "Galuf: What's a moogle doing in aplace like this?: Moogle?"
 
@@ -180,11 +187,16 @@
 ; event 0x4c8 starts at offset 0x38c06c
 "Lenna: Let's help it!"
 
-???: Moogle River, before Tyrannosaur fight
+
+0x5e2: Moogle River, before Tyrannosaur fight
 ; event 0x4c9 starts at offset 0x38c088
 "Lenna: Be careful, Mr. Moogle!"
 
-???: Moogle, after Tyrannosaur fight
+; event 0x4ca starts at offset 0x38c0ad
+"Moogle: Kupo kupo!!!"
+
+
+0x5e3: Moogle, after Tyrannosaur fight
 ; event 0x4cc starts at offset 0x38c0d8
 "Lenna: Oh, you must have been so scared... It's okay now, don't worry. Come closer!Moogle: Kupo..."
 
@@ -197,18 +209,29 @@
 ; event 0x4cf starts at offset 0x38c192
 ": What's going on?Lenna: I think he's asking us tofollow him."
 
-???: Moogle Forest, first chat with moogle
+
+0x57f: Moogle Forest, first chat with moogle
 ; event 0x4d0 starts at offset 0x38c1e2
 "Lenna: Look, it's the moogle we helped!"
 
-???: Moogle Forest, dialogue on using costume
+; event 0x4d1 starts at offset 0x38c212
+"Moogle: Kupo! Kupo!Lenna: Are you thanking us?"
+
+
+0x584: Moogle Forest, dialogue on using costume
 ; event 0x4d3 starts at offset 0x38c2a0
 ": A moogle...costume!?"
 
+
+???: Choice for moogle costume
 ; event 0x4d4 starts at offset 0x38c2c1
 "Try it on?"
 
-???: Moogle Forest exit, aka Bal arrival, it's a big one
+
+0x589: Moogle Forest exit
+; event 0x4d5 starts at offset 0x38c2d0
+"Moogle: Kuku popo!"
+
 ; event 0x4d6 starts at offset 0x38c2e5
 "Galuf: Hmm? What's it doing?"
 
@@ -217,9 +240,6 @@
 
 ; event 0x4d8 starts at offset 0x38c353
 "Soldier: What's happened?Krile: It's Grandpahe's in the moogle village!Soldier: ?Krile: Moogles can all communicate through telepathy.Even when they're far apart, they can keep in contact with their minds...Soldier: The moogle village... That's pretty far from here.Krile: Yes... Plus, the wind drake is too tired to fly."
-
-; event 0x4d9 starts at offset 0x38c4c9
-"Wind Drake: Mrrrrrr..."
 
 ; event 0x4da starts at offset 0x38c4e2
 "Krile: So that means...? I see....Thank you."
@@ -254,6 +274,8 @@
 ; event 0x4e4 starts at offset 0x38c6bc
 "Krile: Grandpa, we should hurryback to the castle!"
 
+
+0x523: Bal Castle arrival
 ; event 0x4e5 starts at offset 0x38c6f7
 "Krile: I'll take the wind drake back to his roost so he can rest, okay?"
 
@@ -287,6 +309,7 @@
 ; event 0x4ef starts at offset 0x38cb28
 "Galuf: Listen upbefore youknew me as a king, you knew me asa friend. Just "Galuf" is fine.: Understood, Just Galuf!Galuf: ...Don't push it, kid. Here inBal, bad jokes like that will getyou PUNished...: *groan*Galuf: Haw haw haw!"
 
+
 ???: talk with Krile on the roof before Quelb
 ; event 0x502 starts at offset 0x38d196
 "Krile: ...Lenna: Krile?"
@@ -311,6 +334,7 @@
 
 ; event 0x509 starts at offset 0x38d5fb
 "Krile: But what about the monsters outside? There are so many of them!Galuf: No worriesnot if we're allon the offensive!: Right!Lenna: Together, we'll be all right.Faris: And we'll bring back thatdragon grass, never you fear!"
+
 
 ???: after leaving Bal, before Abductor fight
 ; event 0x50c starts at offset 0x38d740
