@@ -5,6 +5,7 @@
 ; event 0x237 starts at offset 0x37e2d1
 "The chancellor wishes to speak with you."
 
+
 0x12d: losing Lenna and Faris
 ; event 0x667 starts at offset 0x3950c2
 "Chancellor: Princess Lenna! Princess Sarisa! Welcome home!"
@@ -36,6 +37,7 @@
 ; event 0x670 starts at offset 0x3953cf
 "Krile: , I think you're blushing!: II am not!"
 
+
 0x12e: Krile conversation on the balcony before leaving Tycoon
 ; event 0x679 starts at offset 0x395698
 "Krile: Grandpa...: Krile...how're you holding up?"
@@ -49,9 +51,11 @@
 ; event 0x67c starts at offset 0x3957c5
 ": We're back in my world.There's gotta be a reason for that,right? Let's find out what it is.Krile: ...Okay!"
 
+
 0x12f: going out Tycoon's gate after balcony
 ; event 0x67d starts at offset 0x395846
 "Krile: What about the girls?: No way they can slip away, so..."
+
 
 0x132: bridge and Boko conversation at Tycoon exit
 ; event 0x680 starts at offset 0x39590d
