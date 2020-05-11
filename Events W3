@@ -5,7 +5,7 @@
 ; event 0x237 starts at offset 0x37e2d1
 "The chancellor wishes to speak with you."
 
-???: losing Lenna and Faris
+0x12d: losing Lenna and Faris
 ; event 0x667 starts at offset 0x3950c2
 "Chancellor: Princess Lenna! Princess Sarisa! Welcome home!"
 
@@ -36,7 +36,7 @@
 ; event 0x670 starts at offset 0x3953cf
 "Krile: , I think you're blushing!: II am not!"
 
-???: Krile conversation on the balcony before leaving Tycoon
+0x12e: Krile conversation on the balcony before leaving Tycoon
 ; event 0x679 starts at offset 0x395698
 "Krile: Grandpa...: Krile...how're you holding up?"
 
@@ -49,11 +49,11 @@
 ; event 0x67c starts at offset 0x3957c5
 ": We're back in my world.There's gotta be a reason for that,right? Let's find out what it is.Krile: ...Okay!"
 
-???: going out Tycoon's gate after balcony
+0x12f: going out Tycoon's gate after balcony
 ; event 0x67d starts at offset 0x395846
 "Krile: What about the girls?: No way they can slip away, so..."
 
-???: bridge and Boko conversation at Tycoon exit
+0x132: bridge and Boko conversation at Tycoon exit
 ; event 0x680 starts at offset 0x39590d
 "Oh, sorry! I was just rushing over to tell everyone the bridge over the west riveris complete!"
 
@@ -68,7 +68,7 @@
 
 
 
-???: can we always-trigger the gentleman in the Sealed Castle having moved and shown you the pot, it's this line of dialogue
+0x6d3: can we always-trigger the gentleman in the Sealed Castle having moved and shown you the pot, it's this line of dialogue
 ; event 0x850 starts at offset 0x39e897
 "Here. We brought some water from the recovery spring in the Wind Shrine."
 
