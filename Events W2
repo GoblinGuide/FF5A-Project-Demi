@@ -608,6 +608,20 @@
 "Galuf: Thank you!"
 
 
+0x138: Surgate cutscene, entering after Xezat and Galuf's deaths
+; event 0x583 starts at offset 0x3905b4
+"Chief Guard: And you are...?Lenna: We were allies of King Xezat. Unfortunately... I am truly sorry to have to say this.The king has fallen.Chief Guard: The king is!...I see.And Lord Galuf as well..."
+
+; event 0x584 starts at offset 0x390699
+": Xezat gave his life to save ours..."
+
+; event 0x582 starts at offset 0x39053a
+"Chief Guard: Take any weapon within the castle that you desire. Without the king, there is no one else to use them."
+
+; event 0x57e starts at offset 0x3903fe
+"Chief Guard: Please, take anything within the castle that might help you."
+
+
 0x114: landing on the Surgate boat
 ; event 0x5ac starts at offset 0x391131
 "Xezat: That wind drake..."
