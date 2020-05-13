@@ -71,10 +71,739 @@
 ": Geez, I can't win against this kid..."
 
 
+0x623: Meeting Boko and Koko
+; event 0x684 starts at offset 0x395aec
+": Boko!Boko: Kwehhh!!!"
+
+; event 0x685 starts at offset 0x395b13
+"Krile: Hello! I'm Krile!"
+
+; event 0x686 starts at offset 0x395b32
+": Huh?You speak chocobo, too?"
+
+; event 0x687 starts at offset 0x395b5a
+"Krile: Just a little. I think he wants to introduce us to someone."
+
+; event 0x688 starts at offset 0x395ba5
+"Krile: Huh? For real? This is his wife! Her name's Koko.: Boko! You stud, you!"
+
+; event 0x689 starts at offset 0x395c06
+": Listen, Boko, I've got a favor to ask...Boko: Kweh!Krile: He says he already knows.: Wha?Krile: He says you're leaving onanother journey, right?: Boko, is that okay? I know you got the little woman and all..."
+
+; event 0x68a starts at offset 0x395d17
+": What's he saying?Krile: He says that he loves her...: Slick!Krile: ...And that while he's away, to take care of the babies...: Babies!?"
+
+; event 0x68b starts at offset 0x395dd1
+"Krile: Koko has little ones onthe way!She says she'll be waiting here for him."
+
+; event 0x68c starts at offset 0x395e2e
+": Koko...thanks! Don't worry, we'll come back safe!Koko: Kweh!"
+
+
+0x626: Antlion
+; event 0x695 starts at offset 0x396103
+": Ow!!!Krile: If you hadn't been riding so fast..."
+
+; event 0x696 starts at offset 0x396148
+": ...Boko! I say this's all your fault!Boko: Kweh kweh kweh!"
+
+; event 0x697 starts at offset 0x396197
+"Krile: Don't take it out on him, there's nothing he could've done!"
+
+; event 0x698 starts at offset 0x3961e2
+"Krile: ! What's that?"
+
+; event 0x699 starts at offset 0x396200
+": Stuck in a monster's nest... Great, just great.Krile: I don't think it's very greatat all. Now what'll we do?Boko: Kweh..."
+
+
+0x62b: Faris to the rescue
+; event 0x69a starts at offset 0x396299
+"Do you promise never to try and pull something like that again?"
+
+; event 0x69b starts at offset 0x3962dd
+"Willing to admit you were wrong to tryand make it without me? Heh heh heh..."
+
+; event 0x69c starts at offset 0x39632e
+"Come on, get up here!"
+
+; event 0x69d starts at offset 0x396346
+": Faris!"
+
+; event 0x69e starts at offset 0x396357
+"Faris: Which one of you decided to maroon me back there!?"
+
+; event 0x69f starts at offset 0x396399
+"Faris: Try it again and you'll swing from a yardarm!"
+
+; event 0x6a0 starts at offset 0x3963d6
+": But...what happened? Why'd you come after us?Faris: I'm just not cut out for being a princess, I'm afraid. Pirating's much more my style."
+
+; event 0x6a1 starts at offset 0x396478
+"Krile: Ouch!"
+
+; event 0x6a2 starts at offset 0x39648b
+": What's wrong?Krile: Owie, I think I got a splinter... Don't worry about it."
+
+; event 0x6a4 starts at offset 0x3964ff
+"               Faris joined the party!"
+
+
+0x68: TURTLE!!!
+; event 0x6a5 starts at offset 0x39652a
+": Ghido!?"
+
+; event 0x6a6 starts at offset 0x39653c
+": Alley-oop!"
+
+; event 0x6a7 starts at offset 0x396551
+"Ghido: Oh! Thank you! I suppose you can be helpful after all.The shock of the two worlds merging sent everything topsy-turvy...including me!I'm a bit too old to do much on my back,I rue."
+
+; event 0x6a8 starts at offset 0x39661c
+": What do you mean, "worlds merging"?Ghido: I see you're just as slow on the uptake as before. It's an ancient legend, but I had never imagined it was true..."
+
+; event 0x6a9 starts at offset 0x3966cd
+"Ghido: According to legend, a thousand years ago, 's world and Krile'sworld were one and the same.: The same!?Ghido: It seems there is quite the echo in here.: But...why did the worlds split?Ghido: To seal the Void.: Void...?Ghido: I fear no matter how often I alludeto your ignorance, my dry wit just goesover your head, so I will simply explain."
+
+; event 0x6aa starts at offset 0x396863
+"Ghido: One thousand years ago, there existed a presence of the strongest evil, Enuo.Enuo possessed the power to control the Void.After a long and harrowing battle, the people were able to defeat Enuo with the twelve legendary weapons...However, the Void that Enuo had created could not be erased.As a last resort, the people split the crystals into two. To maintain balance, the world split into two as well.The Void was sealed within the spacebetween the two worldsthe "interdimensional rift.""
+
+; event 0x6ab starts at offset 0x396a7e
+": That means Exdeath was telling the truth...He really did want to return theworld to how it used to be...Ghido: However, without the crystals...: The wind's power will never return...Ghido: Nor will that of the earth, fire,or water."
+
+; event 0x6ac starts at offset 0x396b8e
+"Krile: Ouch! Ooh, this splinter really hurts..."
+
+; event 0x6ad starts at offset 0x396bc6
+": Exdeath!?Exdeath: Mwa-hahahaha...I turned myself into a tiny splinter, waiting for just this moment!Now you can understand my true goal: to take the sealed power of the Void for my own!: What!?Exdeath: Why do you think I merged the worlds together? Mwa-hahahahahahaha!!!"
+
+; event 0x6ae starts at offset 0x396d09
+"Ghido: Ohh...now that the two worlds areone, the interdimensional rift the Voidwas sealed within is appearing as well!Faris: Waitso in plain English, you're saying that this Void whatevernot is coming here?Exdeath: Yes... The Void shall be released from its thousand year prison and into my keeping!The matchless power of the Void will be mine!"
+
+; event 0x6af starts at offset 0x396e88
+": Not a chance, Exdeath!"
+
+; event 0x6b0 starts at offset 0x396eab
+"Krile: Castle Tycoon...Faris: Lenna!"
+
+; event 0x6b1 starts at offset 0x396ede
+"Exdeath: Beautiful...beautiful! Look! Gaze upon the unlimited power of the Void; watch as it engulfs all in itspath! And soon, it will belong tome!"
+
+; event 0x6b2 starts at offset 0x396f84
+"Faris: Lenna... Exdeath, you...!"
+
+; event 0x6b3 starts at offset 0x396fad
+"Exdeath: Peons! Tremble before my might! Mwa-hahahahaha!"
+
+; event 0x61e starts at offset 0x393c9f
+"Exdeath: Time for your viscerato see the light of day! Now die!"
+
+; event 0x6b4 starts at offset 0x396fee
+"Exdeath: Turtle!"
+
+; event 0x6b5 starts at offset 0x397005
+"Exdeath: ...Not bad, for a reptile!Ghido: You think I sat around seven centuries munching on pizza?Exdeath: Ha ha ha... Perhaps you should have taken the chance...You shall find no such tastydiversions in the afterlife!"
+
+; event 0x6b3 starts at offset 0x396fad
+"Exdeath: Peons! Tremble before my might! Mwa-hahahahaha!"
+
+
+0x73f: After TURTLE!!!
+; event 0x86c starts at offset 0x39f1c5
+"Ghido: Ohhh, my aching...: Ghido! You okay!?"
+
+; event 0x86d starts at offset 0x39f1fe
+"Ghido: Exdeath, that cur... He must be stopped before he obtains the full power of the Void, orHmm?"
+
+; event 0x86e starts at offset 0x39f26e
+"Ghido: By Jove, what's that!?: Just the Library of the Ancients...Ghido: THE fabled Library of the Ancients? My dear boy, have you anyidea what an important place that is!?Oh, of course you don't...To think that the Library of theAncients was here the whole time..."
+
+; event 0x86f starts at offset 0x39f396
+"Ghido: Follow close, children! Within the Library is a book which describes how to defeat Exdeath!"
+
+; event 0x870 starts at offset 0x39f3ff
+"Scholar: Sage Ghido!Ghido: Oho, scholars from Surgate.Scholar: We've been able to find the second half of the Sealed Tome!Ghido: Perfect!"
+
+; event 0x871 starts at offset 0x39f499
+"Ghido: Now, let us begin the strategy meeting!"
+
+; event 0x872 starts at offset 0x39f4cc
+"Ghido: As you have probably noticed, the two worlds have recombined into one.Also, the Void is trying to break freefrom where it has been sealed withinthe Rift!: Then we'd better hurry there and stop it!"
+
+; event 0x873 starts at offset 0x39f5b0
+"Ghido: , , ...so enthusiastic and yet so stupid.Along with the Void, many fearsome monsters were sealed in the Rift a millennium ago.They are all incredibly evil, and incredibly strong. I feel safe in saying that as you are now, you kids wouldn't stand a chance.: Then, what do we do?Ghido: Elementary, my dear ; the legendary weapons used to defeatthe warlock Enuo a thousand years ago!: Legendary weapons?"
+
+; event 0x874 starts at offset 0x39f784
+"Ghido: Sometimes I wonder if you say things like this to spite me...Yes, the twelve legendary weapons. They are weapons. They are legendary. There are even twelve of them. Now that we have both halves of theSealed Tome, if all goes according to legendand I'm certain it willthe book will show us the way."
+
+; event 0x875 starts at offset 0x39f8cf
+": The book...!?Ghido: It is written: 'When Nothing's power again does peak,To Light Warriors this book shall speak.'            The book begins to speak..."
+
+; event 0x876 starts at offset 0x39f981
+"After Enuo's defeat, the weapons oflegend were sealed within the CastleKuza.To break the seals, the four tabletsmust be assembled.One restsalongside spirits of the past,blessed by the soil...One restswithin an island shrine,kissed by wind...One restsbeneath the ocean's floor,engulfed by flames...One restsbeyond the river's torrents,protected by water...Along with the keys to open the sealsthe four tabletsare sealed ourservants.If the tablets are moved, our servantswill awaken...The ultimate spells of white and black...The magic of time and space, Meteor...The sea king, Leviathan...and the dragon king, Bahamut...Present this book unto the gate and the way to the seals will be opened..."
+
+; event 0x877 starts at offset 0x39fc87
+"                Received Sealed Tome!"
+
+; event 0x878 starts at offset 0x39fcb1
+"Ghido: Gounseal the twelve legendary weapons before Exdeath gains the power of the Void!We are all counting on you."
+
+; event 0x879 starts at offset 0x39fd31
+"Ghido: Go and find the first tablet... Blessed by the soil and the spirits ofthe past...Eureka! It must be the pyramid in the Desert of Shifting Sands!Faris, Krile...and even you, .You must go at once! The future of the world depends on it!"
+
+
+0x746: Forest of Moore
+; event 0x6c1 starts at offset 0x3974aa
+": The Guardian Tree...Faris: The forest is beginning tocome back to life..."
+
+; event 0x6c2 starts at offset 0x397508
+"Krile: Grandpa... Why can't Grandpa come back to life?"
+
+; event 0x6c3 starts at offset 0x397547
+"Faris: Lenna...Papa..."
+
+; event 0x6c4 starts at offset 0x397564
+": So many lives have been lost..."
+
+; event 0x8a7 starts at offset 0x3a0efd
+"Krile: We must stop Exdeath.The people around the world need us... No, not only the people, but all life...Faris: Aye...so many sacrifices have been made already... I won't stand by while more lives are lost!: Let's go...so there won't be any more sacrifices."
+
+
+0xb1: Shifting Sands Desert
+; event 0x6d7 starts at offset 0x397a24
+": The sand stopped moving!"
+
+; event 0x6d8 starts at offset 0x397a49
+"Krile: I guess now that both sets of crystals have shattered, there's not enough power in the earth for it to move...Faris: Even the ground is getting unstable..."
+
+
+0x3d8: Pyramid door
+; event 0x6d9 starts at offset 0x397b04
+"Krile: Lookthe Sealed Tome!"
+
+; event 0x6da starts at offset 0x397b28
+"Blessed by the soilAnd the spirits of old,One tablet rests..."
+
+
+0x3f4: Pyramid tablet
+; event 0x6db starts at offset 0x397b6c
+"                    The first tablet!"
+
+; event 0x20b starts at offset 0x37d601
+": Holy moly!What's going on!?"
+
+; event 0x6dc starts at offset 0x397b96
+"Krile: Look, something's written on the tablet. "The Dragon King, Bahamut..." ...Huh?"
+
+; event 0x6dd starts at offset 0x397bf8
+"Krile: The peninsulait's sinking!"
+
+; event 0xf0 starts at offset 0x376d64 (...maybe?)
+": Incoming!"
+
+; event 0x6de starts at offset 0x397c22
+"Bahamut: I will await thee at the summitof North Mountain..."
+
+; event 0x6df starts at offset 0x397c63
+"Faris: Look! 'Tis the airship!"
+
+
+0x744: Melusine
+; event 0x6c5 starts at offset 0x397590
+"Krile: Listena wind drake!"
+
+; event 0x6c6 starts at offset 0x3975b3
+"Faris: Lenna!"
+
+; event 0x6c7 starts at offset 0x3975c7
+": Lenna! Are you okay?Come on, wake up, say something!Lenna: ... ... ...This body is mine!!!"
+
+; event 0x6c8 starts at offset 0x39763e
+"Faris: Lenna!!!: What the"
+
+; event 0x6c9 starts at offset 0x39766a
+"Beast sealed between dimensions for amillennium... Go forth, Melusine!"
+
+; event 0x6ca starts at offset 0x3976b5
+": Exdeath!!!"
+
+; event 0x6cb starts at offset 0x3976ca
+"Exdeath: Mwa-ha-ha! All that was once sealed in the Rift is nowmine to command!"
+
+; event 0x6cc starts at offset 0x397724
+": Ghk...Faris: Lenna...stop, please...Krile: Lenna..."
+
+; event 0x6cd starts at offset 0x397772
+"Exdeath: Mwa-hahahaha! Face destruction at your friend's hands!"
+
+; event 0x6ce starts at offset 0x3977ba
+": Exdeath!Exdeath: Mwa-ha-ha... Now,watch as I take care of a turtleinfestation!"
+
+; event 0x6cf starts at offset 0x39781f
+"Exdeath: Soon...very soon!The power of the Void willcompletely be mine, and the entireearth will kneel before me!Mwa-hahahahahaha!!!"
+
+; event 0x6d0 starts at offset 0x3978b6
+": Le...Lenna... Stop..."
+
+; event 0x6d1 starts at offset 0x3978d4
+"     Sacrificing itself, Hiryu attacked!The demon is expelled from Lenna's body!"
+
+; event 0x6d2 starts at offset 0x39792f
+": Now!"
+
+; event 0x6d3 starts at offset 0x39793e
+": Lenna!"
+
+; event 0x6d4 starts at offset 0x39794f
+"Lenna: ... I..."
+
+; event 0x6d5 starts at offset 0x397967
+"Faris: Lenna!!!Lenna: Sister... Krile...The castle...We were...the darkness...itFaris: We know. Don't try to speak."
+
+; event 0x6d6 starts at offset 0x3979f9
+"               Lenna joined the party!"
+
+
+0x74f: Goodbye a bunch of towns
+; event 0x88c starts at offset 0x3a062c
+"Exdeath: Prisoners of thisspace between dimensions...Hear me, my servants!"
+
+; event 0x88d starts at offset 0x3a0681
+"Exdeath: Warriors led by the light of the crystals seek the ancient tablets...Seek them out and kill them! They must not be allowed toobtain the fabled weapons thatdestroyed Enuo..."
+
+; event 0x88e starts at offset 0x3a074d
+"Let us go, sire!Exdeath: Very well. Go now, my monsters! Destroy them while I obtain the full power of the Void! Mwa-hahahaha!"
+
 
 0x6d3: can we always-trigger the gentleman in the Sealed Castle having moved and shown you the pot, it's this line of dialogue
 ; event 0x850 starts at offset 0x39e897
 "Here. We brought some water from the recovery spring in the Wind Shrine."
 
 
-TODO: all the rest of W3, obviously
+0x3ff: Sealed castle seals
+; event 0x6e0 starts at offset 0x397c88
+": The tablet!"
+
+; event 0x6e1 starts at offset 0x397ca0
+"If breaking the seals is what you seek,Approach the one you'd have and speak.But once three seals have been erased,The tablet leaves only dust in its place."
+
+; event 0x6e2 starts at offset 0x397d47
+": Three seals... That means we can only pick three out of the twelve weapons."
+
+
+0x6a2: Island Shrine door
+; event 0x7a6 starts at offset 0x39b332
+"Within an island shrineKissed by windOne tablet rests..."
+
+
+0x6b0: Wendigo (shrine tablet)
+; event 0x898 starts at offset 0x3a09ea
+"I was excited by the thought of what warriors could have made it this far...But to think, it's only a group of little girls!Ha ha ha!Sorry, ladies...I will send you all to your graves!"
+
+; event 0x7a7 starts at offset 0x39b371
+"                   The second tablet!"
+
+; event 0x7a8 starts at offset 0x39b39b
+"The gate to Fork Tower, resting place of the strongest white and black magic spells, has opened!"
+
+; event 0x7a9 starts at offset 0x39b402
+"Krile: There's something written on the tablet...'The twin houses of the strongest of magics, Fork Tower...If the two houses are not traversed and spells removed as one, both shall be destroyed, and the tower rent asunder...'"
+
+
+0x67f: Fork tower door
+; event 0x784 starts at offset 0x39aa22
+"Krile: If the spells aren't takenfrom both towers at the same time,the towers explode, right?"
+
+; event 0x785 starts at offset 0x39aa8a
+": Guess we'd better split up, then..."
+
+; event 0x786 starts at offset 0x39aaba
+"Split the party into two groups.Which side will  go to?"
+
+
+0x69d: Switch party
+; event 0x795 starts at offset 0x39ad39
+"If we don't take it quick, the wholetower will blow!"
+
+
+0x69c: Minotaur
+; event 0x78c starts at offset 0x39abd2
+"We have to take it at exactly the sametime..."
+
+; event 0x78d starts at offset 0x39ac04
+"Take it right when I do!"
+
+; event 0x78e starts at offset 0x39ac1f
+"Got it!"
+
+; event 0x790 starts at offset 0x39ac55
+"        Obtained the white magic Holy!"
+
+
+0x69e: Omniscient
+; event 0x78f starts at offset 0x39ac29
+"        Obtained the black magic Flare!"
+
+; event 0x791 starts at offset 0x39ac80
+"The tower...It's disappearing!"
+
+
+0x49d: Submarine
+; event 0x7c3 starts at offset 0x39bba6
+"Cid: Oo-err!My head's spinning..."
+
+; event 0x7c4 starts at offset 0x39bbd0
+"Mid: Grandpa! You okay?Cid: I think I'm going to be sick... But first, the good news:Cid: While researching, we found acouple more techniques...So, we can upgrade the airshipwith submarine functionality!: Really!?"
+
+; event 0x7c5 starts at offset 0x39bcd0
+"Cid: Of course! Nothing's impossible for me!"
+
+; event 0x442 starts at offset 0x3896e8
+"Cid: Come on, Mid!Mid: Yeah!"
+
+; event 0x7c6 starts at offset 0x39bd05
+"Mid: Shouldn't take much longer.Krile: Wow, you two really work hard.Mid: ... Grandpa blames himself for the world having ended up like this..."
+
+; event 0x7c7 starts at offset 0x39bdb3
+"Krile: But... I mean, it's not like there's anything he could'vedone...Mid: I know that... I think deepdown, he knows it too. But that's why this time, he's so driven to see his machines usedfor peace."
+
+; event 0x7c8 starts at offset 0x39be99
+"Cid: And that should do it!"
+
+; event 0x7c9 starts at offset 0x39bebb
+"Cid: Once you're in the water, press  then the A Button,and the undersea world is yours!"
+
+; event 0x441 starts at offset 0x3896bf
+": Thanks for everything, guys."
+
+; event 0x7ca starts at offset 0x39bf20
+"Cid: ... I can't fight for beans.In fact, about all I'm good at is modifying machinery.Cid: Even so, I've tried to do everything I can to help you out. The rest is in your hands..."
+
+; event 0x7cb starts at offset 0x39bff5
+": Come on, guys!"
+
+; event 0x7cc starts at offset 0x39c00e
+"Lenna: We can travelunderwater now, right?"
+
+; event 0x7cd starts at offset 0x39c041
+"Faris: Aye. Now we can search forthe tablet underneath the waves..."
+
+; event 0x7ce starts at offset 0x39c08d
+"Krile: Mid... Take good care of your grandpa."
+
+; event 0x7cf starts at offset 0x39c0c3
+"Mid: You guys take care, too!"
+
+; event 0x3cb starts at offset 0x386dc4
+": No point in dawdling... Let's go!"
+
+
+0x3e9: Trench door
+; event 0x7aa starts at offset 0x39b4fa
+"Deeper than the bottom of the seaYet enveloped by flamesOne tablet rests..."
+
+
+0x49c: Triton, Nereid, Phobos (trench tablet)
+; event 0x7ae starts at offset 0x39b5f0
+"Oink oink..."
+
+; event 0x7af starts at offset 0x39b5ff
+"Exdeath sent us...oink!"
+
+; event 0x7b0 starts at offset 0x39b619
+"Told us to kill you, oink oink!"
+
+; event 0x7b1 starts at offset 0x39b63b
+"Orders, you know, nothing personal, oink!"
+
+; event 0x7b2 starts at offset 0x39b667
+"Oink oink ooooink!!!"
+
+; event 0x7ab starts at offset 0x39b54c
+"                    The third tablet!"
+
+; event 0x7ac starts at offset 0x39b576
+"Something is written on the tablet..."
+
+; event 0x7ad starts at offset 0x39b59e
+"   Received the magic sealed in the flow                    of magma, Meteor!"
+
+
+0x6c7: Istory falls door
+; event 0x7b3 starts at offset 0x39b67e
+"Protected by waterBeyond its falling torrentsOne tablet rests..."
+
+
+0x6c9: Istory falls tablet
+; event 0x7b4 starts at offset 0x39b6c5
+"                   The fourth tablet!"
+
+
+0x6ca: Some random guy
+; event 0x7b8 starts at offset 0x39b82b
+"That tablet...you'll hand it over to me!"
+
+; event 0x7b9 starts at offset 0x39b85a
+"Once Lord Exdeath gains the power of the Void, he'll create a world for usmonsters! I won't let you interfere!"
+
+; event 0x7b5 starts at offset 0x39b6ef
+"The beast was destroyed by Leviathan!"
+
+
+0x6cc: Leviathan
+; event 0x7b6 starts at offset 0x39b717
+"Leviathan: The power of my waters... Strong enough to wash away all sins and make all things pure...But only to those with the ability to fight the Void will I award this power!"
+
+; event 0x7b7 starts at offset 0x39b7d5
+"        Received the summoned monster                                  Leviathan!"
+
+
+0x3a5: Bahamut
+; event 0x7bc starts at offset 0x39b914
+"Bahamut: You who have broken the seal... If you can best me in battle, I shall award you my power!"
+
+; event 0x7bd starts at offset 0x39b97d
+"        Received the summoned monster                                    Bahamut!"
+
+
+0x46c: Walse tower door
+; event 0x7be starts at offset 0x39b9d3
+": *glub glub glub!*Gah! I can probably hold my breath...*glub glub*But only for about 7 minutes!"
+
+
+0x489: Walse tower chest
+; event 0x7bf starts at offset 0x39ba44
+": *gasp!*Hahh...hahh...Okay, got another 7 minutes."
+
+
+???: Gogo
+; event 0x7c0 starts at offset 0x39ba84
+"It has taken the first two acts, but now,the amazing power of this crystal shardis within my competent grasp.I shan't allow you to take it, so turn back and begone!"
+
+; event 0x7c1 starts at offset 0x39bb35
+"Tsk tsk tsk...Then let the curtain rise!"
+
+; event 0x7c2 starts at offset 0x39bb62
+"                              Mime     
+
+
+0x65c: Hiryu/Phoenix
+; event 0x775 starts at offset 0x39a5a4
+"Lenna: Hiryu!"
+
+; event 0x776 starts at offset 0x39a5b8
+"Krile: Is this the wind drake thatsaved you?"
+
+; event 0x777 starts at offset 0x39a5ed
+"Lenna: Hiryuwhat are you doing!?Krile: He says he wants to help you..."
+
+; event 0x779 starts at offset 0x39a665
+"Lenna: Hiryu!!!"
+
+; event 0x77a starts at offset 0x39a67b
+"Krile: Lenna...Hiryu knew he didn't have much longer to live...Lenna: That means... In the ancient forest, when he saved meKrile: It seems he came to this tower so he could help you with the last of his power...Lenna: Hiryu..."
+
+; event 0x77b starts at offset 0x39a78a
+"The wind drake Hiryu became a phoenix!The phoenix entrusted its power and itssoul to Lenna.Received the summoned monster Phoenix!"
+
+; event 0x77c starts at offset 0x39a818
+"Lenna: Hiryu......Thank you..."
+
+
+0x7: Hiryu flashback (text 0x262 is missing?)
+ event 0x25d starts at offset 0x37f2ba
+"Lenna: ...What do you mean,Mother's not going to make it?"
+
+; event 0x25e starts at offset 0x37f2fc
+"King Tycoon: Dear, the doctor didhis best...It seems the only thing that can cure her is a wind drake's tongue..."
+
+; event 0x25f starts at offset 0x37f37a
+"King Tycoon: Lenna!Where are you going with thatknife!? ...Certainly you don't mean to"
+
+; event 0x260 starts at offset 0x37f3e3
+"King Tycoon: Stop!"
+
+; event 0x261 starts at offset 0x37f3fc
+"Jenica: Sire, I'll go."
+
+; event 0x263 starts at offset 0x37f4e4
+"Jenica: Princess... Your father used tocome here every day, debating what todo.But...perhaps it's for the best."
+
+
+0x7a2: GBA extra jobs
+; event 0x94d starts at offset 0x3a45ae
+"Heya! I'm a traveling merchant...eversearching the world for rare andwonderful items. Recently my ship was caught in a bigstorm, and I washed up here... On the bright side, a mysterious cavern under the sea is just bound to be full ofgreat loot, or so I figured..."
+
+; event 0x94e starts at offset 0x3a46c9
+"Hmm? Oh, you kids have got those crystal fragments, eh? That's the rarest of the rare. Ohh, and it seems you don't even understand what powers are hiddeninside those shards, huh..."
+
+; event 0x94f starts at offset 0x3a478c
+"All righty then, I'll tell you!First are oracles.They have the power to Predict, foretelling helpful or harmful phenomena that will happen to themselves or thosearound them.Earthquakes. Tsunami. Illness. All ofthese can be predicted and be made tobefall enemies...but be careful, sometimes they'll affect the oracle himself.As for the necessary conditions to sparkeach phenomenon...well, that's somethingyou'll just have to find out for yourself.Predictions come in three ranks. Higherranks take longer to come true, but havemuch more drastic effects.It's like they say, good things come tothose who wait, right?Anyway, after a little practiceand maybe a little luckeffectively using Predict will be a breeze."
+
+; event 0x950 starts at offset 0x3a4a8e
+"Next we've got gladiators. Gladiators fight like they were born with a blade in their hands.Between their Bladeblitz technique and their Finishers, they've got the powerto take down almost any foe."
+
+; event 0x951 starts at offset 0x3a4b64
+"Last but not least, the cannoneers.These explosives experts use their ability to Combine to always get themost bang for their buck.Combine lets cannoneers put togetherammunition with various other items tocause different effects.There are three types of ammo: Buckshot, Blastshot, and Blitzshot. Try combining different ammo withdifferent items, and see what happens!Actually, I'd love to help you guys getstarted by selling you some ammo rightnow...but I'm all sold out.How 'bout this: I'll go talk to my supplier,and then I'll be more than happy to help you with all your ammunition needs! I'm always on the go, so look for me whenyou're in towns or castles.I'm usually lurking around the equipment shops...gotta keep tabs on the competition!I hope this is the beginning of a beautifuland profitablerelationship. See you around!"
+
+
+0x738: Rift door
+; event 0x88f starts at offset 0x3a07dc
+"For a thousand years, we have beensealed in the Rift..."
+
+; event 0x890 starts at offset 0x3a0818
+"Once Exdeath obtains the power of the Void, our new worlda world of darknesswill be born!"
+
+; event 0x891 starts at offset 0x3a087c
+"You've been a thorn in Lord Exdeath's side for long enough! The Void will be your burial ground! Bwahahahah!"
+
+
+0x713: Calofisteri
+; event 0x85a starts at offset 0x39ec40
+"Calofisteri: These woods are so peaceful. Why don't you rest here...  ...FOR ALL ETERNITY!"
+
+
+0x6fa: Apanda
+; event 0x858 starts at offset 0x39eafc
+"Apanda: To be honest, I never thought you'd make it this far...No matter; soon I shall rid you of your pitiful lives!The instant you touched this book, you activated the dimensional switch!"
+
+
+???: Azulmagia
+; event 0x892 starts at offset 0x3a08ef
+"Halt! Are you the ones who bear the crystal shards?"
+
+; event 0x893 starts at offset 0x3a0929
+"I see...Then you have no business here."
+
+; event 0x894 starts at offset 0x3a0955
+"I see..."
+
+; event 0x895 starts at offset 0x3a0960
+"Then this shall be your burial ground!"
+
+
+0x753: Catastrophe
+; event 0x854 starts at offset 0x39e9ce
+"Thank you, I've been locked down here for ages! Let me show you my appreciation...*smooch*"
+
+
+0x752: Halicarnassus
+; event 0x855 starts at offset 0x39ea33
+"You can run, but you can't hide..."
+
+; event 0x856 starts at offset 0x39ea58
+"You received my kiss of death!"
+
+; event 0x857 starts at offset 0x39ea79
+"C'mere, I'll treat you right......Treat you to a slow death at thehands of the master of this castleI,Halicarnassus!"
+
+
+0x70a: Twintania
+; event 0x859 starts at offset 0x39ebca
+"Twintania: That's as far as you go...Beyond is where the power of the Void is contained. You shall not enter!"
+
+
+0x70e: Necrophobe
+; event 0x85b starts at offset 0x39eca3
+"Necrophobe: This light...I will never give it to you!"
+
+
+0x73c: Neo Exdeath (NED)
+; event 0x85f starts at offset 0x39edbb
+"Exdeath: It took you long enough! But now you are too late!"
+
+; event 0x860 starts at offset 0x39edff
+"Exdeath: Mwa-ha-ha...Finally, it is in my grasp!The greatest power known to man...the power to control the universe! The power of the Void!!!"
+
+; event 0x8a4 starts at offset 0x3a0dd2
+"Exdeath: I will crush all who stand in my way! I think I'll begin with your precious "friends"!I hope you'll enjoy watching your companions be sucked into the Void!!!"
+
+; event 0x8a5 starts at offset 0x3a0e8b
+": Stop it! Let them go!!!"
+
+; event 0x861 starts at offset 0x39ee9d
+"Exdeath: Mwa-haha...And now you too will meet yourend, inside the Void!!!"
+
+; event 0x862 starts at offset 0x39eef1
+"!Stand up!"
+
+; event 0x863 starts at offset 0x39ef02
+": ...Dad?"
+
+; event 0x864 starts at offset 0x39ef14
+": Xezat! Kelger!"
+
+; event 0x865 starts at offset 0x39ef2d
+"Krile: Grandpa!: Galuf!"
+
+; event 0x866 starts at offset 0x39ef55
+"Galuf: Enter the Dawn Warriors!"
+
+; event 0x867 starts at offset 0x39ef7b
+"Galuf: ! Lenna! Faris! Krile!We'll hold off the Void. You kids take care of Exdeath!The only ones who can save the world from the power of darkness are the warriors of light!That's you! Now, go!!!"
+
+; event 0x868 starts at offset 0x39f05c
+"Exdeath: What!? Why is the power of the Void disappearing!?No mattertake this!"
+
+; event 0x869 starts at offset 0x39f0b7
+"Lenna: Father!Faris: Papa!"
+
+; event 0x86a starts at offset 0x39f0e0
+"Dorgann: Now! Galuf: This is it!Xezat: Take your chance... Kelger: Destroy Exdeath!King Tycoon: Onward,Light Warriors!!!"
+
+
+0x78a: Actually fighting NED/Cactuar
+; event 0x86b starts at offset 0x39f181
+": Exdeath! You'd better get ready, 'cause here we come!!!"
+
+
+0x69: Ending beginning (LOL)
+; event 0x6e5 starts at offset 0x397df9
+": The Void is still here...Krile: Butbut we beat Exdeath!"
+
+; event 0x6e6 starts at offset 0x397e4f
+"Lenna: Is it because the crystalsare all gone? Faris: The world will be engulfed by the Void..."
+
+; event 0x6e7 starts at offset 0x397ec9
+"               Hope, bless the earth..."
+
+; event 0x6e8 starts at offset 0x397ef9
+"             Courage, light the fires..."
+
+; event 0x6e9 starts at offset 0x397f2a
+"                           Devotion,         breathe life into the waters..."
+
+; event 0x6ea starts at offset 0x397f7f
+"                            Passion,        spread knowledge on the winds..."
+
+; event 0x6eb starts at offset 0x397fd4
+": The world...it's being reborn... "
+
+; event 0x6ec starts at offset 0x398006
+"Lenna: And the crystals as well..."
+
+; event 0x6ed starts at offset 0x398035
+": There was still power remaining in the crystal shards."
+
+; event 0x6ee starts at offset 0x39807c
+"Krile: Thank goodness..."
+
+; event 0x6ef starts at offset 0x39809f
+": Lenna... Faris... Krile...It's because you took such goodcare of the shards..."
+
+; event 0x6f0 starts at offset 0x398106
+"Lenna: Don't forget yourself,. "
+
+; event 0x6f1 starts at offset 0x398134
+"Krile: Or Grandpa!"
+
+; event 0x6f2 starts at offset 0x398151
+"Lenna: Now, wind will return toTycoon... King Tycoon: Correct, my dear. "
+
+; event 0x6f3 starts at offset 0x3981b2
+": Dad...Krile: Grandpa...Lenna: Father... Faris: Papa...: Kelger, and Xezat..."
+
+; event 0x6f4 starts at offset 0x39823f
+"King Tycoon: The world still needs you.Galuf: It's too early for you kids to be meeting us!Dorgann: Go, return to your world...the one you saved! "
+
+*A bunch of branching path ensues that I can't be bothered to look at*
